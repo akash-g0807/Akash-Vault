@@ -1,0 +1,1 @@
+- LECTURE 1: [[Drawing 2023-09-22 20.00.25.excalidraw]]

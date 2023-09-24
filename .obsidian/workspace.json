@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e0725af732a92ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START PAGE.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+                "file": "START PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+                "file": "START PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md"
+                "file": "START PAGE.md"
               }
             }
           },
@@ -156,20 +170,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3fb07fabad84e87c",
+  "active": "7e0725af732a92ed",
   "lastOpenFiles": [
-    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
+    "Templates/Course Template.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "README.md",
+    "Templates/Note Template.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
     "START PAGE.md",
+    "Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md",
     "Semester 1/Vector Calculus",
     "Semester 1/Metric Spaces",
     "Semester 1",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Templates",
-    "Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
     "Excalidraw",
-    "Templates/Course Template.md",
     "Metric Spaces Outline.md",
     "study tips.md",
     "Metric Spaces/Metric Spaces Outline.md",
