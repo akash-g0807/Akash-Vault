@@ -11,5 +11,9 @@
   "obsidian-living-graph",
   "oz-image-plugin",
   "obsidian-org-mode",
-  "obsidian-plugin-todo"
+  "obsidian-plugin-todo",
+  "obsidian-code-block-enhancer",
+  "execute-code",
+  "obsidian-matrix",
+  "make-md"
 ]

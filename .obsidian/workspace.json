@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START PAGE.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,8 +101,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a0c46437bf7fdd94",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -122,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md"
+                "file": "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md"
               }
             }
           },
@@ -190,29 +199,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9bb4fcb79121a59b",
+  "active": "7e0725af732a92ed",
   "lastOpenFiles": [
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Templates/Course Template.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
+    "Excalidraw",
+    "Semester 1/Semester 1.md",
+    "Templates/Excalidraw/Excalidraw.md",
+    "Semester 1/Metric Spaces/Metric Spaces.md",
     "Templates/Note Template.md",
-    "Semester 1/Classical Dynamics",
+    "Templates/Course Template.md",
+    "Templates/Templates.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
     "README.md",
-    "Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Semester 1/Classical Dynamics",
+    "Templates/Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
+    "Templates/Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md",
     "Semester 1/Vector & Complex Calculus",
     "Semester 1/Metric Spaces",
     "Semester 1",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Templates",
-    "Excalidraw",
+    "Templates/Excalidraw",
     "Metric Spaces Outline.md",
     "study tips.md",
     "Metric Spaces/Metric Spaces Outline.md",
