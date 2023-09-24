@@ -1,20 +1,18 @@
 ---
-aliases: 
 year: "2"
+professor: 
 semester: "1"
-professor: Dr Jason Levesley
 tags:
   - course
 ---
 
-
 Links: [[START PAGE]]
-#  Metric Spaces - MAT00037H
+#  Vector & Complex Calculus - MAT00047I
 ## Course Outline
 ---
 
-- [[Metric Spaces - MAT00037H Outline]]
-- [[Metric Spaces - MAT00037H Lectures]]
+- [[Vector & Complex Calculus - MAT00047I Outline]]
+- [[Vector & Complex Calculus - MAT00047I Lectures]]
 
 ## Assignments 
 ---

@@ -1,20 +1,17 @@
 ---
-aliases: 
 year: "2"
+professor: Prof. Ed Corrigan
 semester: "1"
-professor: Dr Jason Levesley
 tags:
   - course
 ---
-
-
 Links: [[START PAGE]]
-#  Metric Spaces - MAT00037H
+#  Classical Dynamics - MAT00048I
 ## Course Outline
 ---
 
-- [[Metric Spaces - MAT00037H Outline]]
-- [[Metric Spaces - MAT00037H Lectures]]
+- [[Classical Dynamics - MAT00048I Outline]]
+- [[Classical Dynamics - MAT00048I Lectures]]
 
 ## Assignments 
 ---

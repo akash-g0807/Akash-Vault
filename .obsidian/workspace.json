@@ -20,19 +20,43 @@
             }
           },
           {
+            "id": "679dbdd4f7bdf0e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb4fcb79121a59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7e0725af732a92ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "START PAGE.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START PAGE.md",
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START PAGE.md",
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START PAGE.md"
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md"
               }
             }
           },
@@ -170,17 +193,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e0725af732a92ed",
+  "active": "9bb4fcb79121a59b",
   "lastOpenFiles": [
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "Templates/Course Template.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "README.md",
-    "Templates/Note Template.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
+    "Templates/Note Template.md",
+    "Semester 1/Classical Dynamics",
+    "README.md",
     "Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
     "Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md",
-    "Semester 1/Vector Calculus",
+    "Semester 1/Vector & Complex Calculus",
     "Semester 1/Metric Spaces",
     "Semester 1",
     "Untitled.canvas",
