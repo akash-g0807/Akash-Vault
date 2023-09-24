@@ -3,12 +3,13 @@
   "templater-obsidian",
   "obsidian-tikzjax",
   "quick-latex",
-  "obsidian-matrix",
   "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-admonition",
   "obsidian-living-graph",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-org-mode",
+  "obsidian-plugin-todo"
 ]
