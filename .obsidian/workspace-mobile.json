@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "193f3173f388c3ff",
+            "id": "7b58936426065b49",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +99,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,7 +115,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -129,9 +125,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,12 +135,21 @@
           "type": "online.larslockefeer.obsidian-plugin-todo",
           "state": {}
         }
+      },
+      {
+        "id": "9d52a770c491a257",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,13 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f75ee1d34b77ba0",
+  "active": "7b58936426065b49",
   "lastOpenFiles": [
+    "START PAGE.md",
+    "Excalidraw/Drawing 2023-09-25 16.05.17.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "Semester 1/Semester 1.md",
-    "START PAGE.md",
     "Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md"
   ]
 }
