@@ -1,8 +1,6 @@
 [
-  "obsidian-latex-suite",
   "templater-obsidian",
   "obsidian-tikzjax",
-  "quick-latex",
   "obsidian-git",
   "obsidian-latex-environments",
   "obsidian-excalidraw-plugin",
@@ -17,5 +15,6 @@
   "list-style",
   "make-md",
   "table-editor-obsidian",
-  "drawio-obsidian"
+  "drawio-obsidian",
+  "quick-latex"
 ]

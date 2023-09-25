@@ -121,6 +121,14 @@ Below is the *geometric proof*:
 \end{document}
 ```
 
+### Vector addition on *N-dimensional* vector
+
+```ad-Definition
+Title: **Vector addition on N-dimensional vectors**
+Let $\underline{x}, \underline{y} \in \mathbb{R}^n$. These vectors can be added with the sum being defined as
+$$\underline{x} + \underline{y} = (x_{1} + y_{1} , \ldots , x_{n} + y_{n})$$
+```
+
 # Backlinks
 ---
 - [[Vector Algebra]]

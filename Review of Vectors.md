@@ -5,8 +5,8 @@
 - We study vectors in $\mathbb{E}^3$ : **Euclidean Three Space**
 ## Contents
 ---
-
-### 1.1. [[Vectors as displacement]]
-### 1.2 [[Vector Algebra]]
+### 1.1 [[General Definition of Vectors]]
+### 1.2. [[Vectors as displacement]]
+### 1.3 [[Vector Algebra]]
 
 

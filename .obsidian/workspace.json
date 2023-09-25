@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3c9391b01e9dbaef",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "991e9f6b44f6b884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 1/Classical Dynamics/Vector Multiplication by a Scalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "090f604c5ca5da00",
         "type": "tabs",
         "children": [
@@ -29,9 +11,11 @@
             "id": "7bd43baf162de5ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md"
+                "file": "Vector Multiplication by a Scalar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -89,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Vector Multiplication by a Scalar.md",
+                "file": "Vector Multiplication by a Scalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Vector Multiplication by a Scalar.md",
+                "file": "Vector Multiplication by a Scalar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Vector Multiplication by a Scalar.md"
+                "file": "Vector Multiplication by a Scalar.md"
               }
             }
           },
@@ -161,8 +146,17 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "0fda624a831477ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,49 +173,48 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "991e9f6b44f6b884",
+  "active": "7bd43baf162de5ab",
   "lastOpenFiles": [
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
-    "Semester 1/Classical Dynamics/Vector Multiplication by a Scalar.md",
-    "Semester 1/Classical Dynamics/Vector Algebra.md",
+    "Vector Algebra.md",
+    "Vector Addition.md",
+    "Vector Multiplication by a Scalar.md",
+    "Drawing 2023-09-22 20.00.25.excalidraw.md",
+    "General Definition of Vectors.md",
+    "Review of Vectors.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "START PAGE.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "Templates/Course Template.md",
+    "Vectors as displacement.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "Semester 1/Classical Dynamics/Review of Vectors.md",
-    "Semester 1/Classical Dynamics/Vector Addition.md",
-    "Semester 1/Classical Dynamics/Vectors as displacement.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
     "Semester 1/Classical Dynamics/Classical Dynamics.md",
     "Semester 1/Semester 1.md",
     "Semester 1/Classical Dynamics/Assignments/Assignment 1.md",
     "Untitled",
     "Semester 1/Classical Dynamics/Assignments",
-    "Templates/Course Template.md",
     "Templates/Note Template.md",
     "Templates/Templates.md",
     "Semester 1/Classical Dynamics/Untitled Diagram.svg",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures",
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Excalidraw",
-    "Templates/Excalidraw/Excalidraw.md",
-    "Semester 1/Metric Spaces/Metric Spaces.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures.md",
-    "README.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "Semester 1/Classical Dynamics",
-    "Templates/Excalidraw/Drawing 2023-09-22 20.00.25.excalidraw.md",
     "Semester 1/Vector & Complex Calculus",
     "Semester 1/Metric Spaces",
-    "Semester 1",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
