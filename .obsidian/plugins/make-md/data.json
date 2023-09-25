@@ -36,12 +36,18 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Akash-Vault": [
-      "Semester 1/Metric Spaces"
+      "Semester 1/Metric Spaces",
+      "Excalidraw",
+      "Semester 1",
+      "Semester 1/Classical Dynamics",
+      "Templates",
+      "Semester 1/Classical Dynamics/Classical Dynamics Lectures"
     ]
   },
   "expandedSpaces": [
     "/",
     null,
+    "Akash-Vault",
     null
   ],
   "expandFolderOnClick": true,
@@ -74,7 +80,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695636027852,
+  "spacesAutoBackupLast": 1695648978950,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

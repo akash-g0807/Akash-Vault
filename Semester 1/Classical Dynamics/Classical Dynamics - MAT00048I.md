@@ -17,7 +17,7 @@ Links: [[START PAGE]]
 ---
 ```dataview
 table deadline
-from #assignment
+from "Semester 1/Classical Dynamics/Assignments" and #assignment 
 ```
  
 
