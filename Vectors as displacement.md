@@ -1,4 +1,4 @@
-# 1.1. Vectors as displacement
+#  Vectors as displacement
 ---
 
 1. {i} Pick an **origin**, then every other point in 3D space is a displacement from $O$

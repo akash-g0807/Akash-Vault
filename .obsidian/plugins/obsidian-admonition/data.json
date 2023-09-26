@@ -12,6 +12,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Theorem": {
+      "type": "Theorem",
+      "color": "215, 208, 208",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-wand-2"
+      },
+      "command": false,
+      "title": "Theorem",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

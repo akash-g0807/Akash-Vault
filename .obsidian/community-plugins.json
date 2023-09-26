@@ -16,5 +16,9 @@
   "make-md",
   "table-editor-obsidian",
   "drawio-obsidian",
-  "quick-latex"
+  "quick-latex",
+  "math-booster",
+  "mathlinks",
+  "obsidian-latex-suite",
+  "obsidian-matrix"
 ]

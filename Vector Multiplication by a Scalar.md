@@ -42,9 +42,9 @@ $$\mid \lambda\cdot\underline{v}\mid \ = \ \mid\lambda\mid\cdot\mid\underline{v}
 ### Scalar multiplication for *n-dimensional* vectors
 
 ```ad-Definition
-Title **Scalar multiplication for n-dimensonal vectors**
+Title: **Scalar multiplication for n-dimensonal vectors**
 Let $\underline{x} \in \mathbb{R}^n$ and $\lambda \in \mathbb{R}$. These vectors can be multiplied by the scalar being defined as
-$$\underline{x} + \underline{y} = (x_{1} + y_{1} , \ldots , x_{n} + y_{n})$$
+$$\lambda\underline{x} = (\lambda x_{1}, \ldots , \lambda x_{n})$$
 ```
 
 # Backlinks
