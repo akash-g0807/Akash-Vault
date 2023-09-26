@@ -11,11 +11,27 @@
             "id": "7b58936426065b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "General Definition of Metric Spaces.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "191ec24aa8b266b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +143,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md"
+          }
         }
       },
       {
@@ -160,11 +180,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b58936426065b49",
+  "active": "191ec24aa8b266b7",
   "lastOpenFiles": [
+    "General Definition of Metric Spaces.md",
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
+    "Metrics.md",
     "START PAGE.md",
     "Excalidraw/Drawing 2023-09-25 16.05.17.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "Semester 1/Semester 1.md",
