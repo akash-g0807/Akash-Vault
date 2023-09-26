@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology.md",
+                "file": "General Definition of Metric Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topology.md",
+                "file": "General Definition of Metric Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topology.md",
+                "file": "General Definition of Metric Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topology.md"
+                "file": "General Definition of Metric Spaces.md"
               }
             }
           },
@@ -187,27 +187,27 @@
   },
   "active": "7bd43baf162de5ab",
   "lastOpenFiles": [
-    "General Definition of Metric Spaces.md",
     "Metrics.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Definition of Topological space.md",
-    "Topology.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "START PAGE.md",
+    "Vector Addition.md",
     "Vector Algebra.md",
     "Vector Multiplication by a Scalar.md",
-    "Vector Addition.md",
     "Review of Vectors.md",
+    "General Definition of Metric Spaces.md",
+    "Definition of Topological space.md",
+    "Examples of Metric Spaces.md",
+    "Topology.md",
     "Vectors as displacement.md",
     "General Definition of Vectors.md",
-    "Examples of Metric Spaces.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "Semester 1/Metric Spaces/Metric Spaces.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lectures.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "START PAGE.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Drawing 2023-09-22 20.00.25.excalidraw.md",
     "Templates/Course Template.md",

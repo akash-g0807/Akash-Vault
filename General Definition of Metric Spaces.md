@@ -27,7 +27,10 @@ Suppose $X$ is a metric space and $a,b,c \in X$. Then $$\mid d(a,b) - d(b,c) \mi
 ```
 
 `\begin{proof}`
-
+The triangle inequality for $d(a,b)$ yields:
+$$d(a,b) \leq d(a,c) + d(c,b)$$
+Similarly the triangle inequality for $d(b,c)$ yields:
+$$d(c,b) \leq d(c,a) + d(a,b)$$
 `\end{proof}`
 
 
