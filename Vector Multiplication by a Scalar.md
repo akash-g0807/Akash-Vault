@@ -47,6 +47,10 @@ Let $\underline{x} \in \mathbb{R}^n$ and $\lambda \in \mathbb{R}$. These vectors
 $$\lambda\underline{x} = (\lambda x_{1}, \ldots , \lambda x_{n})$$
 ```
 
+### Properties of Scalar Multiplication
+
+1. **Distributivity**: Scalar multiplication is distributive over addition:
+$$\boxed{\lambda}$$
 # Backlinks
 ---
 - [[Vector Algebra]]
