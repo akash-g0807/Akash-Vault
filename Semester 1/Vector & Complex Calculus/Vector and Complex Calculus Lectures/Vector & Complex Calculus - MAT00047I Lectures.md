@@ -1,1 +1,2 @@
 - LECTURE 1: [[Vector Calculus Lecture 1]]
+- LECTURE 2: [[Vector and Complex Calculus Lecture 2]]
