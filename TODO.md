@@ -11,3 +11,6 @@
 8. Properties of Vector Product
 9. Cross Product using Orthonormal Basis
 10. Vector Product using Levi Civita
+11. proof of vector product
+12. Write notes on permuation
+13. Write notes on determinant of matrices

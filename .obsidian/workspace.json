@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Addition.md",
-                "mode": "preview",
+                "file": "Vector Product using Levi-Civita.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Addition.md",
+                "file": "Vector Product using Levi-Civita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Addition.md",
+                "file": "Vector Product using Levi-Civita.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Addition.md"
+                "file": "Vector Product using Levi-Civita.md"
               }
             }
           },
@@ -200,22 +201,23 @@
   },
   "active": "7bd43baf162de5ab",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
+    "Vector Product using Levi-Civita.md",
+    "Vector Product.md",
+    "Cross Product using Orthonormal Basis Vectors.md",
+    "TODO.md",
+    "Vector Algebra.md",
+    "Scalar Product.md",
+    "Orthonormal Basis for Vectors.md",
+    "Vector Addition.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Vector Addition.md",
-    "Cross Product using Orthonormal Basis Vectors.md",
-    "Vector Product.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
-    "TODO.md",
     "Properties of Vector Product.md",
-    "Vector Product using Levi-Civita.md",
     "Pasted image 20230927163933.png",
-    "Scalar Product.md",
-    "Vector Algebra.md",
     "Vector Subtraction.md",
     "Properties of Scalar Product.md",
     "Review of Vectors.md",
-    "Orthonormal Basis for Vectors.md",
     "General Definition of Vectors.md",
     "START PAGE.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
@@ -226,7 +228,6 @@
     "General Definition of Metric Spaces.md",
     "Metrics.md",
     "Kronecker Delta.md",
-    "Levi-Civita Symbol.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
     "Untitled",
