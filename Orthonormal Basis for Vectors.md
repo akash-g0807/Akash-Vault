@@ -79,5 +79,16 @@ $$\begin{equation*}
 \underline{e_{2}}= \underline{j} \ \ \ \ \ \ \ \ \ \ \ \ \
 \underline{e_{3}}= \underline{k} \ \ \ \ \ \ \ \ \ \ \ \ \
 \end{equation*}$$
+Then we can say for any vector $\underline{a}$
+$$\underline{a} = a_{1}\space\underline{i} \space  + \space a_{2}\space\underline{j} \space + \space a_{3}\space\underline{k} \ = \ \sum_{k = 1}^{3}a_k\underline{e_k}$$
 
+### Properties of Orthonormal Vectors
+
+1. Its **modulus** is one
+ $$\mid \underline{i} \mid = 1 = \mid \underline{j} \mid = \mid \underline{k} \mid \hspace{50px} \mid \underline{e_1} \mid = 1 = \mid \underline{e_2} \mid = \mid \underline{e_{3}}\mid$$
+ 
+ 2. [[Scalar Product|Scalar product]] and [[Vector Product|Vector product]] properties due to orthogonality:
+
+	 * **Scalar Product properties:**
+	  $$$$
 
