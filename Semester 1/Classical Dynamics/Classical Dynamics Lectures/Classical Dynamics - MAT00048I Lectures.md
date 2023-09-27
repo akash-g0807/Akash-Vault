@@ -1,1 +1,2 @@
-- LECTURE 1:  [[Classical Dynamics Lecture 1 Vectors]]]
+- LECTURE 1:  [[Classical Dynamics Lecture 1]]
+- LECTURE2: [[Classical Dynamics Lecture 2]]

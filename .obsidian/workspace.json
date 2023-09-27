@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Multiplication by a Scalar.md",
-                "mode": "source",
+                "file": "Orthonormal Basis for Vectors.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9df333f8730ba94e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md"
               }
             }
           }
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Multiplication by a Scalar.md",
+                "file": "Orthonormal Basis for Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Multiplication by a Scalar.md",
+                "file": "Orthonormal Basis for Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Multiplication by a Scalar.md"
+                "file": "Orthonormal Basis for Vectors.md"
               }
             }
           },
@@ -187,32 +177,32 @@
   },
   "active": "7bd43baf162de5ab",
   "lastOpenFiles": [
-    "Vector Addition.md",
-    "Vector Multiplication by a Scalar.md",
+    "Kronecker Delta.md",
     "Vector Algebra.md",
-    "Vectors as displacement.md",
-    "Metrics.md",
-    "Properties of Scalar Multiplication.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
-    "Vector Subtraction.md",
+    "study tips.md",
+    "General Definition of Vectors.md",
+    "Orthonormal Basis for Vectors.md",
+    "Vector Multiplication by a Scalar.md",
+    "Vector Addition.md",
     "Review of Vectors.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "Definition of Topological space.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
-    "Definition of Topological space.md",
-    "Topology.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics.md",
+    "Semester 1/Semester 1.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "Topology.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "General Definition of Metric Spaces.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "Vector Subtraction.md",
+    "Vectors as displacement.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
+    "Einstein Notation for Vectors.md",
+    "Scalar Product.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
     "Examples of Metric Spaces.md",
-    "General Definition of Vectors.md",
-    "Semester 1/Metric Spaces/Metric Spaces.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lectures.md",
+    "General Definition of Metric Spaces.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
     "Untitled",
