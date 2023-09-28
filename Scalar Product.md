@@ -80,7 +80,6 @@ $$\underline{u} \cdot \underline{v} \space = \space \mid \underline{u} \mid \cdo
 where $\theta$ is the planar angle
 ```
 
-- Scalar product has several properties: [[Properties of Scalar Product]]
 ### Scalar Product using Orthonormal Basis Vectors
 
 We can use [[Orthonormal Basis for Vectors|orthonormal basis vectors]] to give a different definition for the scalar product:
@@ -99,6 +98,10 @@ $$\underline{u} \cdot \underline{v} = \sum_{i=1}^{3}u_{i} \space v_{i} = u_{1}v_
 `\begin{proof}`
 **PLACE PROOF HERE AFTERWARDS**
 `\end{proof}`
+## Scalar Product Further Notes
+---
+-  [[Properties of Scalar Product]]
+- [[Scalar Product using Kronecker Delta]]
 
 
 

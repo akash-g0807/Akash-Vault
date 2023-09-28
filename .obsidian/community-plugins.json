@@ -2,7 +2,6 @@
   "templater-obsidian",
   "obsidian-tikzjax",
   "obsidian-git",
-  "obsidian-latex-environments",
   "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-admonition",
@@ -16,9 +15,10 @@
   "make-md",
   "table-editor-obsidian",
   "drawio-obsidian",
-  "quick-latex",
   "math-booster",
   "mathlinks",
   "obsidian-matrix",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "quick-latex",
+  "obsidian-latex-environments"
 ]

@@ -1,1 +1,11 @@
-{}
+{
+  "math-booster:convert-equation-number-to-tag": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}

@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bd43baf162de5ab",
+            "id": "cddd39f24bbe55be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Vector Product using Levi-Civita.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3cc930e6b566cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scalar Product using Kronecker Delta.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,6 +53,22 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2bfe896722a91843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9852f6d9348150b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md"
               }
             }
           }
@@ -199,35 +228,35 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "7bd43baf162de5ab",
+  "active": "cddd39f24bbe55be",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
+    "Scalar Product using Kronecker Delta.md",
     "Vector Product using Levi-Civita.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
     "Vector Product.md",
-    "Cross Product using Orthonormal Basis Vectors.md",
-    "TODO.md",
     "Vector Algebra.md",
+    "Levi-Civita Symbol.md",
     "Scalar Product.md",
+    "Einstein's Notation.md",
+    "Review of Vectors.md",
+    "Vectors as displacement.md",
+    "Properties of Scalar Product.md",
+    "Cross Product using Orthonormal Basis Vectors.md",
+    "Kronecker Delta.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
     "Orthonormal Basis for Vectors.md",
+    "Definition of Topological space.md",
+    "TODO.md",
+    "Topology.md",
+    "START PAGE.md",
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Vector Addition.md",
     "Untitled.md",
     "Untitled 1.md",
     "Properties of Vector Product.md",
     "Pasted image 20230927163933.png",
     "Vector Subtraction.md",
-    "Properties of Scalar Product.md",
-    "Review of Vectors.md",
     "General Definition of Vectors.md",
-    "START PAGE.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "study tips.md",
-    "[Vector Product].md",
-    "General Definition of Metric Spaces.md",
-    "Metrics.md",
-    "Kronecker Delta.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
     "Untitled",
