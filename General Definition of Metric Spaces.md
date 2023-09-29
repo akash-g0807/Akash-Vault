@@ -15,6 +15,8 @@ has the following properties:
 The pair of objects $(X,d)$ is called the **Metric Space**
 ```
 
+^eb87d4
+
 
 *Note*: Property 4 may be thought of as asserting the "transitivity" of closeness of two points, that is if $x$ is close to $y$ and $y$ is close to $z$ then $x$ is close to $z$
 

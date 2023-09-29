@@ -25,6 +25,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Lemma": {
+      "type": "Lemma",
+      "color": "215, 208, 208",
+      "icon": {
+        "name": "asterisk",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Lemma",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

@@ -12,8 +12,3 @@ Let $X$ be a non empty set, i.e. $X \neq \emptyset$ and $T$ be  a collection of 
 The pair of objects $(X,T)$ is called a **Topological Space**. The set $X$ is called the **underlying set** and the collection $T$ is called the *topology* on set $X$. The members $T$ are called the [[Open Sets]]
 ```
 
-
-
-
-
-

@@ -14,3 +14,4 @@
 11. proof of vector product
 12. Write notes on permutation
 13. Write notes on determinant of matrices
+14. Youngs inequality
