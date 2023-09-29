@@ -11,7 +11,8 @@ In this chapter we will explore different aspects of vector algebra, namely:
 7. [[Vector Product]]
 8. [[Kronecker Delta]]
 9. [[Levi-Civita Symbol]]
-
+10. [[Triple Scalar Product]]
+11. [[Triple Vector Product]]
 # Backlinks
 ---
 - [[Review of Vectors]]

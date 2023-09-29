@@ -22,3 +22,7 @@ $\displaystyle \hspace{370px} = \boldsymbol{\delta_{ab}}$
 
 *Note*: The Kronecker Delta can be thought of as a **unit matrix**. As the values where the value is $1$,  $a = b$ which are the diagonals of a matrix and it is 0 everywhere else
 $$\delta_{ab} = \begin{pmatrix}1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{pmatrix}$$
+
+## Further Notes on Kronecker Delta
+---
+- [[Properties of Kronecker-Delta and Levi-Civita]]

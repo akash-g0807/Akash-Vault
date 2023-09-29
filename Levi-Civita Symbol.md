@@ -24,3 +24,6 @@ $$\epsilon_{abc} =
 
 Then we can write the cross product of orthonormal Basis Vectors: $\underline{e_1},\underline{e_{2}}, \underline{e_3}$ in the following way:
 $$\underline{e_{a}} \times \underline{e_b} \ = \ \sum_{c = 1}^{3}\epsilon_{abc} \space\underline{e_k}$$
+## Further Notes
+---
+- [[Properties of Kronecker-Delta and Levi-Civita]]

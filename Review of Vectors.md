@@ -16,3 +16,8 @@
 
 
 
+
+
+### 5. [[Vector Equation of Lines]]
+
+### 6. [[Vector Equation of Planes]]
