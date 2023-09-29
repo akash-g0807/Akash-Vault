@@ -32,24 +32,30 @@
             "id": "d695ab6bf11b7a91",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "0380a6c18574e54f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c6d6bd04c976ebf",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +156,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +168,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md"
+            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md"
           }
         }
       },
@@ -198,8 +204,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0380a6c18574e54f",
+  "active": "5c6d6bd04c976ebf",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
     "General Definition of Metric Spaces.md",
