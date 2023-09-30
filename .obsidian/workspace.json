@@ -11,8 +11,13 @@
             "id": "cddd39f24bbe55be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equivalent Formulation of Infimum and Supremum.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Equivalent Formulation of Infimum and Supremum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Equivalent Formulation of Infimum and Supremum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Equivalent Formulation of Infimum and Supremum.md"
+              }
             }
           },
           {
@@ -192,6 +201,17 @@
   },
   "active": "cddd39f24bbe55be",
   "lastOpenFiles": [
+    "Infimum and Supremum.md",
+    "Equivalent Formulation of Infimum and Supremum.md",
+    "Remarks About Supremum and Infimum.md",
+    "Axiom of Completeness.md",
+    "Review of Real Analysis.md",
+    "Boundedness of Sets.md",
+    "Maximum and Minimum Element.md",
+    "Examples of Boundedness.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
     "Change of Axes.md",
     "Kronecker Delta.md",
     "Einstein's Notation.md",
@@ -207,19 +227,8 @@
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "Vector Algebra.md",
     "Vector Product.md",
-    "Cross Product using Orthonormal Basis Vectors.md",
-    "Triple Scalar Product.md",
-    "Vectors as displacement.md",
-    "Topology.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
     "Triple Vector Product proof.svg",
     "Pasted image 20230929191527.png",
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
-    "TODO.md",
-    "Properties of Kronecker-Delta and Levi-Civita.md",
-    "Vector Equation of Lines.md",
     "Pasted image 20230927163933.png",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",

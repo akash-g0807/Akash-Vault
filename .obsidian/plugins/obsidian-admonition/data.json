@@ -38,6 +38,19 @@
       "injectColor": true,
       "noTitle": false,
       "copy": false
+    },
+    "Axiom": {
+      "type": "Axiom",
+      "color": "215, 208, 208",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Axiom",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,
