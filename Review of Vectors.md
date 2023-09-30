@@ -21,3 +21,6 @@
 ### 5. [[Vector Equation of Lines]]
 
 ### 6. [[Vector Equation of Planes]]
+
+### 7. [[Change of Axes]]
+

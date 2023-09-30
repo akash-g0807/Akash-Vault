@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696009259856,
+  "spacesAutoBackupLast": 1696012217627,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

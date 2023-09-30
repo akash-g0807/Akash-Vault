@@ -13,3 +13,9 @@ $$\begin{split}
 [\underline{a} \times (\underline{b} \times \underline{c})]_{p} &= (\delta_{pu}\delta_{qv} - \delta_{pv}\delta_{qu})a_{q}b_{u}c_{v} \end{split}$$
 
 Please refer to the handwritten note below for detailed simplification.
+
+![[Triple Vector Product proof.svg]]
+
+# Backlinks
+---
+- [[Vector Algebra]]
