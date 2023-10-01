@@ -92,3 +92,6 @@ $$\underline{a} = a_{1}\space\underline{i} \space  + \space a_{2}\space\underlin
 	 * **Scalar Product properties:**
 	  $$$$
 
+# Backlinks
+---
+- [[Review of Vectors]]

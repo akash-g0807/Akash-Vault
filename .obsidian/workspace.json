@@ -21,9 +21,12 @@
             "id": "34f83a97a9d20f9c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
+                "file": "Change of Axes.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -99,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -115,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
+                "file": "Change of Axes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
+                "file": "Change of Axes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
+                "file": "Change of Axes.md"
               }
             }
           },
@@ -190,43 +194,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-matrix:Obsidian Matrix": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "34f83a97a9d20f9c",
   "lastOpenFiles": [
-    "Vector Algebra.md",
+    "Review of Vectors.md",
+    "Orthonormal Basis for Vectors.md",
     "solution.pdf",
-    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
+    "Pasted image 20230927163933.png",
+    "Properties of Scalar Product.md",
+    "Properties of Vector Product.md",
+    "Vector Product.md",
+    "Cross Product using Orthonormal Basis Vectors.md",
     "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
+    "Vector Algebra.md",
+    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
     "Triple Vector Product.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
-    "Review of Vectors.md",
     "Change of Axes.md",
     "Vector Addition.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
-    "Vector Product.md",
     "Vector Product using Levi-Civita.md",
     "Scalar Product.md",
     "Scalar Product using Kronecker Delta.md",
     "Kronecker Delta.md",
     "Properties of Kronecker-Delta and Levi-Civita.md",
-    "Cross Product using Orthonormal Basis Vectors.md",
     "Einstein's Notation.md",
     "Vector Equation of Lines.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
     "Function Spaces.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "General Definition of Metric Spaces.md",
-    "Examples of Metric Spaces.md",
     "Triple Vector Product proof.svg",
     "Pasted image 20230929191527.png",
-    "Pasted image 20230927163933.png",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
     "Untitled",
