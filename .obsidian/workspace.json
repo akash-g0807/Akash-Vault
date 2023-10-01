@@ -11,12 +11,9 @@
             "id": "cddd39f24bbe55be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Function Spaces.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md"
               }
             }
           },
@@ -26,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md"
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
               }
             }
           },
@@ -43,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -118,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function Spaces.md",
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function Spaces.md",
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function Spaces.md"
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
               }
             }
           },
@@ -199,34 +196,34 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "cddd39f24bbe55be",
+  "active": "34f83a97a9d20f9c",
   "lastOpenFiles": [
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "Vector Algebra.md",
+    "solution.pdf",
+    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
+    "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
+    "Triple Vector Product.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
+    "Review of Vectors.md",
+    "Change of Axes.md",
+    "Vector Addition.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
+    "Vector Product.md",
+    "Vector Product using Levi-Civita.md",
+    "Scalar Product.md",
+    "Scalar Product using Kronecker Delta.md",
+    "Kronecker Delta.md",
+    "Properties of Kronecker-Delta and Levi-Civita.md",
+    "Cross Product using Orthonormal Basis Vectors.md",
+    "Einstein's Notation.md",
+    "Vector Equation of Lines.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "START PAGE.md",
     "Function Spaces.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "General Definition of Metric Spaces.md",
     "Examples of Metric Spaces.md",
-    "Holders Inequality.md",
-    "Bounded Function.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
-    "TODO.md",
-    "Infinite Spaces.md",
-    "Review of Real Analysis.md",
-    "Equivalent Formulation of Infimum and Supremum.md",
-    "Infimum and Supremum.md",
-    "Remarks About Supremum and Infimum.md",
-    "Axiom of Completeness.md",
-    "Boundedness of Sets.md",
-    "Maximum and Minimum Element.md",
-    "Examples of Boundedness.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "Change of Axes.md",
-    "Kronecker Delta.md",
-    "Einstein's Notation.md",
-    "Scalar Product.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
-    "Triple Vector Product.md",
     "Triple Vector Product proof.svg",
     "Pasted image 20230929191527.png",
     "Pasted image 20230927163933.png",
@@ -240,7 +237,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "Semester 1/Classical Dynamics",
-    "Semester 1/Vector & Complex Calculus",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
