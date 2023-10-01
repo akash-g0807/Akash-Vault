@@ -53,9 +53,29 @@
                 "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "2a1ed367d47b5c4f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
+              }
+            }
+          },
+          {
+            "id": "2ad4201f1864394a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
+            "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
+            "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md"
+            "file": "Excalidraw/Classical Dynamics Assignment 1 Question 1.md"
           }
         }
       },
@@ -204,13 +224,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c6d6bd04c976ebf",
+  "active": "2ad4201f1864394a",
   "lastOpenFiles": [
+    "solution.pdf",
     "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
+    "Excalidraw/Classical Dynamics Assignment 1 Question 1.md",
+    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
     "General Definition of Metric Spaces.md",
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
     "Metrics.md",
     "START PAGE.md",
