@@ -5,7 +5,7 @@ Taking three vectors $\underline{a}, \underline{b} \text{ and } \underline{c}$, 
 
 $$\begin{split}
 [\underline{a} \times (\underline{b} \times \underline{c})]_{p} &= \epsilon_{pqr}\ a_{q}(\underline{b} \times \underline{c})_{r} \\ \\
-&= \epsilon_{pqr}\ a_{q} \ \epsilon_{ruv}\ b_{u}\ e_{v} \\ \\  
+&= \epsilon_{pqr}\ a_{q} \ \epsilon_{ruv}\ b_{u}\ c_{v} \\ \\  
 \end{split}$$
 Here we use the [[Properties of Kronecker-Delta and Levi-Civita| identity]]:
 $$\epsilon_{pqr}\epsilon_{ruv} = (\delta_{pu}\delta_{qv} - \delta_{pv}\delta_{qu})$$We get the following:

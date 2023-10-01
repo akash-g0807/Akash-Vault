@@ -46,7 +46,7 @@ $$\underline{a} \times \underline{b} = \sum\limits_{m=1}^{3} (\underline{a} \tim
 
 Using [[Einstein's Notation]] we can supress the sum:
 
-$$(\underline{a} \times \underline{b})_{m}= \sum\limits_{k, \ l} \epsilon_{klm} \ a_{k}\ b_{l }= \epsilon_{klm}a_kb_k$$
+$$(\underline{a} \times \underline{b})_{m}= \sum\limits_{k, \ l} \epsilon_{klm} \ a_{k}\ b_{l }= \epsilon_{klm}a_kb_l$$
 And using this expression, we can rewrite [[#^c2a28d|(2)]]:
 $$(\underline{a} \times\underline{b}) = \sum\limits_{m=1}^{3} (\underline{a} \times \underline{b})_{m} \underline{e_{m}} = \sum\limits_{m=1}^{3}\epsilon_{klm} \ a_kb_{k} \ \underline{e_{m}}= \epsilon_{klm} \ a_kb_{k} \ \underline{e_{m}}$$
 
