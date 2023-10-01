@@ -16,3 +16,4 @@
 13. Write notes on determinant of matrices
 14. Youngs inequality
 15. properties of levi civita identies
+16. Prove the metric on infinite spaces

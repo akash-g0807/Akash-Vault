@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equivalent Formulation of Infimum and Supremum.md",
+                "file": "Function Spaces.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equivalent Formulation of Infimum and Supremum.md",
+                "file": "Function Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Equivalent Formulation of Infimum and Supremum.md",
+                "file": "Function Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equivalent Formulation of Infimum and Supremum.md"
+                "file": "Function Spaces.md"
               }
             }
           },
@@ -201,15 +201,23 @@
   },
   "active": "cddd39f24bbe55be",
   "lastOpenFiles": [
-    "Infimum and Supremum.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "Function Spaces.md",
+    "General Definition of Metric Spaces.md",
+    "Examples of Metric Spaces.md",
+    "Holders Inequality.md",
+    "Bounded Function.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
+    "TODO.md",
+    "Infinite Spaces.md",
+    "Review of Real Analysis.md",
     "Equivalent Formulation of Infimum and Supremum.md",
+    "Infimum and Supremum.md",
     "Remarks About Supremum and Infimum.md",
     "Axiom of Completeness.md",
-    "Review of Real Analysis.md",
     "Boundedness of Sets.md",
     "Maximum and Minimum Element.md",
     "Examples of Boundedness.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
     "Change of Axes.md",
@@ -218,15 +226,7 @@
     "Scalar Product.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
     "Triple Vector Product.md",
-    "Vector Addition.md",
-    "Review of Vectors.md",
-    "START PAGE.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "Vector Algebra.md",
-    "Vector Product.md",
     "Triple Vector Product proof.svg",
     "Pasted image 20230929191527.png",
     "Pasted image 20230927163933.png",
