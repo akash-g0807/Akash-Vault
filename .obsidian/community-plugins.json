@@ -12,7 +12,6 @@
   "obsidian-code-block-enhancer",
   "execute-code",
   "list-style",
-  "make-md",
   "table-editor-obsidian",
   "drawio-obsidian",
   "math-booster",
@@ -20,5 +19,6 @@
   "obsidian-matrix",
   "quick-latex",
   "obsidian-latex-environments",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "make-md"
 ]

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Sets.md",
-                "mode": "source",
+                "file": "Definition of Total Derivative.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -44,8 +44,10 @@
             "id": "34f83a97a9d20f9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diagram",
+              "state": {
+                "file": "Open Sets Diagram.svg"
+              }
             }
           },
           {
@@ -108,7 +110,7 @@
             }
           },
           {
-            "id": "40c49fa56cafb864",
+            "id": "53cf22d62ab1c063",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -136,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Sets.md",
+                "file": "Definition of Total Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Sets.md",
+                "file": "Definition of Total Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Sets.md"
+                "file": "Definition of Total Derivative.md"
               }
             }
           },
@@ -220,36 +222,37 @@
   },
   "active": "38b9e43df3582baa",
   "lastOpenFiles": [
-    "Topology.md",
-    "Open Sets.md",
+    "Derivatives.md",
+    "Definition of Total Derivative.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "Review of Vectors.md",
+    "Basic Topology.md",
+    "Basics Interior Points.md",
+    "Basics of Continuity on Open Sets.md",
+    "Untitled.md",
+    "Basics of Open Sets.md",
     "Definition of Topological space.md",
+    "Open Sets Diagram.svg",
+    "Pasted image 20230927163933.png",
+    "Pasted image 20230929191527.png",
+    "Triple Vector Product.md",
+    "Vector Product.md",
+    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Function Spaces.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
-    "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "TODO.md",
     "Vector Subtraction.md",
-    "Vector Algebra.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "README.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "Semester 1/Classical Dynamics/Assignments/Assignment 1.md",
-    "Orthonormal Basis for Vectors.md",
-    "Review of Real Analysis.md",
-    "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "solution.pdf",
-    "Pasted image 20230927163933.png",
     "Triple Vector Product proof.svg",
-    "Pasted image 20230929191527.png",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
     "Untitled",
