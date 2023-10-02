@@ -73,9 +73,19 @@
                 "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md"
               }
             }
+          },
+          {
+            "id": "aca89ca83546d744",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +169,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
+            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -176,7 +186,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
+            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -188,7 +198,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md"
+            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md"
           }
         }
       },
@@ -224,12 +234,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ad4201f1864394a",
+  "active": "aca89ca83546d744",
   "lastOpenFiles": [
+    "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
+    "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
     "solution.pdf",
     "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
-    "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
     "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
