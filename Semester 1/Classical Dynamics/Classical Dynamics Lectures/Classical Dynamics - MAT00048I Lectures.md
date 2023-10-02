@@ -1,2 +1,2 @@
 - LECTURE 1:  [[Classical Dynamics Lecture 1]]
-- LECTURE2: [[Classical Dynamics Lecture 2]]
+- LECTURE 2: [[Classical Dynamics Lecture 2]]
