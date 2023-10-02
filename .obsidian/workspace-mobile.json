@@ -48,30 +48,24 @@
             "id": "5c6d6bd04c976ebf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2a1ed367d47b5c4f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2ad4201f1864394a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Classical Dynamics Assignment 1 Section I.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -83,9 +77,19 @@
                 "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "ae10a5b5bcf71dbd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -169,7 +173,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,7 +190,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -198,7 +202,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md"
+            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md"
           }
         }
       },
@@ -234,10 +238,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aca89ca83546d744",
+  "active": "ae10a5b5bcf71dbd",
   "lastOpenFiles": [
-    "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
     "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
     "solution.pdf",
     "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
