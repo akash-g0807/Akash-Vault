@@ -90,7 +90,7 @@ $$\underline{a} = a_{1}\space\underline{i} \space  + \space a_{2}\space\underlin
  2. [[Scalar Product|Scalar product]] and [[Vector Product|Vector product]] properties due to orthogonality:
 
 	 * **Scalar Product properties:**
-	  $$$$
+	  
 
 # Backlinks
 ---

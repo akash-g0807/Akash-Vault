@@ -15,9 +15,8 @@ Links: [[START PAGE]]
 
 ## Assignments 
 ---
-```dataview
-table deadline
-from "Semester 1/Classical Dynamics/Assignments" and #assignment 
-```
+| Assignment | Deadline |
+| ---------- | -------- |
+| [[Assignment 1]]           |          |
  
 
