@@ -72,10 +72,8 @@
             "id": "aca89ca83546d744",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -84,7 +82,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md"
+                "file": "Semester 1/Classical Dynamics/Assignments/Classical Dynamics Assignment 1 Section I.md"
               }
             }
           }
@@ -173,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+            "file": "Semester 1/Classical Dynamics/Assignments/Classical Dynamics Assignment 1 Section I.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,7 +188,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+            "file": "Semester 1/Classical Dynamics/Assignments/Classical Dynamics Assignment 1 Section I.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -202,7 +200,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md"
+            "file": "Semester 1/Classical Dynamics/Assignments/Classical Dynamics Assignment 1 Section I.md"
           }
         }
       },
@@ -240,8 +238,10 @@
   },
   "active": "ae10a5b5bcf71dbd",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
+    "General Definition of Metric Spaces.md",
     "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "Semester 1/Classical Dynamics/Assignments/Assignment 1.md",
+    "Excalidraw/Drawing 2023-10-02 11.04.42.excalidraw.md",
     "Excalidraw/Classical Dynamics Assignment 1 Section I.md",
     "solution.pdf",
     "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
@@ -249,7 +249,6 @@
     "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
-    "General Definition of Metric Spaces.md",
     "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
     "Metrics.md",
     "START PAGE.md",
