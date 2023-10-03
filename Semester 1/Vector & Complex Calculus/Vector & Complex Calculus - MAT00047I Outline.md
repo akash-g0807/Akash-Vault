@@ -2,7 +2,7 @@
 ---
 1. [[Review of Vectors]]
 2. [[Basic Topology]]
-3. [[Derivatives]]
+3. [[Derivatives of Vector Functions]]
 
 ---
 # Backlinks

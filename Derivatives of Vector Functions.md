@@ -1,4 +1,4 @@
-# Derivatives
+# Derivatives of Vector Functions
 ---
 A derivative is a **rate of change** of a function. We define the derivative for a multivariable function.
 
@@ -8,3 +8,5 @@ A derivative is a **rate of change** of a function. We define the derivative for
 ### 1. [[Definition of Total Derivative]]
 
 ### 2. [[Continuously Differentiable Functions]]
+
+### 3. [[Properties of  Total Derivative]]

@@ -13,6 +13,11 @@ such that **all [[Definition of Total Derivative#^273066|derivatives]] upto orde
 
 Likewise for an open set $\mathcal{U} \subseteq \mathbb{R}^n$, $\mathcal{C}^{\ r}$ denotes the set of $r$-times differentiable functions $\underline{f}: \mathcal{U} \rightarrow \mathbb{R}^n$.
 
-More generally, for an arbitrary subset $E \subset \mathbb{R}^{n}$, a function $\underline{f}:E \rightarrow \mathbb{R}^{m}$ is $\underline{f} \in \mathcal{C}^{\ r}(\mathcal{U}, \mathbb{R}^{m})$ 
+More generally, for an arbitrary subset $E \subset \mathbb{R}^{n}$, a function $\underline{f}:E \rightarrow \mathbb{R}^{m}$ is $\underline{f} \in \mathcal{C}^{\ r}(\mathcal{U}, \mathbb{R}^{m})$ f for some open set $U \supseteq E$, $\underline{f}$ is the restriction of some function in function in $\mathcal{C}^{\ r}(\mathcal{U}, \mathbb{R}^{m})$
 ```
-f
+
+*Note*: $\mathcal{C}^{\ r}$ is often used as in "a $\mathcal{C}^{\ r}$ map."
+
+# Backlinks
+---
+- [[Derivatives of Vector Functions]]

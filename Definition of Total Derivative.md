@@ -28,4 +28,4 @@ where we are using matrix multiplication
 
 # Backlinks
 ---
-- [[Derivatives]]
+- [[Derivatives of Vector Functions]]
