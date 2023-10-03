@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examples of Calculating Total Derivative.md",
-                "mode": "preview",
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples of Calculating Total Derivative.md",
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples of Calculating Total Derivative.md",
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples of Calculating Total Derivative.md"
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md"
               }
             }
           },
@@ -222,6 +222,7 @@
   },
   "active": "38b9e43df3582baa",
   "lastOpenFiles": [
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 4.md",
     "Examples of Calculating Total Derivative.md",
     "Properties of  Total Derivative.md",
     "Derivatives of Vector Functions.md",
@@ -251,7 +252,6 @@
     "Pasted image 20230929191527.png",
     "Triple Vector Product.md",
     "Vector Product.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
     "solution.pdf",
     "Triple Vector Product proof.svg",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
