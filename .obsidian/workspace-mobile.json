@@ -37,67 +37,17 @@
             }
           },
           {
-            "id": "0380a6c18574e54f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c6d6bd04c976ebf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2a1ed367d47b5c4f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2ad4201f1864394a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "aca89ca83546d744",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ae10a5b5bcf71dbd",
+            "id": "a8d55ea5e2f81418",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
-              }
-            }
-          },
-          {
-            "id": "51457db5fcf29ce2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -210,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md"
+            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md"
           }
         }
       },
@@ -246,8 +196,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51457db5fcf29ce2",
+  "active": "a8d55ea5e2f81418",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
     "Basic Topology.md",
