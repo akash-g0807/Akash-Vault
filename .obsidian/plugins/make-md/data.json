@@ -45,8 +45,8 @@
   },
   "expandedSpaces": [
     null,
-    null,
-    "Akash-Vault"
+    "Akash-Vault",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -77,7 +77,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696269567963,
+  "spacesAutoBackupLast": 1696319672171,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

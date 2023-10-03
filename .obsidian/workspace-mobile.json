@@ -85,9 +85,19 @@
                 "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
               }
             }
+          },
+          {
+            "id": "51457db5fcf29ce2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,7 +181,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
+            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,7 +198,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
+            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -200,7 +210,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
+            "file": "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md"
           }
         }
       },
@@ -236,8 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae10a5b5bcf71dbd",
+  "active": "51457db5fcf29ce2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
     "Basic Topology.md",
     "Semester 1/Classical Dynamics/Assignments/Classical Dynamics Assignment 1 Section I.md",
     "General Definition of Metric Spaces.md",
