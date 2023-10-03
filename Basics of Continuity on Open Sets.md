@@ -10,7 +10,7 @@ $$\underline{f}^{-1}\ \mathcal{V} := \{\underline{x} \in \mathcal{U} \mid \under
 
 ```
 
-- A **continuous function** is also called a **map**. 
+- A **continuous function** is also called a **map**.  ^7d419f
 - The set of maps $\underline{f}: \mathcal{U} \rightarrow \mathbb{R}^m$ is denoted 
 $$\mathcal{C}(\ \mathcal{U}, \mathbb{R}^{n} \ )$$
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition of Total Derivative.md",
-                "mode": "preview",
+                "file": "Continuously Differentiable Functions.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definition of Total Derivative.md",
+                "file": "Continuously Differentiable Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definition of Total Derivative.md",
+                "file": "Continuously Differentiable Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definition of Total Derivative.md"
+                "file": "Continuously Differentiable Functions.md"
               }
             }
           },
@@ -222,15 +222,18 @@
   },
   "active": "38b9e43df3582baa",
   "lastOpenFiles": [
+    "Continuously Differentiable Functions.md",
+    "Basics of Continuity on Open Sets.md",
     "Derivatives.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "Basic Topology.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
     "Definition of Total Derivative.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "Review of Vectors.md",
-    "Basic Topology.md",
     "Basics Interior Points.md",
-    "Basics of Continuity on Open Sets.md",
     "Untitled.md",
     "Basics of Open Sets.md",
     "Definition of Topological space.md",
@@ -243,14 +246,11 @@
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Function Spaces.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "START PAGE.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "TODO.md",
-    "Vector Subtraction.md",
     "solution.pdf",
     "Triple Vector Product proof.svg",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
@@ -262,7 +262,6 @@
     "Excalidraw",
     "Context/spacesLastSync.log",
     "Context",
-    "Semester 1/Classical Dynamics",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
