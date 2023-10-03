@@ -40,14 +40,42 @@
             "id": "a8d55ea5e2f81418",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "04dbd1e3850d37ba",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "dfb7d1a216e55dc1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ca43a8183a1c1ccc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -148,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
+            "file": "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -160,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md"
+            "file": "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md"
           }
         }
       },
@@ -196,8 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8d55ea5e2f81418",
+  "active": "6f75ee1d34b77ba0",
   "lastOpenFiles": [
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
@@ -220,7 +252,6 @@
     "Excalidraw/Drawing 2023-09-25 16.05.17.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 11.00.26.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "Semester 1/Semester 1.md",
-    "Excalidraw/Drawing 2023-09-23 17.20.33.excalidraw.md"
+    "Semester 1/Semester 1.md"
   ]
 }
