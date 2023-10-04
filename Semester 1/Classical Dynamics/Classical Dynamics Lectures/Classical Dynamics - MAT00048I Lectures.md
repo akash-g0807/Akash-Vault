@@ -1,3 +1,4 @@
 - LECTURE 1:  [[Classical Dynamics Lecture 1]]
 - LECTURE 2:  [[Classical Dynamics Lecture 2]]
 - LECTURE 3: [[Classical Dynamics Lecture 3]]
+- LECTURE 4: [[Classical Dynamics Lecture 4]]

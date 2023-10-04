@@ -15,5 +15,7 @@
 12. Write notes on permutation
 13. Write notes on determinant of matrices
 14. Youngs inequality
-15. properties of levi civita identies
+15. properties of levi civita identies: [[Properties of Kronecker-Delta and Levi-Civita]]
 16. Prove the metric on infinite spaces
+17. Examples of Total Derivative: [[Examples of Calculating Total Derivative]]
+18. Finish function spaces proof [[Function Spaces]]

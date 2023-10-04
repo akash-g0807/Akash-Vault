@@ -35,8 +35,12 @@ Similarly the triangle inequality for $d(b,c)$ yields:
 $$d(c,b) \leq d(c,a) + d(a,b)$$
 `\end{proof}`
 
+*Note:* For Property 2, we can split the biconditionals to two if statements:
+$$\begin{aligned}a = b \Rightarrow d(a,b) = 0 
+\\ \\ d(a,b) = 0 \Rightarrow a = b\end{aligned}$$
+And we can prove each individually or take **contrapositives**.
 
-- ### [[Examples of Metric Spaces]]
+
 
 
 

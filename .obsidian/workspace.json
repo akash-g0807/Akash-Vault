@@ -8,15 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38b9e43df3582baa",
+            "id": "896495ac62aa0b1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-                "mode": "source",
+                "file": "Basics of Vector Spaces.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "38b9e43df3582baa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
               }
             }
           },
@@ -26,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md"
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
               }
             }
           },
@@ -63,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md"
+                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
               }
             }
           },
@@ -222,36 +233,36 @@
   },
   "active": "38b9e43df3582baa",
   "lastOpenFiles": [
+    "Basics of Vector Spaces.md",
+    "Metric Space Induced by norm.md",
+    "Metrics.md",
+    "START PAGE.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "Derivatives of Vector Functions.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "Examples of Metric Spaces.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
+    "General Definition of Metric Spaces.md",
+    "Function Spaces.md",
+    "TODO.md",
+    "Infinite Spaces.md",
+    "Review of Real Analysis.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 4.md",
     "Examples of Calculating Total Derivative.md",
     "Properties of  Total Derivative.md",
-    "Derivatives of Vector Functions.md",
-    "Definition of Total Derivative.md",
-    "Continuously Differentiable Functions.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "START PAGE.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
-    "Basics of Continuity on Open Sets.md",
-    "Basic Topology.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Review of Vectors.md",
-    "Basics Interior Points.md",
-    "Untitled.md",
-    "Basics of Open Sets.md",
-    "Definition of Topological space.md",
     "Open Sets Diagram.svg",
     "Pasted image 20230927163933.png",
     "Pasted image 20230929191527.png",
-    "Triple Vector Product.md",
-    "Vector Product.md",
     "solution.pdf",
     "Triple Vector Product proof.svg",
     "Semester 1/Metric Spaces/Metric Spaces Lectures",
