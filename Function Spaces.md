@@ -14,6 +14,8 @@ Lets consider 2 examples:
 > Taking a look at function space  $$C([0,1])$$
 > where $C([0,1])$ is the set of all continuous functions $f:[0,1] \rightarrow \mathbb{R}$ 
 
+^2e09da
+
 
 > [!math|{"type":"example","number":"auto","setAsNoteMathLink":false,"_index":1}] Example 2.
 > Taking a look at function space $$B([0,1])$$

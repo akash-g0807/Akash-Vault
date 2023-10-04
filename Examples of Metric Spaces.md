@@ -58,6 +58,15 @@ We see that [[#^ef04fd|$(*)$]] is equivalent to
 $$\sum\limits_{k=1}^{n}a_kb_{k} \leq \Big(\sum\limits_{k=1}^{n}a_k^{2} \Big)^{\frac{1}{2}} \ \Big(\sum\limits_{k=1}^{n}b_k^{2} \Big)^{\frac{1}{2}} $$
 which is just the [[Holders Inequality#^ef2d0d| Caunchy-Schwartz Inequality]]. This metric is known as the **Euclidean Metric** on $\mathbb{R}^n$
 `\end{proof}`
+### Famous Metrics on $\mathbb{R}^n$
+
+^1d503e
+
+Here are some famous metrics that will be heavily used for examples:
+
+- $\displaystyle d_{1}(x,y)= \sum\limits_{i=1}^{n}\mid x_{i}-y_{i}\mid$
+- $d_{2(x,y)}= \sqrt{\sum\limits_{i=1}^{n}\mid x_{i}-y_{i} \mid^{2}}$
+- $\displaystyle d_{\infty}(x,y) = \max\{\mid x_{i} - y_{i} \mid : i \in \{1, \ldots n\}\}$
 # Backlinks
 ---
 - [[General Definition of Metric Spaces]]

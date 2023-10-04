@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metric Induced by the Norm.md",
+                "file": "Subspaces and Equivalence of Metric Spaces.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metric Induced by the Norm.md",
+                "file": "Subspaces and Equivalence of Metric Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metric Induced by the Norm.md",
+                "file": "Subspaces and Equivalence of Metric Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metric Induced by the Norm.md"
+                "file": "Subspaces and Equivalence of Metric Spaces.md"
               }
             }
           },
@@ -251,32 +251,33 @@
   },
   "active": "896495ac62aa0b1a",
   "lastOpenFiles": [
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
-    "Metric Induced by the Norm.md",
+    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "Subspaces and Equivalence of Metric Spaces.md",
+    "Subspaces.md",
     "Metric Space Induced by norm.md",
-    "Basics of Vector Spaces.md",
-    "Norm in a Vector Space.md",
+    "Metric Induced by the Norm.md",
+    "Function Spaces.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "Examples of Metric Spaces.md",
     "Vectors as displacement.md",
+    "Norm in a Vector Space.md",
+    "Review of Real Analysis.md",
+    "Metrics.md",
+    "Basics of Vector Spaces.md",
+    "context.mdb",
     "Review of Vectors.md",
     "General Definition of Vectors.md",
     "Vector Algebra.md",
     "Vector Addition.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Metrics.md",
     "START PAGE.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "Derivatives of Vector Functions.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Examples of Metric Spaces.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "General Definition of Metric Spaces.md",
-    "Function Spaces.md",
     "TODO.md",
-    "Infinite Spaces.md",
-    "Review of Real Analysis.md",
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
     "Open Sets Diagram.svg",
     "Pasted image 20230927163933.png",
@@ -291,7 +292,6 @@
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures",
     "Excalidraw",
     "Context/spacesLastSync.log",
-    "Context",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

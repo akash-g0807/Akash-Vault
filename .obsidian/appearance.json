@@ -3,6 +3,6 @@
   "nativeMenus": true,
   "translucency": false,
   "cssTheme": "Dracula Official",
-  "baseFontSize": 14,
+  "baseFontSize": 16,
   "theme": "obsidian"
 }
