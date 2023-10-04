@@ -31,7 +31,7 @@
 ```
 
 2. {i} The distance from $O$ to $A$ is the ***modulus*** of $\vec{A}$ denoted by
-$$\mid \vec{A} \mid$$
+$$\mid \vec{A} \mid$$ ^c5b273
 
 *Note*: SI units is metres (m)
 

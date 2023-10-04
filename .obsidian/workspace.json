@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics of Vector Spaces.md",
-                "mode": "preview",
+                "file": "Metric Induced by the Norm.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "38b9e43df3582baa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
               }
             }
           },
@@ -72,9 +62,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53548f83f13d28fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vectors as displacement.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1dd25976e643e303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38b9e43df3582baa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+                "file": "Metric Induced by the Norm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+                "file": "Metric Induced by the Norm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
+                "file": "Metric Induced by the Norm.md"
               }
             }
           },
@@ -231,10 +249,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38b9e43df3582baa",
+  "active": "896495ac62aa0b1a",
   "lastOpenFiles": [
-    "Basics of Vector Spaces.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "Metric Induced by the Norm.md",
     "Metric Space Induced by norm.md",
+    "Basics of Vector Spaces.md",
+    "Norm in a Vector Space.md",
+    "Vectors as displacement.md",
+    "Review of Vectors.md",
+    "General Definition of Vectors.md",
+    "Vector Algebra.md",
+    "Vector Addition.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
     "Metrics.md",
     "START PAGE.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
@@ -242,7 +269,6 @@
     "Derivatives of Vector Functions.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
     "Examples of Metric Spaces.md",
     "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "General Definition of Metric Spaces.md",
@@ -251,14 +277,6 @@
     "Infinite Spaces.md",
     "Review of Real Analysis.md",
     "Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lectures.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector Calculus Lecture 1.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 4.md",
-    "Examples of Calculating Total Derivative.md",
-    "Properties of  Total Derivative.md",
     "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
     "Open Sets Diagram.svg",
     "Pasted image 20230927163933.png",
