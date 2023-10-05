@@ -19,5 +19,7 @@
   "quick-latex",
   "obsidian-latex-environments",
   "make-md",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "drawio-obsidian",
+  "obsidian-discordrpc"
 ]

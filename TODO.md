@@ -19,3 +19,6 @@
 16. Prove the metric on infinite spaces
 17. Examples of Total Derivative: [[Examples of Calculating Total Derivative]]
 18. Finish function spaces proof [[Function Spaces]]
+19. More Examples of Subspaces: [[Examples of Subspaces]]
+20. Show that isometry is a bijection [[Isometric Equivalence]]
+21. Parametric Curves as Equivalence Relation: [[Parametric Curves as Equivalent Relations]]

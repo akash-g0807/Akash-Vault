@@ -6,57 +6,15 @@
       {
         "id": "090f604c5ca5da00",
         "type": "tabs",
+        "dimension": 50.93833780160858,
         "children": [
           {
-            "id": "896495ac62aa0b1a",
+            "id": "f18a6c9b512a41ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subspaces and Equivalence of Metric Spaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cddd39f24bbe55be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
-              }
-            }
-          },
-          {
-            "id": "515d8881cc405515",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
-              }
-            }
-          },
-          {
-            "id": "34f83a97a9d20f9c",
-            "type": "leaf",
-            "state": {
-              "type": "diagram",
-              "state": {
-                "file": "Open Sets Diagram.svg"
-              }
-            }
-          },
-          {
-            "id": "8e10a16820a6c649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
+                "file": "Oriented Curves.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -64,12 +22,12 @@
             }
           },
           {
-            "id": "53548f83f13d28fd",
+            "id": "efd224e1311f4a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vectors as displacement.md",
+                "file": "Parametric Curves as Equivalent Relations.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -81,6 +39,7 @@
       {
         "id": "1dd25976e643e303",
         "type": "tabs",
+        "dimension": 49.06166219839142,
         "children": [
           {
             "id": "38b9e43df3582baa",
@@ -91,8 +50,29 @@
                 "file": "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
               }
             }
+          },
+          {
+            "id": "8c2ad273bf45d564",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md"
+              }
+            }
+          },
+          {
+            "id": "896495ac62aa0b1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subspaces and Equivalence of Metric Spaces.md",
+                "file": "Oriented Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subspaces and Equivalence of Metric Spaces.md",
+                "file": "Oriented Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subspaces and Equivalence of Metric Spaces.md"
+                "file": "Oriented Curves.md"
               }
             }
           },
@@ -249,37 +229,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "896495ac62aa0b1a",
+  "active": "f18a6c9b512a41ec",
   "lastOpenFiles": [
-    "Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "Subspaces and Equivalence of Metric Spaces.md",
-    "Subspaces.md",
-    "Metric Space Induced by norm.md",
-    "Metric Induced by the Norm.md",
-    "Function Spaces.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
-    "Examples of Metric Spaces.md",
-    "Vectors as displacement.md",
-    "Norm in a Vector Space.md",
-    "Review of Real Analysis.md",
-    "Metrics.md",
-    "Basics of Vector Spaces.md",
-    "context.mdb",
-    "Review of Vectors.md",
-    "General Definition of Vectors.md",
-    "Vector Algebra.md",
-    "Vector Addition.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "START PAGE.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Curves.md",
+    "Oriented Curves.md",
     "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "Derivatives of Vector Functions.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "General Definition of Metric Spaces.md",
+    "Parametric Curves.md",
+    "Parametric Curves as Equivalent Relations.md",
     "TODO.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
+    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
+    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md",
+    "Basics of Continuity on Open Sets.md",
+    "Definition of Total Derivative.md",
+    "Gradient Operator.md",
+    "Scalar and Vector Fields.md",
+    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Basic Topology.md",
+    "Basics of Open Sets.md",
+    "Line Integrals.md",
+    "Derivatives of Vector Functions.md",
+    "Properties of  Total Derivative.md",
+    "Examples of Calculating Total Derivative.md",
+    "START PAGE.md",
     "Open Sets Diagram.svg",
+    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
+    "context.mdb",
+    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
     "Pasted image 20230927163933.png",
     "Pasted image 20230929191527.png",
     "solution.pdf",

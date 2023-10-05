@@ -1,1 +1,2 @@
 - Lecture 3: [[Metric Spaces Lecture 3]]
+- Lecture 4: [[Metric Space Lecture 4]]
