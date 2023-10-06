@@ -75,9 +75,12 @@
             "id": "8c11c270894aba6a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md"
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -174,7 +177,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md",
+            "file": "Home.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,7 +194,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md",
+            "file": "Home.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -203,7 +206,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md"
+            "file": "Home.md"
           }
         }
       },
@@ -242,6 +245,7 @@
   },
   "active": "8c11c270894aba6a",
   "lastOpenFiles": [
+    "Metric spaces problem sheet.pdf",
     "Home.md",
     "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md",
@@ -267,7 +271,6 @@
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
-    "Metrics.md",
-    "START PAGE.md"
+    "Metrics.md"
   ]
 }
