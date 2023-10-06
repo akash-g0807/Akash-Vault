@@ -11,13 +11,8 @@
             "id": "7b58936426065b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Definition of Metric Spaces.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -48,20 +43,16 @@
             "id": "04dbd1e3850d37ba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "dfb7d1a216e55dc1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -76,10 +67,8 @@
             "id": "7303fa3a85d2f941",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -88,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Metric Space Lecture 4.md"
+                "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md"
               }
             }
           },
@@ -96,10 +85,8 @@
             "id": "768130a3ad6e840d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -187,7 +174,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 4.md",
+            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,7 +191,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 4.md",
+            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -216,7 +203,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 4.md"
+            "file": "Excalidraw/Drawing 2023-10-06 12.58.03.excalidraw.md"
           }
         }
       },
@@ -241,6 +228,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -254,6 +242,7 @@
   },
   "active": "8c11c270894aba6a",
   "lastOpenFiles": [
+    "Home.md",
     "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md",
     "Excalidraw/Metric Space Lecture 4.md",
@@ -279,7 +268,6 @@
     "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
     "Metrics.md",
-    "START PAGE.md",
-    "Excalidraw/Drawing 2023-09-25 16.05.17.excalidraw.md"
+    "START PAGE.md"
   ]
 }
