@@ -30,8 +30,9 @@ priority: <%priority%>
     let title = await tp.system.prompt("What is the name of your new note?")
     
     await tp.file.rename(title)
-    await tp.file.move("/Semester 1/" + title + "/" +title)%>
+    await tp.file.move("/Semester 1/" + title + "/" +title)
+    
+	await tp.file.create_new("--- \r\n kanban-plugin: basic \r\n --- \r\n", "Kanban", true).basename
+    %>
 
 
-
-==<%tp.file.creation_date("YYYY-MM-DD")%>==

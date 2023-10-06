@@ -14,7 +14,6 @@
   "homepage",
   "obsidian-kanban",
   "obsidian-latex-environments",
-  "obsidian-latex-suite",
   "obsidian-living-graph",
   "make-md",
   "mathlinks",
@@ -26,7 +25,8 @@
   "obsidian-org-mode",
   "oz-image-plugin",
   "quick-latex",
-  "obsidian-style-settings",
   "obsidian-tikzjax",
-  "metadata-menu"
+  "metadata-menu",
+  "obsidian-style-settings",
+  "multi-column-markdown"
 ]

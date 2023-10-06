@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc66baf86df36e79",
+        "id": "1935927bd822c7ab",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca5acba43966032",
+            "id": "581fdcfadfcea16a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "University/Open and Closed Ball.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe789d5cb44f149",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md"
+                "contextPath": "Templates"
               }
             }
           }
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Open and Closed Ball.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Open and Closed Ball.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/Open and Closed Ball.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,44 +172,44 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "1ca5acba43966032",
+  "active": "581fdcfadfcea16a",
   "lastOpenFiles": [
-    "Metric spaces problem sheet.pdf",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "Templates/Templates.md",
+    "University/Scalar Product.md",
+    "University/Maximum and Minimum Element.md",
+    "University/Line Integrals.md",
+    "University/Continuously Differentiable Functions.md",
+    "University/Boundedness of Sets.md",
+    "University/Basics of Continuity on Open Sets.md",
+    "Templates/Semester 1 Template.md",
+    "Templates/Untitled.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
+    "University/Semester 1/Semester 1.md",
+    "University/context.mdb",
+    "University/University.md",
+    "University/Subspaces.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "University/START PAGE.md",
+    "Templates/Kanban Template.md",
+    "TODO.md",
+    "University/Examples of Open and Closed Balls.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
     "University/Open and Closed Ball.md",
     "University/The (basic) Geometry of Metric Spaces.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "University/Metrics.md",
-    "University/General Definition of Metric Spaces.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "University/START PAGE.md",
-    "Home.md",
-    "Semester 1/Semester 1.md",
-    "Semester 1/Quantum/Quantum.md",
-    "Semester 1/Classical/Classical.md",
-    "Semester 1/Classical",
-    "University/University.md",
-    "Semester 1/context.mdb",
-    "Templates/Semester 1 Template.md",
-    "Semester 1/Quantum",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
+    "Semester 1/Kanbab/Kanbab.md",
+    "Semester 1/Kanbab",
     "Semester 1",
-    "Semester 1/Hello/Hello.md",
-    "TODO.md",
-    "Context/#priority.mdb",
     "Semester 1/Hello",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
-    "Templates/Course Template.md",
-    "Semester 1/Quantum/Quantum2.md",
-    "Templates/Templates.md",
-    "Templates/mutate_formatter.js",
-    "Templates/New Text Document.txt",
-    "README.md",
-    "Semester 1/hr",
-    "Semester 1/hr/hr.md",
-    "Templates/he.md",
-    "Semester 1/He",
-    "Semester 1/He/He.md",
-    "obsidian_templater_cheat_sheet.md",
+    "Semester 1/Quantum",
+    "Semester 1/Hwllo",
+    "Semester 1/context.mdb",
+    "University/Metric spaces problem sheet.pdf",
+    "Semester 1/Classical",
+    "Context/#priority.mdb",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
