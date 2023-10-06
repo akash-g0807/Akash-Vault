@@ -38,7 +38,6 @@
     "Akash-Vault": [
       "Semester 1/Metric Spaces",
       "Semester 1/Classical Dynamics",
-      "Templates",
       "Semester 1/Classical Dynamics/Classical Dynamics Lectures",
       "Semester 1/Classical Dynamics"
     ]
@@ -69,7 +68,7 @@
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
-  "inlineContextExpanded": false,
+  "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
@@ -77,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696529080395,
+  "spacesAutoBackupLast": 1696575417933,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

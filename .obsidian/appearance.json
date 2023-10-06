@@ -4,5 +4,8 @@
   "translucency": false,
   "cssTheme": "Dracula Official",
   "baseFontSize": 16,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "MCL Multi Column"
+  ]
 }

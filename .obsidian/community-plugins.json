@@ -21,5 +21,10 @@
   "make-md",
   "obsidian-desmos",
   "drawio-obsidian",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "callout-manager",
+  "obsidian-kanban",
+  "obsidian-advanced-uri",
+  "homepage",
+  "obsidian-style-settings"
 ]
