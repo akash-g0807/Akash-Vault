@@ -4,85 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c3ae478c17213e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bbae581144698189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Open and Closed Ball.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e416e0af37dbf9f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Semester 1 Template.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4f9029b80532a970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_templater_cheat_sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8a65e5696361b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Examples of Isometric Equivalence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "cc66baf86df36e79",
         "type": "tabs",
         "children": [
           {
-            "id": "474ca53941160080",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
-              }
-            }
-          },
-          {
             "id": "1ca5acba43966032",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "make-folder-view",
               "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md"
+                "contextPath": "Semester 1"
               }
             }
           },
@@ -96,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Semester 1 Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Semester 1 Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Semester 1 Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -254,44 +181,43 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e416e0af37dbf9f7",
+  "active": "1ca5acba43966032",
   "lastOpenFiles": [
+    "Semester 1/Semester 1.md",
     "Semester 1/Hello/Hello.md",
+    "Templates/Semester 1 Template.md",
+    "Home.md",
+    "TODO.md",
+    "Context/#priority.mdb",
+    "Semester 1/context.mdb",
     "Semester 1/Hello",
     "Semester 1",
-    "Semester 1/Hello/Hello.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
     "Semester 1/Quantum/Quantum.md",
-    "Templates/Semester 1 Template.md",
     "Semester 1/Quantum",
+    "University/University.md",
+    "Templates/Course Template.md",
+    "Semester 1/Quantum/Quantum2.md",
+    "Templates/Templates.md",
+    "Templates/mutate_formatter.js",
+    "Templates/New Text Document.txt",
     "README.md",
     "Semester 1/hr",
     "Semester 1/hr/hr.md",
     "Templates/he.md",
     "Semester 1/He",
     "Semester 1/He/He.md",
-    "Semester 1/context.mdb",
-    "Semester 1/Semester 1.md",
-    "Semester 1/Hello/Hello.md",
     "obsidian_templater_cheat_sheet.md",
     "University/Examples of Isometric Equivalence.md",
-    "University/University.md",
     "Semester 1/Qunatum/Qunatum.md",
     "Semester 1/Qunatum",
     "Semester 1/Hello.md",
     "University/Open and Closed Ball.md",
     "Semester 1/Title/Hello.md",
-    "Semester 1/Title",
-    "Universiry/Semester 1/context.mdb",
     "Universiry/Semester 1/Semester 1.md",
     "Universiry/Semester 1/Quantum/Quantum.md",
-    "Universiry/Semester 1/Quantum",
     "University/Semester 1/Semester 1.md",
     "University/The (basic) Geometry of Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
-    "University/Subspaces and Equivalence of Metric Spaces.md",
-    "University/Isometric Equivalence.md",
-    "TODO.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
