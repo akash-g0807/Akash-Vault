@@ -21,4 +21,5 @@
 18. Finish function spaces proof [[Function Spaces]]
 19. More Examples of Subspaces: [[Examples of Subspaces]]
 20. Show that isometry is a bijection [[Isometric Equivalence]]
-21. Parametric Curves as Equivalence Relation: [[Parametric Curves as Equivalent Relations]]
+21. Examples of Isometric Equivalence : [[Examples of Isometric Equivalence]]
+22. Parametric Curves as Equivalence Relation: [[Parametric Curves as Equivalent Relations]]

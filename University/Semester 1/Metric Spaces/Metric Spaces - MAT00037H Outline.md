@@ -10,3 +10,4 @@ Metric spaces in essence is an abstraction of the notion of distance in $\mathbb
 4. [[Function Spaces]]
 5. [[Metric Space Induced by norm]]
 6. [[Subspaces and Equivalence of Metric Spaces]]
+7. [[The (basic) Geometry of Metric Spaces]]

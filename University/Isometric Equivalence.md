@@ -33,3 +33,7 @@ In this event we shall say that the **metric equivalence** or **isometry** is de
 
 Here we will show that the isometry $\psi$ is **injective** hence a **bijection**.
 
+## Further Notes
+---
+- [[Examples of Isometric Equivalence]]
+
