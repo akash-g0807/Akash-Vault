@@ -11,13 +11,8 @@
             "id": "bbae581144698189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -67,20 +62,18 @@
             }
           },
           {
-            "id": "53cf22d62ab1c063",
+            "id": "35316bd056c0a921",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -96,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,16 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
-            }
-          },
-          {
-            "id": "4e1f734dc86992ef",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           },
@@ -153,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa7be367d69c9cc5",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
           }
@@ -172,55 +161,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-matrix:Obsidian Matrix": false,
       "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "bbae581144698189",
+  "active": "3fb07fabad84e87c",
   "lastOpenFiles": [
-    "Home.md",
-    "Semester 1/Semester 1.md",
-    "obsidian_templater_cheat_sheet.md",
+    "Test/Hello.md",
+    "University/Kronecker Delta.md",
+    "University/Young's Inequality.md",
+    "University",
+    "Untitled.md",
+    "Test/Test.md",
     "Templates/Test Template.md",
+    "TestHello.md",
+    "Test/context.mdb",
+    "Templates/Untitled.md",
+    "University/Home.md",
+    "Test",
+    "University/Parametric Curves as Equivalent Relations.md",
+    "University/Parametric Curves.md",
+    "obsidian_templater_cheat_sheet.md",
+    "University/Semester 1/Semester 1.md",
     "Templates/Templates.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
     "context.mdb",
-    "Semester 1/context.mdb",
+    "University/Semester 1/context.mdb",
     "Context/#assignment.mdb",
-    "Oriented Curves.md",
+    "University/Oriented Curves.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/context.mdb",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
-    "Curves.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "Parametric Curves.md",
-    "Parametric Curves as Equivalent Relations.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 2.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "University/Curves.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "TODO.md",
     "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md",
-    "Basics of Continuity on Open Sets.md",
-    "Definition of Total Derivative.md",
-    "Gradient Operator.md",
-    "Scalar and Vector Fields.md",
-    "Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Open Sets Diagram.svg",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
-    "Pasted image 20230927163933.png",
-    "Pasted image 20230929191527.png",
-    "solution.pdf",
-    "Triple Vector Product proof.svg",
-    "Semester 1/Metric Spaces/Metric Spaces Lectures",
-    "Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures",
-    "Untitled",
-    "Semester 1/Classical Dynamics/Assignments",
+    "University/Open Sets Diagram.svg",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
+    "University/Pasted image 20230927163933.png",
+    "University/Pasted image 20230929191527.png",
+    "University/solution.pdf",
+    "University/Triple Vector Product proof.svg",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures",
     "Semester 1/Classical Dynamics/Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
