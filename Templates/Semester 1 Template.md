@@ -1,7 +1,7 @@
 ---
 <%*    const priority = await tp.system.suggester(
         ["🎥 ",
-        "🐦 Tweet",
+        "🔺 Highest priority.",
         "💭 Thought",
         "🎧 Podcast",
         "👤 Person",
@@ -10,7 +10,7 @@
         "📚 Book",
         "📰 Article"], 
         ["🎥 Video",
-        "🐦 Tweet",
+        "🔺 Highest Priority.",
         "💭 Thought",
         "🎧 Podcast",
         "👤 Person",

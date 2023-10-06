@@ -11,9 +11,12 @@
             "id": "1ca5acba43966032",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Semester 1"
+                "file": "University/Open and Closed Ball.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -86,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Open and Closed Ball.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Open and Closed Ball.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Open and Closed Ball.md"
+              }
             }
           },
           {
@@ -183,19 +191,29 @@
   },
   "active": "1ca5acba43966032",
   "lastOpenFiles": [
-    "Semester 1/Semester 1.md",
-    "Semester 1/Hello/Hello.md",
-    "Templates/Semester 1 Template.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "University/Open and Closed Ball.md",
+    "University/The (basic) Geometry of Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/Metrics.md",
+    "University/General Definition of Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "University/START PAGE.md",
     "Home.md",
+    "Semester 1/Semester 1.md",
+    "Semester 1/Quantum/Quantum.md",
+    "Semester 1/Classical/Classical.md",
+    "Semester 1/Classical",
+    "University/University.md",
+    "Semester 1/context.mdb",
+    "Templates/Semester 1 Template.md",
+    "Semester 1/Quantum",
+    "Semester 1",
+    "Semester 1/Hello/Hello.md",
     "TODO.md",
     "Context/#priority.mdb",
-    "Semester 1/context.mdb",
     "Semester 1/Hello",
-    "Semester 1",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
-    "Semester 1/Quantum/Quantum.md",
-    "Semester 1/Quantum",
-    "University/University.md",
     "Templates/Course Template.md",
     "Semester 1/Quantum/Quantum2.md",
     "Templates/Templates.md",
@@ -209,15 +227,6 @@
     "Semester 1/He/He.md",
     "obsidian_templater_cheat_sheet.md",
     "University/Examples of Isometric Equivalence.md",
-    "Semester 1/Qunatum/Qunatum.md",
-    "Semester 1/Qunatum",
-    "Semester 1/Hello.md",
-    "University/Open and Closed Ball.md",
-    "Semester 1/Title/Hello.md",
-    "Universiry/Semester 1/Semester 1.md",
-    "Universiry/Semester 1/Quantum/Quantum.md",
-    "University/Semester 1/Semester 1.md",
-    "University/The (basic) Geometry of Metric Spaces.md",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
