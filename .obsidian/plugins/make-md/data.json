@@ -104,7 +104,10 @@
       "Semester 1/Hello",
       "Semester 1",
       "University/Semester 1/Classical Dynamics",
-      "University"
+      "University",
+      "University/Semester 1",
+      "University/Semester 1/Classical Dynamics/Assignments",
+      "Excalidraw"
     ]
   },
   "expandedSpaces": [
@@ -142,7 +145,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696697686822,
+  "spacesAutoBackupLast": 1696713702398,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
