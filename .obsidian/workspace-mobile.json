@@ -72,16 +72,11 @@
             }
           },
           {
-            "id": "8c11c270894aba6a",
+            "id": "384187ba9aa3c671",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           },
           {
@@ -91,9 +86,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "98ee29b27c3951c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/START PAGE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -177,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home.md",
+            "file": "University/START PAGE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,7 +202,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home.md",
+            "file": "University/START PAGE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -206,7 +214,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home.md"
+            "file": "University/START PAGE.md"
           }
         }
       },
@@ -231,6 +239,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
@@ -243,7 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c11c270894aba6a",
+  "active": "98ee29b27c3951c6",
   "lastOpenFiles": [
     "Metric spaces problem sheet.pdf",
     "Home.md",
