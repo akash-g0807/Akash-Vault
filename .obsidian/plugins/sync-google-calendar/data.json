@@ -3,5 +3,5 @@
   "fetchMaximumEvents": 2000,
   "renderDate": true,
   "renderTags": true,
-  "enableLogging": false
+  "enableLogging": true
 }

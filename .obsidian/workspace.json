@@ -4,45 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1935927bd822c7ab",
+        "id": "afe31f43ab21c571",
         "type": "tabs",
         "children": [
           {
-            "id": "3a78589a38ac9b47",
+            "id": "b8e842dc585ad594",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "7c538ee3500602a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/START PAGE.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a9218e3ce77871fd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b43e8be09e7d19ab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
-              }
             }
           }
         ]
@@ -121,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/START PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/START PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/START PAGE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -222,10 +188,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c538ee3500602a7",
+  "active": "b8e842dc585ad594",
   "lastOpenFiles": [
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "TODO.md",
+    "Excalidraw/Drawing 2023-10-07 22.51.14.excalidraw.md",
     "University/START PAGE.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
     "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
     "Excalidraw/Classical Dynamics Problem CLass.md",
     "University/Semester 1/Classical Dynamics/Examples of Trajectories.md",
@@ -248,8 +216,6 @@
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "University/Semester 1/Classical Dynamics/Position of a particle.md",
     "University/Position Vectors.md",
-    "University/General Definition of Vectors.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
     "University/context.mdb",
     "Semester 1/Kanbab",
     "Semester 1",
