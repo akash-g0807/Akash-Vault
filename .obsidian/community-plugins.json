@@ -28,5 +28,8 @@
   "obsidian-tikzjax",
   "metadata-menu",
   "obsidian-style-settings",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "google-calendar",
+  "obsidian-full-calendar",
+  "sync-google-calendar"
 ]

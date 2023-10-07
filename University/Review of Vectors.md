@@ -8,19 +8,14 @@
 ### 1. [[General Definition of Vectors]]
 ### 2. [[Vectors as displacement]]
 
-### 3. [[Orthonormal Basis for Vectors]]
+### 3. [[Position Vectors]]
+### 4. [[Orthonormal Basis for Vectors]]
 
-### 4. [[Vector Algebra]]
+### 5. [[Vector Algebra]]
 
+### 6. [[Vector Equation of Lines]]
 
+### 7. [[Vector Equation of Planes]]
 
-
-
-
-
-### 5. [[Vector Equation of Lines]]
-
-### 6. [[Vector Equation of Planes]]
-
-### 7. [[Change of Axes]]
+### 8. [[Change of Axes]]
 

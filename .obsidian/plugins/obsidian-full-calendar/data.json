@@ -1,0 +1,26 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "rgb(245, 224, 220)",
+      "url": "https://calendar.google.com/calendar/ical/ag1884%40york.ac.uk/private-8c0c0eeb2ac88f8916b21ee32f59a591/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "rgb(245, 224, 220)",
+      "url": "https://calendar.google.com/calendar/ical/yar%40yusu.org/public/basic.ics"
+    },
+    {
+      "type": "ical",
+      "color": "rgb(245, 224, 220)",
+      "url": "https://timetable.york.ac.uk/ical?eu=YWcxODg0QHlvcmsuYWMudWs=&h=XU3BeKwNeJn6mz8kubI4O4p0ZZoFoUt76lhM83pXMaQ="
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

@@ -23,3 +23,4 @@
 20. Show that isometry is a bijection [[Isometric Equivalence]]
 21. Examples of Isometric Equivalence : [[Examples of Isometric Equivalence]]
 22. Parametric Curves as Equivalence Relation: [[Parametric Curves as Equivalent Relations]]
+23. Position Vectors: [[Position Vectors]]

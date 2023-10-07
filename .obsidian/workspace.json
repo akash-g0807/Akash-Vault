@@ -8,12 +8,52 @@
         "type": "tabs",
         "children": [
           {
-            "id": "581fdcfadfcea16a",
+            "id": "dd1b9d20ee56dc98",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Templates"
+                "file": "University/Semester 1/Classical Dynamics/Parabolic Trajectory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a78589a38ac9b47",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2448ce2620bc351c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Triple Scalar Product.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a9218e3ce77871fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60698dca725ba677",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
               }
             }
           }
@@ -93,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Semester 1/Classical Dynamics/Parabolic Trajectory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Semester 1/Classical Dynamics/Parabolic Trajectory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Semester 1/Classical Dynamics/Parabolic Trajectory.md"
+              }
             }
           },
           {
@@ -148,17 +192,34 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "4bf360c51ffc8b7b",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-year",
+              "state": {}
+            }
+          },
+          {
+            "id": "23bbf6fbddf69a5b",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 203,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sync-google-calendar:Sync Google Calendar": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -167,40 +228,41 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "581fdcfadfcea16a",
+  "active": "dd1b9d20ee56dc98",
   "lastOpenFiles": [
-    "Templates/Templates.md",
-    "University/Scalar Product.md",
-    "University/Maximum and Minimum Element.md",
-    "University/Line Integrals.md",
-    "University/Continuously Differentiable Functions.md",
-    "University/Boundedness of Sets.md",
-    "University/Basics of Continuity on Open Sets.md",
-    "Templates/Semester 1 Template.md",
-    "Templates/Untitled.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
-    "University/Semester 1/Semester 1.md",
-    "University/context.mdb",
-    "University/University.md",
-    "University/Subspaces.md",
+    "University/Semester 1/Classical Dynamics/Examples of Trajectories.md",
+    "University/Semester 1/Classical Dynamics/Newtonian Mechanics.md",
+    "University/Semester 1/Classical Dynamics/Straight Line Trajectory.md",
+    "University/Semester 1/Classical Dynamics/Parabolic Trajectory.md",
+    "University/Triple Scalar Product.md",
+    "University/Vector Algebra.md",
+    "University/Review of Vectors.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "University/START PAGE.md",
-    "Templates/Kanban Template.md",
-    "TODO.md",
-    "University/Examples of Open and Closed Balls.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
-    "University/Open and Closed Ball.md",
-    "University/The (basic) Geometry of Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/Metric Space Induced by norm.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "Semester 1/Kanbab/Kanbab.md",
+    "University/Semester 1/Classical Dynamics/Kinematics-Velocity and Acceleration.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "University/Semester 1/Classical Dynamics/Position of a particle.md",
+    "University/Position Vectors.md",
+    "University/General Definition of Vectors.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
+    "TODO.md",
+    "University/Vectors as displacement.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "Practical - ELE00138M-A (Practical).md",
+    "University/context.mdb",
     "Semester 1/Kanbab",
     "Semester 1",
     "Semester 1/Hello",
