@@ -12,13 +12,8 @@
             "id": "0757efbbabe078f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Weekly Template.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Weekly Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Weekly Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Weekly Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -220,16 +211,18 @@
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "0757efbbabe078f9",
+  "active": "35316bd056c0a921",
   "lastOpenFiles": [
     "Journal/Daily/2023-10-07.md",
     "Journal/Daily/2023-10-08.md",
     "Journal/Weekly/2023-W40.md",
-    "Journal/Daily2023-10-02.md",
     "Templates/Weekly Template.md",
+    "Journal/Daily/Daily.md",
+    "Journal/Daily2023-10-02.md",
     "Journal/Weekly/2023-W39.md",
     "Journal/Weekly/Untitled.md",
     "Journal/Weekly/Invalid date.md",
@@ -251,7 +244,6 @@
     "University/Scalar Product.md",
     "University/Smooth Curves.md",
     "University/Oriented Curves.md",
-    "University/Curves.md",
     "Journal/Weekly",
     "Journal/Daily",
     "Journal",
