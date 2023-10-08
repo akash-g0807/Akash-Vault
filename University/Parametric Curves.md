@@ -29,6 +29,8 @@ $$h:[a^{'}, b{'}] \rightarrow [a,b]$$
 such that $\dot{h} \geq 0$, $h(a^{'}) = a$, $h(b^{'}) = b$
 ```
 
+^2f90b6
+
 Reparameterization as the name implies is just a change in parameters. 
 
 Drawing a diagram below of an example, let the start and end points of $\underline{p}$ be:
@@ -76,7 +78,7 @@ This is an example of a function $h$.
 
 ## Further Notes
 ---
-- [[Parametric Curves as Equivalent Relations]]
+- [[Parametric Curves as Equivalence Relations]]
 # Backlinks
 ---
 - [[Curves]]

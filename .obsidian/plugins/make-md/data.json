@@ -104,17 +104,16 @@
       "Semester 1/Hello",
       "Semester 1",
       "University/Semester 1/Classical Dynamics",
-      "University/Semester 1",
       "University/Semester 1/Classical Dynamics/Assignments",
-      "Journal/Daily",
-      "Journal/Weekly",
-      "Templates"
+      "Templates",
+      "Journal",
+      "Journal/Daily"
     ]
   },
   "expandedSpaces": [
     null,
-    null,
-    "Akash-Vault"
+    "Akash-Vault",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
@@ -146,7 +145,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696727921995,
+  "spacesAutoBackupLast": 1696779477705,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
