@@ -4,39 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4fd8060b7905b9bc",
+        "id": "c1b51c63958f6993",
         "type": "tabs",
         "children": [
           {
-            "id": "5b12a1b9f325de3b",
+            "id": "27e255722864ea80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Weekly/2023-W40.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8d263ce5a743741",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Journal/Daily/Database.md"
-              }
-            }
-          },
-          {
-            "id": "ca582540e2089f0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Template.md",
+                "file": "University/START PAGE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -126,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Weekly/2023-W40.md",
+                "file": "University/START PAGE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Weekly/2023-W40.md",
+                "file": "University/START PAGE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Weekly/2023-W40.md"
+                "file": "University/START PAGE.md"
               }
             }
           },
@@ -202,7 +180,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -223,18 +202,29 @@
       "homepage:Open homepage": false,
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5b12a1b9f325de3b",
+  "active": "27e255722864ea80",
   "lastOpenFiles": [
-    "Journal/Daily/Database.md",
-    "Journal/Weekly/2023-W40.md",
+    "Action Dashboard.md",
+    "Agenda.md",
+    "TODO.md",
+    "tasksCalendar/demo_file.md",
+    "University/START PAGE.md",
+    "tasksCalendar/view.js",
+    "tasksCalendar/view.css",
+    "tasksCalendar",
+    "Untitled 1.md",
     "Journal/Daily/2023-10-08.md",
-    "Templates/Weekly Template.md",
+    "Templates/fileclass/Daily.md",
     "Templates/Daily Template.md",
+    "Journal/Weekly/2023-W40.md",
+    "Templates/fileclass",
+    "Journal/Daily/Database.md",
+    "Templates/Weekly Template.md",
     "Journal/Daily/2023-10-07.md",
     "Journal/Daily/2023-10-06.md",
     "Journal/Daily/Daily.md",
@@ -248,24 +238,12 @@
     "University/Line Integral using Parametrization.md",
     "University/Line Integrals.md",
     "University/Examples of Line Integrals using Parametrization.md",
-    "TODO.md",
     "University/Line Integrals with Orientation Reversed.md",
-    "University/START PAGE.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Journal/Daily2023-10-02.md",
-    "Journal/Weekly/2023-W39.md",
-    "Journal/Weekly/Untitled.md",
-    "Journal/Weekly/Invalid date.md",
-    "Journal/Weekly/Weekly.md",
     "Journal/Weekly",
     "Journal/Daily",
     "Journal",
     "University/context.mdb",
     "Semester 1/Kanbab",
-    "Semester 1",
-    "Semester 1/Hello",
-    "Semester 1/Quantum",
-    "Semester 1/Hwllo",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
