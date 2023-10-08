@@ -6,48 +6,40 @@
       {
         "id": "4fd8060b7905b9bc",
         "type": "tabs",
-        "dimension": 50.13495276653172,
         "children": [
           {
-            "id": "0757efbbabe078f9",
+            "id": "5b12a1b9f325de3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Fundamental Theorem of Line Integrals.md",
-                "mode": "preview",
+                "file": "Journal/Weekly/2023-W40.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "3af13d9b5d73c505",
+            "id": "d8d263ce5a743741",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Journal/Daily/Database.md"
+              }
+            }
+          },
+          {
+            "id": "ca582540e2089f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "preview",
+                "file": "Templates/Daily Template.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7db4417c9e7e0652",
-        "type": "tabs",
-        "dimension": 49.86504723346828,
-        "children": [
-          {
-            "id": "5b12a1b9f325de3b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf"
               }
             }
           }
@@ -110,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -135,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Fundamental Theorem of Line Integrals.md",
+                "file": "Journal/Weekly/2023-W40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Fundamental Theorem of Line Integrals.md",
+                "file": "Journal/Weekly/2023-W40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Fundamental Theorem of Line Integrals.md"
+                "file": "Journal/Weekly/2023-W40.md"
               }
             }
           },
@@ -215,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417,
+    "width": 321,
     "collapsed": true
   },
   "left-ribbon": {
@@ -231,41 +222,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "periodic-notes:Open today": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0757efbbabe078f9",
+  "active": "5b12a1b9f325de3b",
   "lastOpenFiles": [
+    "Journal/Daily/Database.md",
+    "Journal/Weekly/2023-W40.md",
+    "Journal/Daily/2023-10-08.md",
+    "Templates/Weekly Template.md",
+    "Templates/Daily Template.md",
+    "Journal/Daily/2023-10-07.md",
+    "Journal/Daily/2023-10-06.md",
+    "Journal/Daily/Daily.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
+    "Excalidraw/Excalidraw.md",
+    "Journal/Daily/2023-10-10.md",
+    "Journal/Daily/2023-10-09.md",
+    "Excalidraw/Classical Dynamics Problem CLass.md",
+    "University/Fundamental Theorem of Line Integrals.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Line Integral using Parametrization.md",
     "University/Line Integrals.md",
-    "University/Fundamental Theorem of Line Integrals.md",
     "University/Examples of Line Integrals using Parametrization.md",
     "TODO.md",
     "University/Line Integrals with Orientation Reversed.md",
     "University/START PAGE.md",
-    "Journal/Daily/2023-10-08.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "Journal/Daily/2023-10-07.md",
-    "Journal/Weekly/2023-W40.md",
-    "Templates/Weekly Template.md",
-    "Journal/Daily/Daily.md",
     "Journal/Daily2023-10-02.md",
     "Journal/Weekly/2023-W39.md",
     "Journal/Weekly/Untitled.md",
     "Journal/Weekly/Invalid date.md",
     "Journal/Weekly/Weekly.md",
-    "Templates/Daily Template.md",
-    "Templates/Course Template.md",
-    "Templates/Templates.md",
-    "University/Reparameterization in Line Integrals.md",
-    "University/General Definition of Line Integrals.md",
-    "University/Properties of Line Integrals.md",
-    "University/Parametric Curves.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
     "Journal/Weekly",
     "Journal/Daily",
     "Journal",

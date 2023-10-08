@@ -14,3 +14,17 @@
 - [[Journal/Daily/<%moment(tp.file.title).startOf("isoWeek").add(4,'day').format("YYYY-MM-DD")%>|Friday]]
 - [[Journal/Daily/<%moment(tp.file.title).startOf("isoWeek").add(5,'day').format("YYYY-MM-DD")%>|Saturday]]
 - [[Journal/Daily/<%moment(tp.file.title).startOf("isoWeek").add(6,'day').format("YYYY-MM-DD")%>|Sunday]]
+
+## Overview
+
+```dataview
+table without id
+	file.link AS "Day",
+	dinner AS "🍚",
+	choice(sleep,"✅","❌") AS "😴",
+	choice(study, "✅","❌") AS "📖",
+	choice(wellbeing, "✅","❌") AS "🧑‍⚕️"
+from "Journal/Daily"
+where week = "<% moment(tp.file.title).format("gggg-[W]ww")%>"
+sort file.name ASC
+```
