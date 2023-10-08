@@ -160,7 +160,7 @@ pieces, and leads to a practical formula for the line integral
 ## Further Notes
 ---
 -  [[Reparameterization in Line Integrals]]
-- [[Examples of Line Integrals using Parametrization
+- [[Examples of Line Integrals using Parametrization]]
 
 
 # Backlinks

@@ -12,8 +12,26 @@
             "id": "0757efbbabe078f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/Fundamental Theorem of Line Integrals.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3af13d9b5d73c505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Fundamental Theorem of Line Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Fundamental Theorem of Line Integrals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Fundamental Theorem of Line Integrals.md"
+              }
             }
           },
           {
@@ -215,10 +237,19 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "35316bd056c0a921",
+  "active": "0757efbbabe078f9",
   "lastOpenFiles": [
-    "Journal/Daily/2023-10-07.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Line Integral using Parametrization.md",
+    "University/Line Integrals.md",
+    "University/Fundamental Theorem of Line Integrals.md",
+    "University/Examples of Line Integrals using Parametrization.md",
+    "TODO.md",
+    "University/Line Integrals with Orientation Reversed.md",
+    "University/START PAGE.md",
     "Journal/Daily/2023-10-08.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Journal/Daily/2023-10-07.md",
     "Journal/Weekly/2023-W40.md",
     "Templates/Weekly Template.md",
     "Journal/Daily/Daily.md",
@@ -230,20 +261,11 @@
     "Templates/Daily Template.md",
     "Templates/Course Template.md",
     "Templates/Templates.md",
-    "University/Line Integrals.md",
-    "University/Line Integral using Parametrization.md",
     "University/Reparameterization in Line Integrals.md",
     "University/General Definition of Line Integrals.md",
     "University/Properties of Line Integrals.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "University/Parametric Curves.md",
     "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 3.pdf",
-    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 2.md",
-    "University/Scalar Product.md",
-    "University/Smooth Curves.md",
-    "University/Oriented Curves.md",
     "Journal/Weekly",
     "Journal/Daily",
     "Journal",

@@ -9,6 +9,8 @@
 
 ### 3. [[Line Integral using Parametrization]]
 
+### 4. [[Line Integrals with Orientation Reversed]]
+
 # Backlinks
 ---
 - [[Vector & Complex Calculus - MAT00047I Outline]]

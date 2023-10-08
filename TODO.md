@@ -24,4 +24,6 @@
 21. Examples of Isometric Equivalence : [[Examples of Isometric Equivalence]]
 22. Parametric Curves as Equivalence Relation: [[Parametric Curves as Equivalence Relations]]
 23. Position Vectors: [[Position Vectors]]
+24. Example of reverse orientation: [[Line Integrals with Orientation Reversed]]
+25. Examples of Line Integrals [[Examples of Line Integrals using Parametrization]]
 
