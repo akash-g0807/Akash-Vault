@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Weekly Template.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -225,10 +225,12 @@
   },
   "active": "0757efbbabe078f9",
   "lastOpenFiles": [
-    "Journal/Weekly/2023-W39.md",
-    "Journal/Weekly/2023-W40.md",
+    "Journal/Daily/2023-10-07.md",
     "Journal/Daily/2023-10-08.md",
+    "Journal/Weekly/2023-W40.md",
+    "Journal/Daily2023-10-02.md",
     "Templates/Weekly Template.md",
+    "Journal/Weekly/2023-W39.md",
     "Journal/Weekly/Untitled.md",
     "Journal/Weekly/Invalid date.md",
     "Journal/Weekly/Weekly.md",
@@ -250,8 +252,6 @@
     "University/Smooth Curves.md",
     "University/Oriented Curves.md",
     "University/Curves.md",
-    "University/Concatenation of Curves.md",
-    "University/Untitled.md",
     "Journal/Weekly",
     "Journal/Daily",
     "Journal",
