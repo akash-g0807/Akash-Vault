@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Journal/Daily",
+      "template": "Templates/Daily Template.md"
+    },
+    {
+      "folder": "Journal/Weekly",
+      "template": "Templates/Weekly Template.md"
     }
   ],
   "syntax_highlighting": true,
