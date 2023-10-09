@@ -8,28 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6a011d86c014cc2",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5f1f63a8a39ec1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/The Polar Co-Ordinate System.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1d2131a71611103",
+            "id": "cea820169de4ef94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,12 +16,24 @@
                 "file": "HOME.md",
                 "mode": "preview",
                 "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ba84e1ff8230bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Action Dashboard.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/The Polar Co-Ordinate System.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/The Polar Co-Ordinate System.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/The Polar Co-Ordinate System.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -205,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475,
+    "width": 379,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,34 +218,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c5f1f63a8a39ec1a",
+  "active": "cea820169de4ef94",
   "lastOpenFiles": [
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 2.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 1.md",
     "HOME.md",
+    "Action Dashboard.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignments.md",
+    "University/Change of Axes.md",
+    "University/Basics of Continuity on Open Sets.md",
+    "TODO.md",
+    "Agenda.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "Journal/Weekly/2023-W40.md",
+    "Journal/Daily/Database.md",
+    "Journal/Daily/2023-10-09.md",
+    "Journal/Daily/2023-10-08.md",
     "University/START PAGE.md",
     "University/The Polar Co-Ordinate System.md",
     "Excalidraw/Vector and Complex Calculus Lecture 5.md",
-    "TODO.md",
     "University/Unit Vector.md",
     "University/Vector Algebra.md",
     "University/Review of Vectors.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "University/Motion in Plane Polar Co-ordinates.md",
-    "University/Newtonian Mechanics.md",
-    "University/Basic Kinematics.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "University/Examples of Trajectories.md",
-    "University/Circular Trajectory.md",
-    "University/Parabolic Trajectory.md",
-    "University/Straight Line Trajectory.md",
-    "University/Kinematics-Velocity and Acceleration.md",
-    "University/Position of a particle.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
-    "University/Vectors as displacement.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
     "Images",
     "home.jpg",
     "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",

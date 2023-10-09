@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0.588
+banner_y: 0.548
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
@@ -31,10 +31,10 @@ banner_y: 0.588
 	- [[Q3 2022]]
 	- [[Q4 2022]]
 - 👥 Journal and Agenda 
-	- [[Sally Smith]]
-	- [[Bill Hansen]]
-	- [[Brad Jefferson]]
-	- [[Olga Olson]]
+	- [[Agenda]]
+	- [[Action Dashboard]]
+	- [[TODO]]
+
 
 # Vault Info
 - 🗄️ Recent file updates
