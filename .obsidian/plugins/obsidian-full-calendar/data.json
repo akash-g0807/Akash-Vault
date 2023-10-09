@@ -14,6 +14,11 @@
       "type": "ical",
       "color": "rgb(245, 224, 220)",
       "url": "https://timetable.york.ac.uk/ical?eu=YWcxODg0QHlvcmsuYWMudWs=&h=XU3BeKwNeJn6mz8kubI4O4p0ZZoFoUt76lhM83pXMaQ="
+    },
+    {
+      "type": "local",
+      "color": "#40a551",
+      "directory": "University"
     }
   ],
   "defaultCalendar": 0,

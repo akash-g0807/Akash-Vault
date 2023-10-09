@@ -3,5 +3,7 @@
   "attachmentFolderPath": "Semester 1/Untitled",
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "propertiesInDocument": "hidden"
 }

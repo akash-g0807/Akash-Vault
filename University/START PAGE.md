@@ -2,6 +2,8 @@
 sticker: lucide//file
 ---
 # Classes
+---
+
 
 | **Files**                                 | Year | Semester | Professor         |
 | ----------------------------------------- | ---- | -------- | ----------------- |

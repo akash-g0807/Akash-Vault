@@ -2,5 +2,5 @@
 ---
 
 Consider the following equation for the [trajectory]: 
-$$\underline{r} = \underline{r_{0}}+ $$
+$$\underline{r} = \underline{r_{0}}+ \underline{v}_{0}t $$
 

@@ -4,53 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf0357c75dd3211e",
+        "id": "0f88aa0587a2bee0",
         "type": "tabs",
         "children": [
           {
-            "id": "f59eb456d4531cdf",
+            "id": "d33e9269194f6046",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb02e0aab9c0bea6",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md"
-              }
-            }
-          },
-          {
-            "id": "e25a52f27dc592a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "069aaa4a95dcee9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Weekly Template.md",
-                "mode": "source",
+                "file": "HOME.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -103,18 +67,20 @@
             }
           },
           {
-            "id": "35316bd056c0a921",
+            "id": "e38e748ad90c39a3",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 393.5,
+    "collapsed": true
   },
   "right": {
     "id": "49fd56b1e1b75feb",
@@ -125,20 +91,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23bbf6fbddf69a5b",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-month",
-              "state": {}
-            }
-          },
-          {
             "id": "8833707e6daf7dc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,20 +108,12 @@
             }
           },
           {
-            "id": "c10671acb8b05170",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "7093d4610bcfe0d4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -199,23 +149,22 @@
             }
           },
           {
-            "id": "aa7be367d69c9cc5",
+            "id": "3ef3b0c7e3eb908b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d3edd3fcea7c8a1",
             "type": "leaf",
             "state": {
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
-          },
-          {
-            "id": "4bf360c51ffc8b7b",
-            "type": "leaf",
-            "state": {
-              "type": "google-calendar-view-year",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,60 +173,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sync-google-calendar:Sync Google Calendar": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "sync-google-calendar:Sync Google Calendar": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "f59eb456d4531cdf",
+  "active": "e38e748ad90c39a3",
   "lastOpenFiles": [
+    "University/START PAGE.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "HOME.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Line Integrals.md",
+    "University/Line Integral using Parametrization.md",
+    "University/General Definition of Line Integrals.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "README.md",
+    "University/Untitled.md",
+    "TODO.md",
+    "home.jpg",
+    "Untitled",
+    "ken-cheung-KonWFWUaAuk-unsplash.jpg",
+    "home.jpg.md",
+    "University/Parabolic Trajectory.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "University/Examples of Trajectories.md",
+    "University/Newtonian Mechanics.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "Action Dashboard.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "Agenda.md",
     "Templates/Weekly Template.md",
     "Journal/Weekly/2023-W40.md",
     "Journal/Daily/Database.md",
-    "Journal/Daily/2023-10-08.md",
-    "Journal/Journal.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "University/START PAGE.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Solutions",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments",
     "University/Semester 1/Classical Dynamics/Problem Sheets",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Untitled database.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments",
     "University/Semester 1/Classical Dynamics/Assignments/Solutions",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Solutions/Classical Dynamics Assignment 1 Section I.md",
     "University/Semester 1/Classical Dynamics/Assignments/Problem Sheets",
     "University/Semester 1/Classical Dynamics/Problem Sheets/cd23.pdf",
-    "University/Semester 1/Semester 1.md",
-    "University/Newtonian Mechanics.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
-    "University/Examples of Trajectories.md",
-    "University/Parabolic Trajectory.md",
-    "Action Dashboard.md",
-    "Agenda.md",
-    "TODO.md",
-    "tasksCalendar/demo_file.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
-    "tasksCalendar",
-    "Untitled 1.md",
-    "Templates/fileclass/Daily.md",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
