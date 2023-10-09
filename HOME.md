@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0.548
+banner_y: 0.54
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
@@ -16,8 +16,8 @@ banner_y: 0.548
 	- [[Rocketry Aerodynamics]]
 	- [[Hybrid Engine Propulsion]]
 - 🌍Languages
-	- Hindi
-	- Telegu
+	- [[Hindi]]
+	- [[Telegu]]
 
 # University
 - 💼 

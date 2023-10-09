@@ -11,6 +11,7 @@ sticker: lucide//file
 | [[Metric Spaces - MAT00037H]]             | 2    | 1        | Dr Jason Levesley |
 | [[Classical Dynamics - MAT00048I]]        | 2    | 1        | Prof. Ed Corrigan                  |
 
+- [[Assignment Page]]
 - [[study tips]]
 - [[information]]
 - [[TODO]]
