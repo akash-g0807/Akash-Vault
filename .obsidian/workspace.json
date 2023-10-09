@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f88aa0587a2bee0",
+        "id": "36f86da1a499d747",
         "type": "tabs",
         "children": [
           {
-            "id": "d33e9269194f6046",
+            "id": "0338d4da9b5b22c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +89,14 @@
         "id": "788d8fba795006da",
         "type": "tabs",
         "children": [
+          {
+            "id": "973f4b70cf44b45e",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
           {
             "id": "8833707e6daf7dc3",
             "type": "leaf",
@@ -163,12 +170,20 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "8b655200a0e633e5",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-year",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 321,
+    "width": 475,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,11 +205,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e38e748ad90c39a3",
+  "active": "0338d4da9b5b22c5",
   "lastOpenFiles": [
     "University/START PAGE.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Images",
     "HOME.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Line Integrals.md",
     "University/Line Integral using Parametrization.md",
@@ -204,8 +220,7 @@
     "University/Untitled.md",
     "TODO.md",
     "home.jpg",
-    "Untitled",
-    "ken-cheung-KonWFWUaAuk-unsplash.jpg",
+    "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",
     "home.jpg.md",
     "University/Parabolic Trajectory.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
