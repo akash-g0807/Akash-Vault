@@ -51,4 +51,5 @@ $$\begin{aligned}&\underline{v}(t) = \frac{d\underline{r}(t)}{dt} = \underline{\
 # Backlinks
 ---
 - [[Examples of Trajectories]]
+- [[Basic Kinematics]]
 - [[Newtonian Mechanics]]

@@ -4,19 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "335bf038b54c9bd7",
+        "id": "516426637899d87a",
         "type": "tabs",
         "children": [
           {
-            "id": "0234e259e6f17a33",
+            "id": "d16923f12cb105f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
+                "file": "University/The Polar Co-Ordinate System.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b6a011d86c014cc2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8260eb815d43d044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f1f63a8a39ec1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
               }
             }
           }
@@ -103,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "University/The Polar Co-Ordinate System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "University/The Polar Co-Ordinate System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "University/The Polar Co-Ordinate System.md"
               }
             }
           },
@@ -205,37 +229,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0234e259e6f17a33",
+  "active": "d16923f12cb105f3",
   "lastOpenFiles": [
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "HOME.md",
-    "Journal/Daily/2023-10-09.md",
-    "Journal/Weekly/2023-W41.md",
-    "Journal/Daily/2023-10-08.md",
-    "Journal/Weekly/2023-W40.md",
-    "Journal/Daily/Database.md",
-    "University/START PAGE.md",
-    "Images",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "University/Line Integrals.md",
-    "University/Line Integral using Parametrization.md",
-    "University/General Definition of Line Integrals.md",
-    "README.md",
-    "University/Untitled.md",
     "TODO.md",
+    "University/Unit Vector.md",
+    "University/Vector Algebra.md",
+    "University/Review of Vectors.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "HOME.md",
+    "University/The Polar Co-Ordinate System.md",
+    "University/Motion in Plane Polar Co-ordinates.md",
+    "University/Newtonian Mechanics.md",
+    "University/Basic Kinematics.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "University/Examples of Trajectories.md",
+    "University/Circular Trajectory.md",
+    "University/Parabolic Trajectory.md",
+    "University/Straight Line Trajectory.md",
+    "University/Kinematics-Velocity and Acceleration.md",
+    "University/Position of a particle.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "University/Vectors as displacement.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 2.md",
+    "Journal/Daily/2023-10-09.md",
+    "Images",
     "home.jpg",
     "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",
-    "home.jpg.md",
-    "University/Parabolic Trajectory.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
-    "University/Examples of Trajectories.md",
-    "University/Newtonian Mechanics.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "Action Dashboard.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Solutions",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments",
     "University/Semester 1/Classical Dynamics/Problem Sheets",

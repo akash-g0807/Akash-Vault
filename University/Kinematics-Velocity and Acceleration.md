@@ -71,4 +71,5 @@ $$\ddot{\underline{r}}(t) = \dot{\underline{v}}(t) = \underline{a}(t) = \lim_{\d
 
 # Backlinks
 ---
+- [[Basic Kinematics]]
 - [[Newtonian Mechanics]]

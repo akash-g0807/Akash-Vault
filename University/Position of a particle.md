@@ -39,4 +39,5 @@ $$\underline{r}(t) = \lambda_{a}\underline{e_{a}}$$
 
 # Backlinks
 ---
+- [[Basic Kinematics]]
 - [[Newtonian Mechanics]]

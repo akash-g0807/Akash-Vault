@@ -4,7 +4,11 @@ In this section, we will deal with ideal **particles**. Particles are an idealiz
 ## Contents
 ---
 
-### 1. [[Position of a particle]]
-### 2. [[Kinematics-Velocity and Acceleration]]
+### 1. [[Basic Kinematics]]
+### 2. [[Motion in Plane Polar Co-ordinates]]
 
-### 3. [[Examples of Trajectories]]
+
+
+# Backlinks
+---
+- [[Classical Dynamics - MAT00048I Outline]]
