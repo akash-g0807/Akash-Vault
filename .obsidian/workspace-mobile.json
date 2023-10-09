@@ -8,70 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b58936426065b49",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "191ec24aa8b266b7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d695ab6bf11b7a91",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8d55ea5e2f81418",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "04dbd1e3850d37ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfb7d1a216e55dc1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ca43a8183a1c1ccc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7303fa3a85d2f941",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "384187ba9aa3c671",
             "type": "leaf",
             "state": {
@@ -80,28 +16,17 @@
             }
           },
           {
-            "id": "768130a3ad6e840d",
+            "id": "ece0d88b810a7a90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "98ee29b27c3951c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "University/START PAGE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "University/START PAGE.md",
+            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "University/START PAGE.md",
+            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -214,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "University/START PAGE.md"
+            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md"
           }
         }
       },
@@ -233,12 +158,21 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "425791407b0cb359",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:Create a new database table": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -249,11 +183,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "98ee29b27c3951c6",
+  "active": "ece0d88b810a7a90",
   "lastOpenFiles": [
+    "HOME.md",
+    "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
     "Metric spaces problem sheet.pdf",
     "Home.md",
     "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
@@ -278,8 +216,6 @@
     "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
     "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
     "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
-    "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 12.51.36.excalidraw.md",
-    "Metrics.md"
+    "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md"
   ]
 }
