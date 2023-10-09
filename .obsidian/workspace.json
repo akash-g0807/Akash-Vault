@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36f86da1a499d747",
+        "id": "335bf038b54c9bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "0338d4da9b5b22c5",
+            "id": "0234e259e6f17a33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HOME.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,11 +196,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0338d4da9b5b22c5",
+  "active": "0234e259e6f17a33",
   "lastOpenFiles": [
+    "Journal/Daily/2023-10-09.md",
+    "Journal/Weekly/2023-W41.md",
+    "Journal/Daily/2023-10-08.md",
+    "Journal/Weekly/2023-W40.md",
+    "Journal/Daily/Database.md",
+    "HOME.md",
     "University/START PAGE.md",
     "Images",
-    "HOME.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Line Integrals.md",
@@ -231,10 +227,6 @@
     "Action Dashboard.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
-    "Agenda.md",
-    "Templates/Weekly Template.md",
-    "Journal/Weekly/2023-W40.md",
-    "Journal/Daily/Database.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Solutions",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments",
     "University/Semester 1/Classical Dynamics/Problem Sheets",
