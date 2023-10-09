@@ -15,8 +15,13 @@ Links: [[START PAGE]]
 
 ## Assignments 
 ---
-| Assignment | Deadline |
-| ---------- | -------- |
-| [[Assignment 1]]           |          |
- 
+```dataview
+table without id
+file.link AS "Assignments",
+date AS "Deadline",
+	Days_Left AS "📆",
+	choice(completion,"✅","❌") AS "📝"
+from "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments" and #assignment   
+
+```
 
