@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "ece0d88b810a7a90",
+            "id": "13a9c05ef2e31d6d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md"
+                "file": "Excalidraw/Vector and Complex Calculus Lecture 5.md"
               }
             }
           }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
+            "file": "Excalidraw/Vector and Complex Calculus Lecture 5.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
+            "file": "Excalidraw/Vector and Complex Calculus Lecture 5.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md"
+            "file": "Excalidraw/Vector and Complex Calculus Lecture 5.md"
           }
         }
       },
@@ -187,9 +187,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ece0d88b810a7a90",
+  "active": "13a9c05ef2e31d6d",
   "lastOpenFiles": [
     "HOME.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 4.md",
+    "Excalidraw/Vector and Complex Calculus Lecture 5.md",
     "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
     "Metric spaces problem sheet.pdf",
@@ -214,8 +216,6 @@
     "solution.pdf",
     "Excalidraw/Drawing 2023-09-29 18.40.58.excalidraw.md",
     "Excalidraw/Drawing 2023-09-25 00.11.38.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 1 Vectors.md",
-    "Excalidraw/Drawing 2023-09-26 15.49.02.excalidraw.md"
+    "Excalidraw/Drawing 2023-10-01 15.59.04.excalidraw.md"
   ]
 }
