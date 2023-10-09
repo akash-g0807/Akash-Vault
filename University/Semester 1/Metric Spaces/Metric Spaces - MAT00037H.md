@@ -19,8 +19,13 @@ Links: [[START PAGE]]
 ## Assignments 
 ---
 ```dataview
-table deadline
-from #assignment
+table without id
+file.link AS "Assignments",
+date AS "Deadline",
+	Days_Left AS "📆",
+	choice(completion,"✅","❌") AS "📝"
+from "University/Semester 1/Metric Spaces/Problem Sheets/Assignments" and #assignment   
+
 ```
  
 

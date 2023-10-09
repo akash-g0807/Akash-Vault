@@ -103,10 +103,13 @@
       "Semester 1",
       "Semester 1/Hello",
       "Semester 1",
-      "University/Semester 1/Classical Dynamics",
       "University/Semester 1/Classical Dynamics/Assignments",
       "Journal/Weekly",
-      "Journal/Daily"
+      "Journal/Daily",
+      "University",
+      "University/Semester 1",
+      "University/Semester 1/Metric Spaces",
+      "University/Semester 1/Metric Spaces/Problem Sheets"
     ]
   },
   "expandedSpaces": [
@@ -144,7 +147,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696879156115,
+  "spacesAutoBackupLast": 1696883703943,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

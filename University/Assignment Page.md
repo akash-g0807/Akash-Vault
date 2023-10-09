@@ -5,6 +5,10 @@
 table without id from #assignment
 ```
 ```dataview
-table deadline
-from #assignment
+table without id
+file.link AS "Assignments",
+date AS "Deadline",
+	Days_Left AS "📆",
+	choice(completion,"✅","❌") AS "📝"
+from  #assignment
 ```
