@@ -3,7 +3,7 @@
   "nativeMenus": true,
   "translucency": false,
   "cssTheme": "AnuPpuccin",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "theme": "obsidian",
   "enabledCssSnippets": [
     "MCL Multi Column",

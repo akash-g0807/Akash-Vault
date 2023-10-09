@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d16923f12cb105f3",
+            "id": "b6a011d86c014cc2",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5f1f63a8a39ec1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,30 +29,20 @@
             }
           },
           {
-            "id": "b6a011d86c014cc2",
+            "id": "b1d2131a71611103",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8260eb815d43d044",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5f1f63a8a39ec1a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
+                "file": "HOME.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,16 +227,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d16923f12cb105f3",
+  "active": "c5f1f63a8a39ec1a",
   "lastOpenFiles": [
+    "HOME.md",
+    "University/START PAGE.md",
+    "University/The Polar Co-Ordinate System.md",
+    "Excalidraw/Vector and Complex Calculus Lecture 5.md",
     "TODO.md",
     "University/Unit Vector.md",
     "University/Vector Algebra.md",
     "University/Review of Vectors.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "HOME.md",
-    "University/The Polar Co-Ordinate System.md",
     "University/Motion in Plane Polar Co-ordinates.md",
     "University/Newtonian Mechanics.md",
     "University/Basic Kinematics.md",
@@ -255,8 +255,6 @@
     "University/Vectors as displacement.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 1.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignment 2.md",
-    "Journal/Daily/2023-10-09.md",
     "Images",
     "home.jpg",
     "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",
