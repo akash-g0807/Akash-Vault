@@ -5,6 +5,7 @@ Sometimes it is more convenient to use **polar co-ordinates**, $(r, \theta)$ *in
 ## Contents
 ---
 ### 1. [[The Polar Co-Ordinate System]]
+### 2. [[Velocity and Acceleration in Polar]]
 
 
 # Backlinks

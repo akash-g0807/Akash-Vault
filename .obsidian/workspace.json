@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "434fbfe7e5536bda",
+        "id": "b533020751e69e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "93a2f2cef2852f1f",
+            "id": "6afbec8dee7b1039",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Assignment Page.md",
-                "mode": "preview",
+                "file": "University/Velocity and Acceleration in Polar.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "8445bc2e67468708",
+            "id": "5b13cd0ac46d381a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,8 +33,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4b12923e613744a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "672ad5b3d858dadd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "University/Velocity and Acceleration in Polar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "University/Velocity and Acceleration in Polar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "University/Velocity and Acceleration in Polar.md"
               }
             }
           },
@@ -220,42 +235,43 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8445bc2e67468708",
+  "active": "6afbec8dee7b1039",
   "lastOpenFiles": [
-    "University/START PAGE.md",
+    "University/Motion in Plane Polar Co-ordinates.md",
+    "University/Velocity and Acceleration in Polar.md",
+    "University/The Polar Co-Ordinate System.md",
     "HOME.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "University/Assignment Page.md",
-    "University/Semester 1/Metric Spaces/Problem Sheets/Assignments/Metric Space Assignment Database.md",
     "Action Dashboard.md",
+    "Agenda.md",
+    "University/START PAGE.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "University/Newtonian Mechanics.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 5.md",
+    "University/Assignment Page.md",
+    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 1.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "Images/space_saturn.png",
+    "University/Semester 1/Metric Spaces/Problem Sheets/Assignments/Metric Space Assignment Database.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment Database.md",
     "University/Semester 1/Metric Spaces/Problem Sheets/Assignments/Metric Spaces Assignment 1.md",
-    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 1.md",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/vcex-1-2023-24.pdf",
     "University/Basic Topology.md",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/VC-EX-2023-24-FC.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Solutions",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 2.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 1.md",
     "University/Semester 1/Metric Spaces/Problem Sheets/Solutions",
     "University/Semester 1/Metric Spaces/Problem Sheets/Assignments",
     "University/Semester 1/Metric Spaces/Problem Sheets",
-    "Agenda.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Assignments.md",
-    "University/Change of Axes.md",
-    "University/Basics of Continuity on Open Sets.md",
-    "TODO.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces.md",
-    "Journal/Weekly/2023-W40.md",
-    "Journal/Daily/Database.md",
-    "Journal/Daily/2023-10-09.md",
     "Images",
     "home.jpg",
     "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",

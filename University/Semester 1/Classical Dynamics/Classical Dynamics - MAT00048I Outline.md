@@ -7,7 +7,6 @@ tags:
 ---
 1. [[Review of Vectors]]
 2. [[Newtonian Mechanics]]
-3. 
 
 ---
 # Backlinks

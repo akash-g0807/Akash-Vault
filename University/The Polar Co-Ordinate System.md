@@ -79,3 +79,10 @@ where $\underline{e_{r}}$ is the unit vector in the **radial direction** and $\u
 \end{document}
 ```
 The relation between between **polar** and **cartesian** is given by:
+$$x = r\cos\theta \ \ \ \ \ \ \  y=r\sin\theta$$
+Just like $\underline{i}$ and $\underline{j}$, $\underline{e_{r}}$ and $\underline{e_{\theta}}$ form an [[Orthonormal Basis for Vectors|orthonormal basis]]. 
+
+# Backlinks
+---
+- [[Motion in Plane Polar Co-ordinates]]
+- [[Newtonian Mechanics]]

@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0.54
+banner_y: 0.544
 ---
 <div class="title" style="color:Sienna">HOME</div>
 
@@ -26,7 +26,7 @@ banner_y: 0.54
 	- [[Metric Spaces - MAT00037H]]
 	- [[Vector & Complex Calculus - MAT00047I]]
 - 📖 Assignments 
-	- [[Q1 2022]]
+	- [[Assignment Page]]
 	- [[Q2 2022]]
 	- [[Q3 2022]]
 	- [[Q4 2022]]
