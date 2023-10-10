@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b533020751e69e2a",
+        "id": "4b12923e613744a7",
         "type": "tabs",
         "children": [
           {
-            "id": "6afbec8dee7b1039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Velocity and Acceleration in Polar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b13cd0ac46d381a",
+            "id": "672ad5b3d858dadd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,22 +17,6 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4b12923e613744a7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "672ad5b3d858dadd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
               }
             }
           }
@@ -132,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Velocity and Acceleration in Polar.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Velocity and Acceleration in Polar.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Velocity and Acceleration in Polar.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -235,7 +206,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6afbec8dee7b1039",
+  "active": "672ad5b3d858dadd",
   "lastOpenFiles": [
     "University/Motion in Plane Polar Co-ordinates.md",
     "University/Velocity and Acceleration in Polar.md",
