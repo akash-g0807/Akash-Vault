@@ -69,3 +69,29 @@
 \end{document}
 ```
 
+As we can see from the diagram:
+$$\underline{e_{r}}= \underline{i}\cos\theta + \underline{j}\sin\theta$$
+and
+$$\underline{e_{\theta}} = \pm \sin\theta \ \underline{i} + \mp \cos\theta\ \underline{j}$$
+because $\underline{e_{r}}$ is [[Orthogonal Vectors|orthogonal]] to $\underline{e_{\theta}}$. Use the case from the diagram:
+$$\underline{e_{\theta}} = \underline{i}\sin\theta - \underline{j}\cos\theta$$
+### Properties
+---
+Here are some properties of Polar Orthonormal Basis Vectors:
+1. Since $\underline{e_{\theta}}$ and $\underline{e_{r}}$ are [[Orthogonal Vectors|orthogonal]], we get:
+$$\underline{e_{r}} \cdot \underline{e_{\theta}} = 0$$
+2. Taking [[Vector Product]] of $\underline{e_{r}}$ and $\underline{e_{\theta}}$ 
+$$\begin{aligned} \underline{e_{r}} \times \underline{e_{\theta}} &= (\underline{i}\cos\theta + \underline{j}\sin\theta) \times ( \underline{i}\sin\theta - \underline{j}\cos\theta) \\ \\ &= (\cos^{2}\theta+ \sin^{2}\theta)\underline{i} \times \underline{j} \\ \\
+&= \underline{k} \\ \\\end{aligned}$$
+> [!Definition] 
+> $$\underline{e_{r}} \times \underline{e_{\theta}} =\underline{k}$$
+
+
+
+## Further Notes
+---
+- [[Derivative of Polar Basis Vectors]]
+# Backlinks
+---
+- [[Motion in Plane Polar Co-ordinates]]
+- [[Newtonian Mechanics]]

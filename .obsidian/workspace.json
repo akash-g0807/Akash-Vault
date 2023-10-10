@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8ecb40bf98ec40",
+        "id": "2537148ec548bcab",
         "type": "tabs",
         "children": [
           {
-            "id": "0cee1f1ed1a5d74b",
+            "id": "37cff4b33a9872b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Polar Orthonormal Basis for Vectors.md",
+                "file": "University/Newton's Equation of Motion.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,36 @@
             }
           },
           {
-            "id": "36b795145e1f9a21",
+            "id": "019a08aaad608d18",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md"
+              }
+            }
+          },
+          {
+            "id": "b8ace19c9da3c02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Properties of Vector Product.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57addba9dc8dbba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278941ef2f7c5f5a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -113,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Polar Orthonormal Basis for Vectors.md",
+                "file": "University/Newton's Equation of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Polar Orthonormal Basis for Vectors.md",
+                "file": "University/Newton's Equation of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Polar Orthonormal Basis for Vectors.md"
+                "file": "University/Newton's Equation of Motion.md"
               }
             }
           },
@@ -216,35 +245,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cee1f1ed1a5d74b",
+  "active": "37cff4b33a9872b3",
   "lastOpenFiles": [
-    "Templates/Course Template.md",
-    "Templates/Daily Template.md",
-    "Templates/Kanban Template.md",
-    "Templates/Semester 1 Template.md",
-    "Templates/Weekly Template.md",
-    "Templates/Note Template.md",
-    "University/Polar Orthonormal Basis for Vectors.md",
-    "University/Motion in Plane Polar Co-ordinates.md",
+    "University/Newton's Equation of Motion.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
     "University/Newtonian Mechanics.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
-    "HOME.md",
+    "Excalidraw/Vector and Complex Calculus Lecture 6.md",
+    "University/Motion in Plane Polar Co-ordinates.md",
     "University/Velocity and Acceleration in Polar.md",
-    "University/The Polar Co-Ordinate System.md",
-    "Action Dashboard.md",
-    "Agenda.md",
-    "University/START PAGE.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "University/Properties of Vector Product.md",
+    "University/Vector Product.md",
+    "University/Vector Algebra.md",
+    "University/Review of Vectors.md",
     "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 5.md",
-    "University/Assignment Page.md",
-    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 1.md",
     "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "HOME.md",
+    "University/Polar Orthonormal Basis for Vectors.md",
+    "University/Derivative of Polar Basis Vectors.md",
+    "University/Position Vector in Polar Co-Ordinates.md",
+    "University/Some Notes on Derivatives in Polar Co-Ordinates.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "University/Position Vectors.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Orthogonal Vectors.md",
+    "University/Scalar Product.md",
+    "University/Basis for Euclidean Three Space.md",
     "Images/space_saturn.png",
-    "University/Semester 1/Metric Spaces/Problem Sheets/Assignments/Metric Space Assignment Database.md",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/vcex-1-2023-24.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/VC-EX-2023-24-FC.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Solutions",

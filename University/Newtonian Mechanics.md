@@ -7,7 +7,7 @@ In this section, we will deal with ideal **particles**. Particles are an idealiz
 ### 1. [[Basic Kinematics]]
 ### 2. [[Motion in Plane Polar Co-ordinates]]
 
-
+### 3. [[Newton's Equation of Motion]] 
 
 # Backlinks
 ---

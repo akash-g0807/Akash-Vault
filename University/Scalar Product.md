@@ -100,10 +100,10 @@ $$\underline{u} \cdot \underline{v} = \sum_{i=1}^{3}u_{i} \space v_{i} = u_{1}v_
 `\end{proof}`
 ## Scalar Product Further Notes
 ---
+- [[Orthogonal Vectors]]
 -  [[Properties of Scalar Product]]
 - [[Scalar Product using Kronecker Delta]]
 
-
-
-
-
+# Backlinks
+---
+- [[Review of Vectors]]

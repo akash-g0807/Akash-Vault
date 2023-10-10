@@ -1,0 +1,3 @@
+# Properties of Scalar Product
+---
+
