@@ -39,9 +39,12 @@
             "id": "bcba2ca20f53564b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Metric Space Lecture 5 part 2.md"
+                "file": "HOME.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -130,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 5 part 2.md",
+            "file": "HOME.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 5 part 2.md",
+            "file": "HOME.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +162,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Metric Space Lecture 5 part 2.md"
+            "file": "HOME.md"
           }
         }
       },
@@ -210,6 +213,8 @@
   },
   "active": "bcba2ca20f53564b",
   "lastOpenFiles": [
+    "Vector calculus assignment 1.pdf",
+    "Context/spacesLastSync.log",
     "HOME.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
     "Excalidraw/Metric Spaces Lecture 5 part 1.md",
@@ -236,7 +241,6 @@
     "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md",
     "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 08.54.24.excalidraw.md",
     "solution.pdf"
   ]
 }
