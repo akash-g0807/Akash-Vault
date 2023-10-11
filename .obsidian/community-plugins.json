@@ -33,7 +33,6 @@
   "periodic-notes",
   "quick-latex",
   "quickadd",
-  "obsidian-style-settings",
   "sync-google-calendar",
   "obsidian-tasks-plugin",
   "templater-obsidian",
@@ -41,5 +40,6 @@
   "settings-search",
   "obsidian-better-codeblock",
   "make-md",
-  "terminal"
+  "terminal",
+  "obsidian-style-settings"
 ]

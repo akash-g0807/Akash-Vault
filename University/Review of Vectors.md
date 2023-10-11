@@ -6,16 +6,24 @@
 ## Contents
 ---
 ### 1. [[General Definition of Vectors]]
-### 2. [[Vectors as displacement]]
 
-### 3. [[Position Vectors]]
-### 4. [[Orthonormal Basis for Vectors]]
+### 2. [[Different Notation for Vectors]] 
 
-### 5. [[Vector Algebra]]
+### 3. [[Vectors as displacement]]
 
-### 6. [[Vector Equation of Lines]]
+### 4. [[Position Vectors]]
 
-### 7. [[Vector Equation of Planes]]
+### 5. [[Basis for Euclidean Three Space]] 
 
-### 8. [[Change of Axes]]
+### 6. [[Vector Algebra]]
 
+### 7. [[Vector Equation of Lines]]
+
+### 8 [[Vector Equation of Planes]]
+
+### 9. [[Change of Axes]]
+
+# Backlinks
+---
+- [[Classical Dynamics - MAT00048I Outline]]
+- [[Vector & Complex Calculus - MAT00047I Outline]]
