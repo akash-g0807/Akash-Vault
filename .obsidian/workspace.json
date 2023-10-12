@@ -11,13 +11,8 @@
             "id": "9bb5069d126d86bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Work Done.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -119,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Work Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Work Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "University/Work Done.md"
-              }
+              "state": {}
             }
           },
           {
@@ -224,9 +215,10 @@
   },
   "active": "9bb5069d126d86bc",
   "lastOpenFiles": [
+    "University/Work Done.md",
+    "University/General Definition of Line Integrals.md",
     "University/Energy.md",
     "University/Kinetic Energy.md",
-    "University/Work Done.md",
     "University/Newtonian Mechanics.md",
     "University/Newton's Laws of Motion.md",
     "University/Newton's Equation of Motion.md",
@@ -251,7 +243,6 @@
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
     "University/Properties of Vector Product.md",
     "Excalidraw/Vector and Complex Calculus Lecture 6.md",
-    "University/Motion in Plane Polar Co-ordinates.md",
     "Images/space_saturn.png",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/vcex-1-2023-24.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/VC-EX-2023-24-FC.pdf",

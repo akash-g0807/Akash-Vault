@@ -16,7 +16,7 @@ $$\int_{C}\underline{g}(\underline{x})\cdot d\underline{x}$$
 > [!math|{"type":"example","number":"auto","setAsNoteMathLink":false,"_index":0}] Example 1.
 > Suppose that an object moves through space along a curve $C$, while acted on a **force** $\underline{F}$, that depends on position, but not on time.
 > 
-> The **amount of energy** transferred to the object by the force is called **work**. This is the line integral
+> The **amount of energy** transferred to the object by the force is called **[[Work Done|work]]**. This is the line integral
 > $$W = \int_{C}\underline{F}(\underline{x})\cdot d\underline{x}$$
 
 
