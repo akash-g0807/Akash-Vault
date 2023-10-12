@@ -27,9 +27,9 @@ banner_y: 0.552
 	- [[Vector & Complex Calculus - MAT00047I]]
 - 📖 Assignments 
 	- [[Assignment Page]]
-	- [[Q2 2022]]
-	- [[Q3 2022]]
-	- [[Q4 2022]]
+	- [[Classical Dynamics Assignments]]
+	- [[Metric Space Assignment Database|Metric Spaces Assignments]]
+	- [[Vector Calculus Assignment Database|Vector and Complex Calculus Assignments]]
 - 👥 Journal and Agenda 
 	- [[Agenda]]
 	- [[Action Dashboard]]
