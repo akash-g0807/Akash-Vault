@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "384187ba9aa3c671",
+            "id": "7af4e975d211d36a",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Metric Spaces Lecture 6.md"
+              }
             }
           },
           {
-            "id": "9656f97e876afa09",
+            "id": "5b82e5bf732ab4f3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -26,7 +28,7 @@
             }
           },
           {
-            "id": "bab4ed1cf0d82f51",
+            "id": "ced3c894dc66a4a3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -36,20 +38,16 @@
             }
           },
           {
-            "id": "bcba2ca20f53564b",
+            "id": "14af0ce47c22dd53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "HOME.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Metric Space Lecture 5 part 2.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "HOME.md",
+            "file": "Excalidraw/Metric Spaces Lecture 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "HOME.md",
+            "file": "Excalidraw/Metric Spaces Lecture 6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "HOME.md"
+            "file": "Excalidraw/Metric Spaces Lecture 6.md"
           }
         }
       },
@@ -211,17 +209,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bcba2ca20f53564b",
+  "active": "7af4e975d211d36a",
   "lastOpenFiles": [
-    "Vector calculus assignment 1.pdf",
-    "Context/spacesLastSync.log",
-    "HOME.md",
+    "Excalidraw/Drawing 2023-10-10 16.01.42.excalidraw.md",
+    "Excalidraw/Metric Spaces Lecture 6.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
+    "HOME.md",
+    "University/Definition of Topological space.md",
+    "University/Basic Topology.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
     "Excalidraw/Metric Spaces Lecture 5 part 1.md",
     "Excalidraw/Metric Space Lecture 5 part 2.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "Excalidraw/Drawing 2023-10-10 16.01.42.excalidraw.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
+    "Vector calculus assignment 1.pdf",
+    "Context/spacesLastSync.log",
     "University/Assignment Page.md",
     "Excalidraw/Vector and Complex Calculus Lecture 6.md",
     "Action Dashboard.md",
@@ -235,12 +240,6 @@
     "Excalidraw/Drawing 2023-10-05 12.04.13.excalidraw.md",
     "Excalidraw/Drawing 2023-10-05 12.04.12.excalidraw.md",
     "Excalidraw/Metric Space Lecture 4.md",
-    "General Definition of Metric Spaces.md",
-    "Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
-    "Excalidraw/Drawing 2023-10-03 16.02.23_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 16.02.23.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 16.01.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 12.57.28.excalidraw.md",
     "solution.pdf"
   ]
 }
