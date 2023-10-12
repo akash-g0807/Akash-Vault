@@ -1,6 +1,8 @@
 # Open and Closed Balls
 ---
 
+### Open Balls
+---
 ```ad-Definition
 Title: **Open ball**
 
@@ -8,8 +10,8 @@ Let $(X,d)$ be a [[General Definition of Metric Spaces|metric space]]. Then for 
 $$B(x,r) = \{y \in X : d(y,x) < r\}$$
 ```
 
+### Closed Balls
 ---
-
 ```ad-Definition
 
 Title: **Closed Ball**
@@ -20,5 +22,9 @@ $$\bar{B}(x,r) = \{y \in X : d(y,x) \leq r\}$$
 
 ## Further Notes
 ---
+- [[Open Balls in Analysis]]
 - [[Examples of Open and Closed Balls]]
-- 
+
+# Backlinks
+---
+- [[The (basic) Geometry of Metric Spaces]]

@@ -11,16 +11,28 @@
             "id": "9bb5069d126d86bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "641396a068e1f188",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "76aad69906cc265e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/The (basic) Geometry of Metric Spaces.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
           {
             "id": "b28d1486ed168636",
             "type": "leaf",
@@ -28,6 +40,36 @@
               "type": "excalidraw",
               "state": {
                 "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md"
+              }
+            }
+          },
+          {
+            "id": "a678b1639c043c88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Interior and Exterior and Boundary Points.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c3fa16e215f36516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c2985ad4f45e2f9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md"
               }
             }
           }
@@ -114,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University/Interior and Exterior and Boundary Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University/Interior and Exterior and Boundary Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University/Interior and Exterior and Boundary Points.md"
+              }
             }
           },
           {
@@ -213,8 +259,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9bb5069d126d86bc",
+  "active": "a678b1639c043c88",
   "lastOpenFiles": [
+    "University/The (basic) Geometry of Metric Spaces.md",
+    "University/Interior and Exterior and Boundary Points.md",
+    "University/Open and Closed Balls.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/Metrics.md",
+    "HOME.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces.md",
+    "University/Open Balls in Analysis.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
+    "Action Dashboard.md",
+    "Agenda.md",
+    "TODO.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "University/Work Done.md",
     "University/General Definition of Line Integrals.md",
     "University/Energy.md",
@@ -224,25 +285,10 @@
     "University/Newton's Equation of Motion.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "HOME.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
     "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 1.md",
-    "Excalidraw/Drawing 2023-10-10 16.01.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-07 22.51.14.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment Database.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 1.md",
     "Vector calculus assignment 1.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Solutions/Vector calculus assignment 1.pdf",
-    "University/Sample Forces.md",
-    "University/Inertial Frames.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
-    "University/Properties of Vector Product.md",
-    "Excalidraw/Vector and Complex Calculus Lecture 6.md",
     "Images/space_saturn.png",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/vcex-1-2023-24.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/VC-EX-2023-24-FC.pdf",
