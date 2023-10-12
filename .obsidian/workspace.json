@@ -4,30 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2537148ec548bcab",
+        "id": "82eb23531e4bd39d",
         "type": "tabs",
         "children": [
           {
-            "id": "37cff4b33a9872b3",
+            "id": "9bb5069d126d86bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Energy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8ace19c9da3c02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Properties of Vector Product.md",
-                "mode": "source",
+                "file": "University/Work Done.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -36,21 +23,11 @@
         ]
       },
       {
-        "id": "f57fa024486a04f2",
+        "id": "641396a068e1f188",
         "type": "tabs",
         "children": [
           {
-            "id": "278941ef2f7c5f5a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md"
-              }
-            }
-          },
-          {
-            "id": "019a08aaad608d18",
+            "id": "b28d1486ed168636",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -59,8 +36,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Energy.md",
+                "file": "University/Work Done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Energy.md",
+                "file": "University/Work Done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Energy.md"
+                "file": "University/Work Done.md"
               }
             }
           },
@@ -247,34 +222,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "37cff4b33a9872b3",
+  "active": "9bb5069d126d86bc",
   "lastOpenFiles": [
-    "University/Newtonian Mechanics.md",
     "University/Energy.md",
-    "University/Newton's Equation of Motion.md",
-    "University/Sample Forces.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
+    "University/Kinetic Energy.md",
+    "University/Work Done.md",
+    "University/Newtonian Mechanics.md",
     "University/Newton's Laws of Motion.md",
+    "University/Newton's Equation of Motion.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "HOME.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 4.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignment 1.md",
+    "Excalidraw/Drawing 2023-10-10 16.01.42.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-07 22.51.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
+    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment Database.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics.md",
+    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
+    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 1.md",
+    "Vector calculus assignment 1.pdf",
+    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Solutions/Vector calculus assignment 1.pdf",
+    "University/Sample Forces.md",
     "University/Inertial Frames.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 3.md",
     "University/Properties of Vector Product.md",
     "Excalidraw/Vector and Complex Calculus Lecture 6.md",
     "University/Motion in Plane Polar Co-ordinates.md",
-    "University/Velocity and Acceleration in Polar.md",
-    "University/Vector Product.md",
-    "University/Vector Algebra.md",
-    "University/Review of Vectors.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector & Complex Calculus - MAT00047I Lectures.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I.md",
-    "University/Polar Orthonormal Basis for Vectors.md",
-    "University/Derivative of Polar Basis Vectors.md",
-    "University/Position Vector in Polar Co-Ordinates.md",
-    "University/Some Notes on Derivatives in Polar Co-Ordinates.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics - MAT00048I Lectures.md",
-    "University/Semester 1/Vector & Complex Calculus/Vector & Complex Calculus - MAT00047I Outline.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
     "Images/space_saturn.png",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/vcex-1-2023-24.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/VC-EX-2023-24-FC.pdf",
@@ -284,10 +261,8 @@
     "University/Semester 1/Metric Spaces/Problem Sheets/Solutions",
     "University/Semester 1/Metric Spaces/Problem Sheets/Assignments",
     "University/Semester 1/Metric Spaces/Problem Sheets",
-    "Images",
     "home.jpg",
     "Images/ken-cheung-KonWFWUaAuk-unsplash.jpg",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Solutions",
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",

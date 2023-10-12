@@ -1,8 +1,9 @@
 ---
 tags:
   - assignment
-Days_Left: 2
+Days_Left: 0
 Date: 2023-10-12T00:00:00.000+01:00
+Completion: true
 ---
 # Vector Calculus Assignment 1
 ---

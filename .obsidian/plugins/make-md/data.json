@@ -37,6 +37,7 @@
   "expandedFolders": {},
   "expandedSpaces": [
     "/",
+    null,
     null
   ],
   "expandFolderOnClick": true,
@@ -59,7 +60,7 @@
   ],
   "newFileLocation": "current",
   "inlineBacklinks": false,
-  "inlineContext": true,
+  "inlineContext": false,
   "inlineBacklinksExpanded": false,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
@@ -69,7 +70,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697062906047,
+  "spacesAutoBackupLast": 1697104602417,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
