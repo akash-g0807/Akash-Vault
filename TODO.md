@@ -28,6 +28,7 @@
 25. Examples of Line Integrals [[Examples of Line Integrals using Parametrization]]
 
 - [ ] Examples of Open and Closed Balls 🔼 🛫 2023-10-12 🗓 2023-10-12 ^LZ7M6UCU8DC0
+- [ ] Examples of Open and Closed Set on subspace 🛫 2023-10-13 🗓 2023-10-13 ^1E6E46MW5EU80
 ```sync-calendar
 name: "{numberTodos} todos "
 ```
