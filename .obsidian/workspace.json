@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "720c30bc93acd905",
+        "id": "91e9de50883e3e18",
         "type": "tabs",
         "children": [
           {
-            "id": "30d729dbfc51ad36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Visualization of Boundary.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dcc490f69202c52",
+            "id": "0bbfd065a97c2c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,68 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4215d91f3fc48f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af52e959c949f193",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19fa5639cdde7c3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Action Dashboard.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "048da8cf09d743bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md"
-              }
-            }
-          },
-          {
-            "id": "168c14e3c691cb31",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 5 part 1.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +206,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6dcc490f69202c52",
+  "active": "0bbfd065a97c2c27",
   "lastOpenFiles": [
-    "University/Visualization of Boundary.md",
-    "HOME.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
+    "University/Properties of Kronecker-Delta and Levi-Civita.md",
     "TODO.md",
+    "University/Velocity and Acceleration in Polar.md",
     "Action Dashboard.md",
+    "HOME.md",
+    "University/Scalar Product.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I Outline.md",
+    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
+    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
+    "University/Visualization of Boundary.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "University/Interior and Exterior and Boundary Points.md",
     "University/The (basic) Geometry of Metric Spaces.md",
     "University/Open and Closed Sets.md",
@@ -301,12 +234,6 @@
     "University/Open and Closed Balls.md",
     "University/Subspaces and Equivalence of Metric Spaces.md",
     "University/Isometric Equivalence.md",
-    "University/Examples of Isometric Equivalence.md",
-    "University/Metric Space Induced by norm.md",
-    "University/Infinite Spaces.md",
-    "University/Review of Real Analysis.md",
-    "University/Semester 1/Classical Dynamics/Problem Sheets/Assignments/Classical Dynamics Assignments.md",
-    "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment Database.md",
     "Vector calculus assignment 1.pdf",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Solutions/Vector calculus assignment 1.pdf",
     "Images/space_saturn.png",
