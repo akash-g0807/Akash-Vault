@@ -11,6 +11,10 @@ Here,
 - The set $[0,1]$ is a [[Open and Closed Sets|closed set]]
 - The set $(0,1]$ is neither [[Open and Closed Sets|open]] nor [[Open and Closed Sets|closed]]. 
 
+> [!example] 
+> $$(0,1 )\cup (1,2)$$
+
+$\partial A = \{0,1,2\}$, we see that $A \cap \partial A = \emptyset \Rightarrow$ $A$ is open. Furthermore $\partial A \not\subseteq A \Rightarrow A$ is not closed.   
 #### Example of a clopen set
 ---
 > [!example] 
@@ -32,3 +36,24 @@ which shows $\emptyset$ is **open**. Further, by the definition of [[Open and Cl
 $$\partial \emptyset = \emptyset \subseteq \emptyset$$
 since the empty set $\emptyset$ is the **subset of ALL sets**, *including itself*, and is therefore **closed**. Therefore $\emptyset$ is **clopen**
 `\end{proof}`
+
+> [!math|{"type":"claim","number":"auto","setAsNoteMathLink":false,"_index":1}] Claim 2.
+> $X$ is **clopen**
+
+`\begin{proof}`
+From [[Interior and Exterior and Boundary Points#^d456f3|boundary of an the whole space]] $X$ is the empty set i.e. 
+$$\partial X = \emptyset$$
+And therefore by the definition of [[Open and Closed Sets#^638716|open sets]]:
+$$\partial X \cap X = \emptyset \cap X = \emptyset$$
+which shows $X$ is open. Further, by the definition [[Open and Closed Sets#^5a4f54|closed sets]], 
+$$\partial X = \emptyset \subseteq X$$
+`\end{proof}`
+since the empty set $\emptyset$ is the subset of ALL sets, and therefore **open**. Therefore $X$ is **clopen**. 
+
+
+
+# Backlinks
+---
+- [[Open and Closed Sets]]
+- [[The (basic) Geometry of Metric Spaces]]
+- [[Metric Spaces - MAT00037H Outline]]

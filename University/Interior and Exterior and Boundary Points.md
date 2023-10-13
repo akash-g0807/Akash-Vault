@@ -36,6 +36,7 @@ $$B(y,\epsilon) \cup A \neq \emptyset \ \ \ \text{AND} \ \ \ B(y, \epsilon) \cup
 > The **boundary** of $A$ is the *set of all* boundary points of $A$ and is denoted by:
 >$$\partial A$$ 
 
+*Note*: $\partial \ \emptyset = \emptyset$, and $\partial X =\emptyset$  ^d456f3
 ### Exterior Points
 ---
 ```ad-Definition
@@ -57,6 +58,7 @@ $$B(y, \epsilon) \subseteq A^{c}$$
 *Note:* $A^{c}$ is the [[Complement of a Set]]. 
 ## Further Notes
 ---
+- [[Visualization of Boundary]]
 - [[Disjoint Union Property for Interior, Exterior and Boundary Points]]
 - [[Example Calculating Interior, Exterior and Boundary]]
 

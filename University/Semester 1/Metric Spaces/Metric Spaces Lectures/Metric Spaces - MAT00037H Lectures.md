@@ -1,2 +1,4 @@
 - Lecture 3: [[Metric Spaces Lecture 3]]
 - Lecture 4: [[Metric Space Lecture 4]]
+- Lecture 5: [[Metric Spaces Lecture 5 part 1]] and [[Metric Space Lecture 5 part 2]]
+- Lecture 6: [[Metric Spaces Lecture 6]]
