@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "6dcc490f69202c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4215d91f3fc48f49",
             "type": "leaf",
             "state": {
@@ -58,13 +71,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "17db81b787e17a10",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "048da8cf09d743bb",
             "type": "leaf",
@@ -169,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Visualization of Boundary.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Visualization of Boundary.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Visualization of Boundary.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -272,13 +279,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30d729dbfc51ad36",
+  "active": "6dcc490f69202c52",
   "lastOpenFiles": [
-    "Action Dashboard.md",
-    "HOME.md",
     "University/Visualization of Boundary.md",
+    "HOME.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
     "TODO.md",
+    "Action Dashboard.md",
     "University/Interior and Exterior and Boundary Points.md",
     "University/The (basic) Geometry of Metric Spaces.md",
     "University/Open and Closed Sets.md",
