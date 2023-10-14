@@ -14,4 +14,12 @@ The last integral is called the [[General Definition of Line Integrals|Line Inte
 
 Title: **Work Done**
 
+**Work Done** along the trajecory is defined as the *change* in Kinetic Energy $K$:
+$$\int_{P_{1}}^{P_{2}}\underline{F}\cdot\underline{r} = K(t_{2}) - K(t_{1})$$
+
 ```
+
+# Backlinks
+---
+- [[Energy]]
+- [[Newtonian Mechanics]]
