@@ -23,7 +23,7 @@ $$\begin{aligned} \sum\limits_{i=1}^{N} m\underline{\ddot{r}_{i}} &= \underbrace
 And hence we get:
 >[!note]  Total Force in a collection of particles
 >In a discrete system of $N$ particles, **total** force is:
->$$\underline{F}_{\text{total} } = \sum\limits_{i=1}^{N} m\underline{\ddot{r}_{i}} \sum\limits_{i=1}^{N}\underline{F_{i}}^{\text{ext}} $$
+>$$\underline{F^{\text{ext}}_{\text{total} }} = \sum\limits_{i=1}^{N} m\underline{\ddot{r}_{i}} =\sum\limits_{i=1}^{N}\underline{F_{i}}^{\text{ext}} $$
 >that is the **sum of all external forces**
  
 # Backlinks

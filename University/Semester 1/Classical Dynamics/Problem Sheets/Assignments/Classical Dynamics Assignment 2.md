@@ -4,7 +4,7 @@ tags:
 Date: 2023-10-23T00:00:00.000+01:00
 Completion: false
 ---
-Days_Left:: 8
+Days_Left:: 7
 # Assignment 2
 ---
 
