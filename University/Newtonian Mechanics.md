@@ -18,6 +18,8 @@ In this section, we will deal with ideal **particles**. Particles are an idealiz
 
 ### 8. [[Angular Momentum]]
 
+### 9. [[Collection of Particles]]
+
 # Backlinks
 ---
 - [[Classical Dynamics - MAT00048I Outline]]
