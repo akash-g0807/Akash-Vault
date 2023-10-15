@@ -12,4 +12,4 @@ The nabla operator $\underline{\nabla}$ is the **gradient** operator
 # Backlinks
 ---
 - [[Vector & Complex Calculus - MAT00047I Outline]]
-- [[Potential]]
+- [[Potential and Conservation]]

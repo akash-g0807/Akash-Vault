@@ -1,4 +1,4 @@
-# Potential
+# Potential and Conservation
 ---
 Some forces have a very special property that they can be written as:
 $$\underline{F} = - \underline{\nabla} \Phi$$

@@ -29,6 +29,8 @@
 
 - [ ] Examples of Open and Closed Balls 🔼 🛫 2023-10-12 🗓 2023-10-12 ^LZ7M6UCU8DC0
 - [ ] Examples of Open and Closed Set on subspace 🛫 2023-10-13 🗓 2023-10-13 ^1E6E46MW5EU80
+- [ ] Gravitation Potential Far From Earth 🔼 🛫 2023-10-15 🗓 2023-10-17 ^3BJCWQ3VUZ400
+- [ ] Describe Motion Qualitative ⏫ 🛫 2023-10-15 🗓 2023-10-17 ^3FUTA7H3GAG00
 ```sync-calendar
 name: "{numberTodos} todos "
 ```

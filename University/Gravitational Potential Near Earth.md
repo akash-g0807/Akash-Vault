@@ -25,12 +25,12 @@ $$\Phi = mgz$$
 $$E = K + \Phi = \frac{1}{2}m\mid\underline{0} \mid^{2} + mgh = mgh$$
 At height $z = 0$, height is 0 so
 $$E = K + \Phi = \frac{1}{2}m\mid\underline{\dot{r}}\mid^{2} + mg0 = \frac{1}{2}m\mid\underline{\dot{r}}\mid^{2}$$
-Since [[Potential|Energy is a constant]], we get that:
+Since [[Potential and Conservation|Energy is a constant]], we get that:
 $$\begin{aligned} mgh = \frac{1}{2}m\mid\underline{\dot{r}}\mid^{2} &\Rightarrow 2gh = \mid \underline{\dot{r}}\mid^{2} \\ \\
 &\Rightarrow \mid \underline{\dot{r}} \mid = \sqrt{2gh} \end{aligned}$$
 
 # Backlinks
 ---
 - [[Examples of Force in a potential]]
-- [[Potential]]
+- [[Potential and Conservation]]
 - [[Energy]]
