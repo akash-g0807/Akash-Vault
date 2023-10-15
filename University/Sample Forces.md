@@ -4,9 +4,8 @@
 ## Contents
 ---
 ### 1. [[Gravitational Force]]
-### 2. [[Gravitational Force on Earth]]
 
-### 3. [[Lorrentz Force]]
+### 2. [[Lorrentz Force]]
 
 # Backlinks
 ---

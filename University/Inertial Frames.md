@@ -69,7 +69,7 @@ i.e. the shift acceleration/**relative acceleration** is 0 and hence we get the 
 So from the above, in order to have an **inertial frame** we had: 
 $$\ddot{s}(t) = 0$$
 And we can solve this differential equation with respect to t to get:
-$$s(t) = a + u(t)$$
+$$s(t) = a + ut$$
 where $u$ is a **constant velocity** and $a$ is a **shift in origin**. This is also known as **Gallilean transformation.** 
 
 ```ad-Definition
@@ -78,3 +78,7 @@ Title: **Gallilean Transformation**
 A Gallilean Transformation is when the the **shift vector** $s(t)$ is the following:
 $$s(t) = a + ut$$
 ```
+
+# Backlinks
+---
+- [[Newtonian Mechanics]]

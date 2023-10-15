@@ -4,15 +4,17 @@ In this section, we will deal with ideal **particles**. Particles are an idealiz
 ## Contents
 ---
 
-### 1. [[Basic Kinematics]]
-### 2. [[Motion in Plane Polar Co-ordinates]]
+### 1. [[Dimensional Analysis]]
 
-### 3. [[Inertial Frames]]
+### 2. [[Basic Kinematics]]
+### 3. [[Motion in Plane Polar Co-ordinates]]
 
-### 4. [[Newton's Laws of Motion]]
-### 5. [[Newton's Equation of Motion]] 
+### 4. [[Inertial Frames]]
 
-### 6. [[Energy]]
+### 5. [[Newton's Laws of Motion]]
+### 6. [[Newton's Equation of Motion]] 
+
+### 7. [[Energy]]
 
 # Backlinks
 ---
