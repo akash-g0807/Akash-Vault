@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7af4e975d211d36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/General Definition of Metric Spaces.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "258057401c410a60",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md"
+                "file": "Excalidraw/Classical Dynamics Lecture 6.md"
               }
             }
           },
@@ -60,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md",
+            "file": "Excalidraw/Classical Dynamics Lecture 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +148,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md",
+            "file": "Excalidraw/Classical Dynamics Lecture 6.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -174,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md"
+            "file": "Excalidraw/Classical Dynamics Lecture 6.md"
           }
         }
       },
@@ -225,14 +211,15 @@
   },
   "active": "258057401c410a60",
   "lastOpenFiles": [
+    "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 5.md",
+    "Excalidraw/Classical Dynamics Lecture 6.md",
+    "Excalidraw/Drawing 2023-10-12 16.02.24.excalidraw.md",
+    "HOME.md",
     "University/General Definition of Metric Spaces.md",
     "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-12 16.02.24.excalidraw.md",
     "University/Metrics.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "HOME.md",
-    "Excalidraw/Drawing 2023-10-10 16.01.42.excalidraw.md",
     "Excalidraw/Metric Spaces Lecture 6.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
     "University/Definition of Topological space.md",
@@ -252,7 +239,6 @@
     "README.md",
     "University/Semester 1/Vector & Complex Calculus/Vector and Complex Calculus Lectures/Vector and Complex Calculus Lecture 4.md",
     "Excalidraw/Vector and Complex Calculus Lecture 5.md",
-    "Excalidraw/Drawing 2023-10-09 11.01.40.excalidraw.md",
     "Metric spaces problem sheet.pdf",
     "solution.pdf"
   ]
