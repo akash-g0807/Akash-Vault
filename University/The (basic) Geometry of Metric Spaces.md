@@ -7,6 +7,8 @@ Here we discuss the geometry of distance functions and define terms like **open 
 ### 1. [[Open and Closed Balls]]
 ### 2. [[Interior and Exterior and Boundary Points]]
 
+### 3. [[Open and Closed Sets]]
+
 # Backlinks
 ---
 - [[Metric Spaces - MAT00037H Outline]]

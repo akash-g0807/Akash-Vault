@@ -8,8 +8,11 @@ tags:
 ---
 
 
-Links: [[START PAGE]]
+Links: 
+- [[START PAGE]]
+- [[Metric Spaces Tricks]]
 #  Metric Spaces - MAT00037H
+---
 ## Course Outline
 ---
 
@@ -28,4 +31,3 @@ from "University/Semester 1/Metric Spaces/Problem Sheets/Assignments" and #assig
 
 ```
  
-

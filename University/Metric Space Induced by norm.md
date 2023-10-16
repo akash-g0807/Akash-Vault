@@ -7,3 +7,7 @@ Here we will define metric spaces defined on vector spaces.
 ### 2. [[Norm in a Vector Space]]
 
 ### 3. [[Metric Induced by the Norm]]
+
+# Backlinks
+---
+- [[Metric Spaces - MAT00037H Outline]]

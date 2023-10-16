@@ -12,7 +12,7 @@ $$\underline{F} = m\underline{a} = m\frac{d^{2}\underline{r}}{dt^{2}} \equiv m\u
 ```
 
 More generally, we can define it as
-$$\underline{F} = \frac{d\underline{p}}{dt}$$where $\underline{p}$ is [[momentum]] and 
+$$\underline{F} = \frac{d\underline{p}}{dt}$$where $\underline{p}$ is [[Momentum|momentum]] and 
 $$\underline{p} = m\underline{v} = m\dot{\underline{r}}$$
 ***Note:*** if the forces acting on the particle sum to zero, meaning $\underline{F} = 0$, then the **equation of motion** can be integrated directly to give the trajectory
 $$\underline{r} = \underline{r}_{0} + t\underline{v}_{0}$$

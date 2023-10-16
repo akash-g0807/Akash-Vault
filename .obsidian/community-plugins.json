@@ -10,7 +10,6 @@
   "dbfolder",
   "obsidian-desmos",
   "drawio-obsidian",
-  "obsidian-discordrpc",
   "obsidian-excalidraw-plugin",
   "execute-code",
   "obsidian-full-calendar",
@@ -41,5 +40,6 @@
   "obsidian-better-codeblock",
   "make-md",
   "terminal",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-discordrpc"
 ]

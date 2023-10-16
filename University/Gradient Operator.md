@@ -8,3 +8,8 @@ $$\underline{g} = \underline{\nabla}f = \bigg(\frac{\partial f}{\partial x_{1}},
 
 The nabla operator $\underline{\nabla}$ is the **gradient** operator
 ```
+
+# Backlinks
+---
+- [[Vector & Complex Calculus - MAT00047I Outline]]
+- [[Potential and Conservation]]

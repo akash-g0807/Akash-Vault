@@ -43,6 +43,8 @@ TItle: **Newton's Third Law**
 **To every action, there is an opposed and equal reaction**; or the mutual action of two bodies upon two bodies upon each other are always equal and directed to contrary parts 
 ```
 
+^570cd9
+
 # Backlinks
 ---
 - [[Newtonian Mechanics]]

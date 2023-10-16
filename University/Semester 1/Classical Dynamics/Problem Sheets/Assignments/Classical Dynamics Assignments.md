@@ -86,7 +86,7 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: false
+      isInline: true
       task_hide_completed: true
       footer_type: none
       persist_changes: true
