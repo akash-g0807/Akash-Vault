@@ -9,6 +9,8 @@ Here we discuss the geometry of distance functions and define terms like **open 
 
 ### 3. [[Open and Closed Sets]]
 
+### 4. [[Relation between Open and Closed Sets]]
+
 # Backlinks
 ---
 - [[Metric Spaces - MAT00037H Outline]]

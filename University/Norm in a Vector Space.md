@@ -15,3 +15,7 @@ satisying 3 axioms:
 4. $\mid\mid\underline{u} + \underline{v} \mid\mid \ \leq \ \mid\mid \underline{u} \mid\mid + \mid\mid \underline{v} \mid\mid$ 
 ```
 
+# Backlinks
+---
+- [[Metric Space Induced by norm]]
+- [[Metric Spaces - MAT00037H Outline]]

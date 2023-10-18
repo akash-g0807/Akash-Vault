@@ -31,6 +31,7 @@
 - [ ] Examples of Open and Closed Set on subspace 🛫 2023-10-13 🗓 2023-10-13 ^1E6E46MW5EU80
 - [ ] Gravitation Potential Far From Earth 🔼 🛫 2023-10-15 🗓 2023-10-17 ^3BJCWQ3VUZ400
 - [ ] Describe Motion Qualitative ⏫ 🛫 2023-10-15 🗓 2023-10-17 ^3FUTA7H3GAG00
+- [ ] Proof of Disjoint Union Property Metric Spaces ⏫ 🛫 2023-10-18 🗓 2023-10-22 ^236YGX95YB9C0
 ```sync-calendar
 name: "{numberTodos} todos "
 ```

@@ -41,5 +41,9 @@
   "make-md",
   "terminal",
   "obsidian-style-settings",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "highlightr-plugin",
+  "obsidian-enhancing-export",
+  "3d-graph",
+  "obsidian-list-callouts"
 ]

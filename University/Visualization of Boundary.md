@@ -1,2 +1,2 @@
-# Visualization of Boundary Point
+# Visualization of Interior, Exterior and Boundary
 ---

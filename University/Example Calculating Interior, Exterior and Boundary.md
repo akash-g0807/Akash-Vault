@@ -4,6 +4,7 @@
 > [!question] 
 > Calculate $A^{o}$, $\partial A$, $A^{e}$ where $A$ is the set
 > $$A = (0,1] \subset \mathbb{R}$$
+> and $d(x,y) = \mid x - y \mid$ 
 
 *Solution*:
 Consider the following pictorial diagram of $A$:
@@ -91,7 +92,7 @@ Take $x \in (0,1)$, then $0 < x < 1$.
 
 \end{document}
 ```
-Let $\epsilon = x - 0$, $\epsilon^{'} = 1-x$, and take $e^{*} = \min\{\epsilon, \epsilon^{'}\}$. 
+Let $\epsilon = x - 0$, $\epsilon^{'} = 1-x$, and take $\epsilon^{*} = \min\{\epsilon, \epsilon^{'}\}$. 
 
 Consider the [[Open and Closed Balls|Open Ball]] 
 $$B(x,\epsilon^{*}/2)$$

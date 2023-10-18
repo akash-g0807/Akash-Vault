@@ -5,7 +5,7 @@
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
   "refreshInterval": 10,
-  "useNotification": false,
+  "useNotification": true,
   "showNotice": true,
   "autoCreateEventNotes": true,
   "autoCreateEventNotesMarker": "obsidian",

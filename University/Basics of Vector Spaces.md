@@ -13,3 +13,8 @@ where $\underline{u}, \underline{v} \in V$ are vectors and $\lambda , \mu \in \m
 Therefore we can abstract the notion of $a-b$ as we have:
 $$\underline{u} - \underline{v} = \underline{u} + (-1)\underline{v} \ \ \ \ \ \ \ \ \ (\mu = 1, \lambda = -1)$$
 We are missing an abstraction for the [[Vectors as displacement#^c5b273|absolute value]] $\mid \cdot \mid$. The vector space version of the absolute value is called the [[Norm in a Vector Space|norm]].
+
+# Backlinks
+---
+- [[Metric Space Induced by norm]]
+- [[Metric Spaces - MAT00037H Outline]]

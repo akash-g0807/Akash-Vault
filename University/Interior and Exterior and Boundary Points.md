@@ -27,7 +27,7 @@ TItle: **Boundary Points**
 The element $y \in X$ is a **BOUNDARY POINT** of $A$
 $$\iff$$
 *for any* $\epsilon > 0$, the [[Open and Closed Balls|open ball]] centered at $y$, $B(y,\epsilon)$, it hits the set but also has points outside the set:
-$$B(y,\epsilon) \cup A \neq \emptyset \ \ \ \text{AND} \ \ \ B(y, \epsilon) \cup (A)^{c} \neq \emptyset$$
+$$B(y,\epsilon) \cap A \neq \emptyset \ \ \ \text{AND} \ \ \ B(y, \epsilon) \cap (A)^{c} \neq \emptyset$$
 ```
 
 ^72c666

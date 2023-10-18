@@ -300,14 +300,14 @@ var require_lib = __commonJS({
       }
     };
     var singleton$1 = null;
-    var SystemZone = class extends Zone {
+    var SystemZone = class _SystemZone extends Zone {
       /**
        * Get a singleton instance of the local zone
        * @return {SystemZone}
        */
       static get instance() {
         if (singleton$1 === null) {
-          singleton$1 = new SystemZone();
+          singleton$1 = new _SystemZone();
         }
         return singleton$1;
       }
@@ -389,14 +389,14 @@ var require_lib = __commonJS({
       return filled;
     }
     var ianaZoneCache = {};
-    var IANAZone = class extends Zone {
+    var IANAZone = class _IANAZone extends Zone {
       /**
        * @param {string} name - Zone name
        * @return {IANAZone}
        */
       static create(name) {
         if (!ianaZoneCache[name]) {
-          ianaZoneCache[name] = new IANAZone(name);
+          ianaZoneCache[name] = new _IANAZone(name);
         }
         return ianaZoneCache[name];
       }
@@ -441,7 +441,7 @@ var require_lib = __commonJS({
       constructor(name) {
         super();
         this.zoneName = name;
-        this.valid = IANAZone.isValidZone(name);
+        this.valid = _IANAZone.isValidZone(name);
       }
       /** @override **/
       get type() {
@@ -701,16 +701,16 @@ var require_lib = __commonJS({
         }
       }
     };
-    var Locale = class {
+    var Locale = class _Locale {
       static fromOpts(opts) {
-        return Locale.create(opts.locale, opts.numberingSystem, opts.outputCalendar, opts.defaultToEN);
+        return _Locale.create(opts.locale, opts.numberingSystem, opts.outputCalendar, opts.defaultToEN);
       }
       static create(locale, numberingSystem, outputCalendar, defaultToEN = false) {
         const specifiedLocale = locale || Settings.defaultLocale;
         const localeR = specifiedLocale || (defaultToEN ? "en-US" : systemLocale());
         const numberingSystemR = numberingSystem || Settings.defaultNumberingSystem;
         const outputCalendarR = outputCalendar || Settings.defaultOutputCalendar;
-        return new Locale(localeR, numberingSystemR, outputCalendarR, specifiedLocale);
+        return new _Locale(localeR, numberingSystemR, outputCalendarR, specifiedLocale);
       }
       static resetCache() {
         sysLocaleCache = null;
@@ -719,7 +719,7 @@ var require_lib = __commonJS({
         intlRelCache = {};
       }
       static fromObject({ locale, numberingSystem, outputCalendar } = {}) {
-        return Locale.create(locale, numberingSystem, outputCalendar);
+        return _Locale.create(locale, numberingSystem, outputCalendar);
       }
       constructor(locale, numbering, outputCalendar, specifiedLocale) {
         const [parsedLocale, parsedNumberingSystem, parsedOutputCalendar] = parseLocaleString(locale);
@@ -749,7 +749,7 @@ var require_lib = __commonJS({
         if (!alts || Object.getOwnPropertyNames(alts).length === 0) {
           return this;
         } else {
-          return Locale.create(
+          return _Locale.create(
             alts.locale || this.specifiedLocale,
             alts.numberingSystem || this.numberingSystem,
             alts.outputCalendar || this.outputCalendar,
@@ -835,14 +835,14 @@ var require_lib = __commonJS({
       }
     };
     var singleton = null;
-    var FixedOffsetZone = class extends Zone {
+    var FixedOffsetZone = class _FixedOffsetZone extends Zone {
       /**
        * Get a singleton instance of UTC
        * @return {FixedOffsetZone}
        */
       static get utcInstance() {
         if (singleton === null) {
-          singleton = new FixedOffsetZone(0);
+          singleton = new _FixedOffsetZone(0);
         }
         return singleton;
       }
@@ -852,7 +852,7 @@ var require_lib = __commonJS({
        * @return {FixedOffsetZone}
        */
       static instance(offset2) {
-        return offset2 === 0 ? FixedOffsetZone.utcInstance : new FixedOffsetZone(offset2);
+        return offset2 === 0 ? _FixedOffsetZone.utcInstance : new _FixedOffsetZone(offset2);
       }
       /**
        * Get an instance of FixedOffsetZone from a UTC offset string, like "UTC+6"
@@ -866,7 +866,7 @@ var require_lib = __commonJS({
         if (s2) {
           const r = s2.match(/^utc(?:([+-]\d{1,2})(?::(\d{2}))?)?$/i);
           if (r) {
-            return new FixedOffsetZone(signedOffset(r[1], r[2]));
+            return new _FixedOffsetZone(signedOffset(r[1], r[2]));
           }
         }
         return null;
@@ -1446,9 +1446,9 @@ var require_lib = __commonJS({
       FFF: DATETIME_FULL_WITH_SECONDS,
       FFFF: DATETIME_HUGE_WITH_SECONDS
     };
-    var Formatter = class {
+    var Formatter = class _Formatter {
       static create(locale, opts = {}) {
-        return new Formatter(locale, opts);
+        return new _Formatter(locale, opts);
       }
       static parseFormat(fmt) {
         let current = null, currentFull = "", bracketed = false;
@@ -1530,7 +1530,7 @@ var require_lib = __commonJS({
           standalone ? { weekday: length } : { weekday: length, month: "long", day: "numeric" },
           "weekday"
         ), maybeMacro = (token) => {
-          const formatOpts = Formatter.macroTokenToFormatOpts(token);
+          const formatOpts = _Formatter.macroTokenToFormatOpts(token);
           if (formatOpts) {
             return this.formatWithSystemDefault(dt, formatOpts);
           } else {
@@ -1655,7 +1655,7 @@ var require_lib = __commonJS({
               return maybeMacro(token);
           }
         };
-        return stringifyTokens(Formatter.parseFormat(fmt), tokenToString);
+        return stringifyTokens(_Formatter.parseFormat(fmt), tokenToString);
       }
       formatDurationFromString(dur, fmt) {
         const tokenToField = (token) => {
@@ -1686,7 +1686,7 @@ var require_lib = __commonJS({
           } else {
             return token;
           }
-        }, tokens = Formatter.parseFormat(fmt), realTokens = tokens.reduce(
+        }, tokens = _Formatter.parseFormat(fmt), realTokens = tokens.reduce(
           (found, { literal, val }) => literal ? found : found.concat(val),
           []
         ), collapsed = dur.shiftTo(...realTokens.map(tokenToField).filter((t) => t));
@@ -2071,7 +2071,7 @@ var require_lib = __commonJS({
       }
       return newVals;
     }
-    var Duration = class {
+    var Duration = class _Duration {
       /**
        * @private
        */
@@ -2098,7 +2098,7 @@ var require_lib = __commonJS({
        * @return {Duration}
        */
       static fromMillis(count, opts) {
-        return Duration.fromObject({ milliseconds: count }, opts);
+        return _Duration.fromObject({ milliseconds: count }, opts);
       }
       /**
        * Create a Duration from a JavaScript object with keys like 'years' and 'hours'.
@@ -2126,8 +2126,8 @@ var require_lib = __commonJS({
             `Duration.fromObject: argument expected to be an object, got ${obj === null ? "null" : typeof obj}`
           );
         }
-        return new Duration({
-          values: normalizeObject(obj, Duration.normalizeUnit),
+        return new _Duration({
+          values: normalizeObject(obj, _Duration.normalizeUnit),
           loc: Locale.fromObject(opts),
           conversionAccuracy: opts.conversionAccuracy,
           matrix: opts.matrix
@@ -2145,11 +2145,11 @@ var require_lib = __commonJS({
        */
       static fromDurationLike(durationLike) {
         if (isNumber(durationLike)) {
-          return Duration.fromMillis(durationLike);
-        } else if (Duration.isDuration(durationLike)) {
+          return _Duration.fromMillis(durationLike);
+        } else if (_Duration.isDuration(durationLike)) {
           return durationLike;
         } else if (typeof durationLike === "object") {
-          return Duration.fromObject(durationLike);
+          return _Duration.fromObject(durationLike);
         } else {
           throw new InvalidArgumentError(
             `Unknown duration argument ${durationLike} of type ${typeof durationLike}`
@@ -2173,9 +2173,9 @@ var require_lib = __commonJS({
       static fromISO(text, opts) {
         const [parsed] = parseISODuration(text);
         if (parsed) {
-          return Duration.fromObject(parsed, opts);
+          return _Duration.fromObject(parsed, opts);
         } else {
-          return Duration.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
+          return _Duration.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
         }
       }
       /**
@@ -2197,9 +2197,9 @@ var require_lib = __commonJS({
       static fromISOTime(text, opts) {
         const [parsed] = parseISOTimeOnly(text);
         if (parsed) {
-          return Duration.fromObject(parsed, opts);
+          return _Duration.fromObject(parsed, opts);
         } else {
-          return Duration.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
+          return _Duration.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
         }
       }
       /**
@@ -2216,7 +2216,7 @@ var require_lib = __commonJS({
         if (Settings.throwOnInvalid) {
           throw new InvalidDurationError(invalid);
         } else {
-          return new Duration({ invalid });
+          return new _Duration({ invalid });
         }
       }
       /**
@@ -2445,7 +2445,7 @@ var require_lib = __commonJS({
       plus(duration) {
         if (!this.isValid)
           return this;
-        const dur = Duration.fromDurationLike(duration), result = {};
+        const dur = _Duration.fromDurationLike(duration), result = {};
         for (const k of orderedUnits$1) {
           if (hasOwnProperty(dur.values, k) || hasOwnProperty(this.values, k)) {
             result[k] = dur.get(k) + this.get(k);
@@ -2461,7 +2461,7 @@ var require_lib = __commonJS({
       minus(duration) {
         if (!this.isValid)
           return this;
-        const dur = Duration.fromDurationLike(duration);
+        const dur = _Duration.fromDurationLike(duration);
         return this.plus(dur.negate());
       }
       /**
@@ -2489,7 +2489,7 @@ var require_lib = __commonJS({
        * @return {number}
        */
       get(unit) {
-        return this[Duration.normalizeUnit(unit)];
+        return this[_Duration.normalizeUnit(unit)];
       }
       /**
        * "Set" the values of specified units. Return a newly-constructed Duration.
@@ -2501,7 +2501,7 @@ var require_lib = __commonJS({
       set(values) {
         if (!this.isValid)
           return this;
-        const mixed = { ...this.values, ...normalizeObject(values, Duration.normalizeUnit) };
+        const mixed = { ...this.values, ...normalizeObject(values, _Duration.normalizeUnit) };
         return clone$1(this, { values: mixed });
       }
       /**
@@ -2560,7 +2560,7 @@ var require_lib = __commonJS({
         if (units.length === 0) {
           return this;
         }
-        units = units.map((u) => Duration.normalizeUnit(u));
+        units = units.map((u) => _Duration.normalizeUnit(u));
         const built = {}, accumulated = {}, vals = this.toObject();
         let lastUnit;
         for (const k of orderedUnits$1) {
@@ -2752,7 +2752,7 @@ var require_lib = __commonJS({
         return null;
       }
     }
-    var Interval = class {
+    var Interval = class _Interval {
       /**
        * @private
        */
@@ -2776,7 +2776,7 @@ var require_lib = __commonJS({
         if (Settings.throwOnInvalid) {
           throw new InvalidIntervalError(invalid);
         } else {
-          return new Interval({ invalid });
+          return new _Interval({ invalid });
         }
       }
       /**
@@ -2789,7 +2789,7 @@ var require_lib = __commonJS({
         const builtStart = friendlyDateTime(start), builtEnd = friendlyDateTime(end);
         const validateError = validateStartEnd(builtStart, builtEnd);
         if (validateError == null) {
-          return new Interval({
+          return new _Interval({
             start: builtStart,
             end: builtEnd
           });
@@ -2805,7 +2805,7 @@ var require_lib = __commonJS({
        */
       static after(start, duration) {
         const dur = Duration.fromDurationLike(duration), dt = friendlyDateTime(start);
-        return Interval.fromDateTimes(dt, dt.plus(dur));
+        return _Interval.fromDateTimes(dt, dt.plus(dur));
       }
       /**
        * Create an Interval from an end DateTime and a Duration to extend backwards to.
@@ -2815,7 +2815,7 @@ var require_lib = __commonJS({
        */
       static before(end, duration) {
         const dur = Duration.fromDurationLike(duration), dt = friendlyDateTime(end);
-        return Interval.fromDateTimes(dt.minus(dur), dt);
+        return _Interval.fromDateTimes(dt.minus(dur), dt);
       }
       /**
        * Create an Interval from an ISO 8601 string.
@@ -2843,21 +2843,21 @@ var require_lib = __commonJS({
             endIsValid = false;
           }
           if (startIsValid && endIsValid) {
-            return Interval.fromDateTimes(start, end);
+            return _Interval.fromDateTimes(start, end);
           }
           if (startIsValid) {
             const dur = Duration.fromISO(e, opts);
             if (dur.isValid) {
-              return Interval.after(start, dur);
+              return _Interval.after(start, dur);
             }
           } else if (endIsValid) {
             const dur = Duration.fromISO(s2, opts);
             if (dur.isValid) {
-              return Interval.before(end, dur);
+              return _Interval.before(end, dur);
             }
           }
         }
-        return Interval.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
+        return _Interval.invalid("unparsable", `the input "${text}" can't be parsed as ISO 8601`);
       }
       /**
        * Check if an object is an Interval. Works across context boundaries
@@ -2978,7 +2978,7 @@ var require_lib = __commonJS({
       set({ start, end } = {}) {
         if (!this.isValid)
           return this;
-        return Interval.fromDateTimes(start || this.s, end || this.e);
+        return _Interval.fromDateTimes(start || this.s, end || this.e);
       }
       /**
        * Split this Interval at each of the specified DateTimes
@@ -2992,7 +2992,7 @@ var require_lib = __commonJS({
         let { s: s2 } = this, i = 0;
         while (s2 < this.e) {
           const added = sorted[i] || this.e, next = +added > +this.e ? this.e : added;
-          results.push(Interval.fromDateTimes(s2, next));
+          results.push(_Interval.fromDateTimes(s2, next));
           s2 = next;
           i += 1;
         }
@@ -3014,7 +3014,7 @@ var require_lib = __commonJS({
         while (s2 < this.e) {
           const added = this.start.plus(dur.mapUnits((x) => x * idx));
           next = +added > +this.e ? this.e : added;
-          results.push(Interval.fromDateTimes(s2, next));
+          results.push(_Interval.fromDateTimes(s2, next));
           s2 = next;
           idx += 1;
         }
@@ -3093,7 +3093,7 @@ var require_lib = __commonJS({
         if (s2 >= e) {
           return null;
         } else {
-          return Interval.fromDateTimes(s2, e);
+          return _Interval.fromDateTimes(s2, e);
         }
       }
       /**
@@ -3106,7 +3106,7 @@ var require_lib = __commonJS({
         if (!this.isValid)
           return this;
         const s2 = this.s < other.s ? this.s : other.s, e = this.e > other.e ? this.e : other.e;
-        return Interval.fromDateTimes(s2, e);
+        return _Interval.fromDateTimes(s2, e);
       }
       /**
        * Merge an array of Intervals into a equivalent minimal set of Intervals.
@@ -3149,12 +3149,12 @@ var require_lib = __commonJS({
             start = i.time;
           } else {
             if (start && +start !== +i.time) {
-              results.push(Interval.fromDateTimes(start, i.time));
+              results.push(_Interval.fromDateTimes(start, i.time));
             }
             start = null;
           }
         }
-        return Interval.merge(results);
+        return _Interval.merge(results);
       }
       /**
        * Return an Interval representing the span of time in this Interval that doesn't overlap with any of the specified Intervals.
@@ -3162,7 +3162,7 @@ var require_lib = __commonJS({
        * @return {Array}
        */
       difference(...intervals) {
-        return Interval.xor([this].concat(intervals)).map((i) => this.intersection(i)).filter((i) => i && !i.isEmpty());
+        return _Interval.xor([this].concat(intervals)).map((i) => this.intersection(i)).filter((i) => i && !i.isEmpty());
       }
       /**
        * Returns a string representation of this Interval appropriate for debugging.
@@ -3270,7 +3270,7 @@ var require_lib = __commonJS({
        * @example Interval.fromDateTimes(dt1, dt2).mapEndpoints(endpoint => endpoint.plus({ hours: 2 }))
        */
       mapEndpoints(mapFn) {
-        return Interval.fromDateTimes(mapFn(this.s), mapFn(this.e));
+        return _Interval.fromDateTimes(mapFn(this.s), mapFn(this.e));
       }
     };
     var Info = class {
@@ -4261,7 +4261,7 @@ var require_lib = __commonJS({
       }
       return [opts, args];
     }
-    var DateTime = class {
+    var DateTime = class _DateTime {
       /**
        * @access private
        */
@@ -4299,7 +4299,7 @@ var require_lib = __commonJS({
        * @return {DateTime}
        */
       static now() {
-        return new DateTime({});
+        return new _DateTime({});
       }
       /**
        * Create a local DateTime
@@ -4365,13 +4365,13 @@ var require_lib = __commonJS({
       static fromJSDate(date, options = {}) {
         const ts = isDate(date) ? date.valueOf() : NaN;
         if (Number.isNaN(ts)) {
-          return DateTime.invalid("invalid input");
+          return _DateTime.invalid("invalid input");
         }
         const zoneToUse = normalizeZone(options.zone, Settings.defaultZone);
         if (!zoneToUse.isValid) {
-          return DateTime.invalid(unsupportedZone(zoneToUse));
+          return _DateTime.invalid(unsupportedZone(zoneToUse));
         }
-        return new DateTime({
+        return new _DateTime({
           ts,
           zone: zoneToUse,
           loc: Locale.fromObject(options)
@@ -4393,9 +4393,9 @@ var require_lib = __commonJS({
             `fromMillis requires a numerical input, but received a ${typeof milliseconds} with value ${milliseconds}`
           );
         } else if (milliseconds < -MAX_DATE || milliseconds > MAX_DATE) {
-          return DateTime.invalid("Timestamp out of range");
+          return _DateTime.invalid("Timestamp out of range");
         } else {
-          return new DateTime({
+          return new _DateTime({
             ts: milliseconds,
             zone: normalizeZone(options.zone, Settings.defaultZone),
             loc: Locale.fromObject(options)
@@ -4416,7 +4416,7 @@ var require_lib = __commonJS({
         if (!isNumber(seconds)) {
           throw new InvalidArgumentError("fromSeconds requires a numerical input");
         } else {
-          return new DateTime({
+          return new _DateTime({
             ts: seconds * 1e3,
             zone: normalizeZone(options.zone, Settings.defaultZone),
             loc: Locale.fromObject(options)
@@ -4455,7 +4455,7 @@ var require_lib = __commonJS({
         obj = obj || {};
         const zoneToUse = normalizeZone(opts.zone, Settings.defaultZone);
         if (!zoneToUse.isValid) {
-          return DateTime.invalid(unsupportedZone(zoneToUse));
+          return _DateTime.invalid(unsupportedZone(zoneToUse));
         }
         const tsNow = Settings.now(), offsetProvis = !isUndefined(opts.specificOffset) ? opts.specificOffset : zoneToUse.offset(tsNow), normalized = normalizeObject(obj, normalizeUnit), containsOrdinal = !isUndefined(normalized.ordinal), containsGregorYear = !isUndefined(normalized.year), containsGregorMD = !isUndefined(normalized.month) || !isUndefined(normalized.day), containsGregor = containsGregorYear || containsGregorMD, definiteWeekDef = normalized.weekYear || normalized.weekNumber, loc = Locale.fromObject(opts);
         if ((containsGregor || containsOrdinal) && definiteWeekDef) {
@@ -4493,16 +4493,16 @@ var require_lib = __commonJS({
         }
         const higherOrderInvalid = useWeekData ? hasInvalidWeekData(normalized) : containsOrdinal ? hasInvalidOrdinalData(normalized) : hasInvalidGregorianData(normalized), invalid = higherOrderInvalid || hasInvalidTimeData(normalized);
         if (invalid) {
-          return DateTime.invalid(invalid);
+          return _DateTime.invalid(invalid);
         }
-        const gregorian = useWeekData ? weekToGregorian(normalized) : containsOrdinal ? ordinalToGregorian(normalized) : normalized, [tsFinal, offsetFinal] = objToTS(gregorian, offsetProvis, zoneToUse), inst = new DateTime({
+        const gregorian = useWeekData ? weekToGregorian(normalized) : containsOrdinal ? ordinalToGregorian(normalized) : normalized, [tsFinal, offsetFinal] = objToTS(gregorian, offsetProvis, zoneToUse), inst = new _DateTime({
           ts: tsFinal,
           zone: zoneToUse,
           o: offsetFinal,
           loc
         });
         if (normalized.weekday && containsGregor && obj.weekday !== inst.weekday) {
-          return DateTime.invalid(
+          return _DateTime.invalid(
             "mismatched weekday",
             `you can't specify both a weekday of ${normalized.weekday} and a date of ${inst.toISO()}`
           );
@@ -4589,7 +4589,7 @@ var require_lib = __commonJS({
           defaultToEN: true
         }), [vals, parsedZone, specificOffset, invalid] = parseFromTokens(localeToUse, text, fmt);
         if (invalid) {
-          return DateTime.invalid(invalid);
+          return _DateTime.invalid(invalid);
         } else {
           return parseDataToDateTime(vals, parsedZone, opts, `format ${fmt}`, text, specificOffset);
         }
@@ -4598,7 +4598,7 @@ var require_lib = __commonJS({
        * @deprecated use fromFormat instead
        */
       static fromString(text, fmt, opts = {}) {
-        return DateTime.fromFormat(text, fmt, opts);
+        return _DateTime.fromFormat(text, fmt, opts);
       }
       /**
        * Create a DateTime from a SQL date, time, or datetime
@@ -4638,7 +4638,7 @@ var require_lib = __commonJS({
         if (Settings.throwOnInvalid) {
           throw new InvalidDateTimeError(invalid);
         } else {
-          return new DateTime({ invalid });
+          return new _DateTime({ invalid });
         }
       }
       /**
@@ -5020,7 +5020,7 @@ var require_lib = __commonJS({
         if (zone.equals(this.zone)) {
           return this;
         } else if (!zone.isValid) {
-          return DateTime.invalid(unsupportedZone(zone));
+          return _DateTime.invalid(unsupportedZone(zone));
         } else {
           let newTS = this.ts;
           if (keepLocalTime || keepCalendarTime) {
@@ -5494,7 +5494,7 @@ var require_lib = __commonJS({
        * @return {Duration}
        */
       diffNow(unit = "milliseconds", opts = {}) {
-        return this.diff(DateTime.now(), unit, opts);
+        return this.diff(_DateTime.now(), unit, opts);
       }
       /**
        * Return an Interval spanning between this DateTime and another DateTime
@@ -5551,7 +5551,7 @@ var require_lib = __commonJS({
       toRelative(options = {}) {
         if (!this.isValid)
           return null;
-        const base = options.base || DateTime.fromObject({}, { zone: this.zone }), padding = options.padding ? this < base ? -options.padding : options.padding : 0;
+        const base = options.base || _DateTime.fromObject({}, { zone: this.zone }), padding = options.padding ? this < base ? -options.padding : options.padding : 0;
         let units = ["years", "months", "days", "hours", "minutes", "seconds"];
         let unit = options.unit;
         if (Array.isArray(options.unit)) {
@@ -5581,7 +5581,7 @@ var require_lib = __commonJS({
       toRelativeCalendar(options = {}) {
         if (!this.isValid)
           return null;
-        return diffRelative(options.base || DateTime.fromObject({}, { zone: this.zone }), this, {
+        return diffRelative(options.base || _DateTime.fromObject({}, { zone: this.zone }), this, {
           ...options,
           numeric: "auto",
           units: ["years", "months", "days"],
@@ -5594,7 +5594,7 @@ var require_lib = __commonJS({
        * @return {DateTime} the min DateTime, or undefined if called with no argument
        */
       static min(...dateTimes) {
-        if (!dateTimes.every(DateTime.isDateTime)) {
+        if (!dateTimes.every(_DateTime.isDateTime)) {
           throw new InvalidArgumentError("min requires all arguments be DateTimes");
         }
         return bestBy(dateTimes, (i) => i.valueOf(), Math.min);
@@ -5605,7 +5605,7 @@ var require_lib = __commonJS({
        * @return {DateTime} the max DateTime, or undefined if called with no argument
        */
       static max(...dateTimes) {
-        if (!dateTimes.every(DateTime.isDateTime)) {
+        if (!dateTimes.every(_DateTime.isDateTime)) {
           throw new InvalidArgumentError("max requires all arguments be DateTimes");
         }
         return bestBy(dateTimes, (i) => i.valueOf(), Math.max);
@@ -5630,7 +5630,7 @@ var require_lib = __commonJS({
        * @deprecated use fromFormatExplain instead
        */
       static fromStringExplain(text, fmt, options = {}) {
-        return DateTime.fromFormatExplain(text, fmt, options);
+        return _DateTime.fromFormatExplain(text, fmt, options);
       }
       // FORMAT PRESETS
       /**
@@ -5835,13 +5835,13 @@ var require_lib = __commonJS({
         dataviewJsKeyword: "dataviewjs"
       }
     });
-    var Success = class {
+    var Success = class _Success {
       constructor(value) {
         this.value = value;
         this.successful = true;
       }
       map(f) {
-        return new Success(f(this.value));
+        return new _Success(f(this.value));
       }
       flatMap(f) {
         return f(this.value);
@@ -5862,7 +5862,7 @@ var require_lib = __commonJS({
         return this.value;
       }
     };
-    var Failure = class {
+    var Failure = class _Failure {
       constructor(error) {
         this.error = error;
         this.successful = false;
@@ -5874,7 +5874,7 @@ var require_lib = __commonJS({
         return this;
       }
       mapErr(f) {
-        return new Failure(f(this.error));
+        return new _Failure(f(this.error));
       }
       bimap(_succ, fail) {
         return this.mapErr(fail);
@@ -6878,13 +6878,13 @@ var require_lib = __commonJS({
       }
       Groupings2.count = count;
     })(Groupings || (Groupings = {}));
-    var Link = class {
+    var Link = class _Link {
       constructor(fields) {
         Object.assign(this, fields);
       }
       /** Create a link to a specific file. */
       static file(path, embed = false, display) {
-        return new Link({
+        return new _Link({
           path,
           embed,
           display,
@@ -6895,16 +6895,16 @@ var require_lib = __commonJS({
       static infer(linkpath, embed = false, display) {
         if (linkpath.includes("#^")) {
           let split = linkpath.split("#^");
-          return Link.block(split[0], split[1], embed, display);
+          return _Link.block(split[0], split[1], embed, display);
         } else if (linkpath.includes("#")) {
           let split = linkpath.split("#");
-          return Link.header(split[0], split[1], embed, display);
+          return _Link.header(split[0], split[1], embed, display);
         } else
-          return Link.file(linkpath, embed, display);
+          return _Link.file(linkpath, embed, display);
       }
       /** Create a link to a specific file and header in that file. */
       static header(path, header, embed, display) {
-        return new Link({
+        return new _Link({
           path,
           embed,
           display,
@@ -6914,7 +6914,7 @@ var require_lib = __commonJS({
       }
       /** Create a link to a specific file and block in that file. */
       static block(path, blockId, embed, display) {
-        return new Link({
+        return new _Link({
           path,
           embed,
           display,
@@ -6923,7 +6923,7 @@ var require_lib = __commonJS({
         });
       }
       static fromObject(object) {
-        return new Link(object);
+        return new _Link(object);
       }
       /** Checks for link equality (i.e., that the links are pointing to the same exact location). */
       equals(other) {
@@ -6942,26 +6942,26 @@ var require_lib = __commonJS({
       /** Update this link with a new path. */
       //@ts-ignore; error appeared after updating Obsidian to 0.15.4; it also updated other packages but didn't say which
       withPath(path) {
-        return new Link(Object.assign({}, this, { path }));
+        return new _Link(Object.assign({}, this, { path }));
       }
       /** Return a new link which points to the same location but with a new display value. */
       withDisplay(display) {
-        return new Link(Object.assign({}, this, { display }));
+        return new _Link(Object.assign({}, this, { display }));
       }
       /** Convert a file link into a link to a specific header. */
       withHeader(header) {
-        return Link.header(this.path, header, this.embed, this.display);
+        return _Link.header(this.path, header, this.embed, this.display);
       }
       /** Convert any link into a link to its file. */
       toFile() {
-        return Link.file(this.path, this.embed, this.display);
+        return _Link.file(this.path, this.embed, this.display);
       }
       /** Convert this link into an embedded link. */
       toEmbed() {
         if (this.embed) {
           return this;
         } else {
-          let link = new Link(this);
+          let link = new _Link(this);
           link.embed = true;
           return link;
         }
@@ -6971,7 +6971,7 @@ var require_lib = __commonJS({
         if (!this.embed) {
           return this;
         } else {
-          let link = new Link(this);
+          let link = new _Link(this);
           link.embed = false;
           return link;
         }
@@ -10393,18 +10393,18 @@ function insertTagInMathText(text, tagContent, lineByLine) {
   if (lineByLine) {
     const alignResult = text.match(/^\s*\\begin\{align\}([\s\S]*)\\end\{align\}\s*$/);
     if (alignResult) {
-      let taggedText = "";
+      let alignContent = alignResult[1].split("\n").map((line) => {
+        const commentMatch = line.match(/(?<!\\)\%/);
+        return (commentMatch == null ? void 0 : commentMatch.index) !== void 0 ? line.substring(0, commentMatch.index) : line;
+      }).join("\n");
       let index = 1;
-      for (const line of alignResult[1].split("\\\\")) {
-        if (line.trim()) {
-          taggedText += line.contains("\\nonumber") ? line : line.trim() + `\\tag{${tagContent}-${index++}}`;
-          taggedText += "\\\\";
-        }
-      }
-      return "\\begin{align}" + taggedText + "\\end{align}";
+      alignContent = alignContent.split("\\\\").map(
+        (alignLine) => !alignLine.trim() || alignLine.contains("\\nonumber") ? alignLine : alignLine + `\\tag{${tagContent}-${index++}}`
+      ).join("\\\\");
+      return "\\begin{align}" + alignContent + "\\end{align}";
     }
   }
-  return text.replace(/[\n\r]/g, " ") + `\\tag{${tagContent}}`;
+  return text + `\\tag{${tagContent}}`;
 }
 function replaceMathTag(displayMathEl, text, tag, settings) {
   const tagMatch = text.match(/\\tag\{.*\}/);
@@ -11003,7 +11003,7 @@ var ProofProcessor = (app2, plugin, element, context) => {
     }
   }
 };
-var ProofWidget = class extends import_view5.WidgetType {
+var ProofWidget = class _ProofWidget extends import_view5.WidgetType {
   constructor(which, pos, profile, sourcePath, plugin) {
     super();
     this.which = which;
@@ -11017,7 +11017,7 @@ var ProofWidget = class extends import_view5.WidgetType {
       const el = createSpan({ cls: makeProofClasses(this.which, this.profile) });
       const display = this.pos.linktext ? `${this.profile.body.proof.linkedBeginPrefix} [[${this.pos.linktext}]]${this.profile.body.proof.linkedBeginSuffix}` : this.pos.display;
       if (display) {
-        ProofWidget.renderDisplay(el, display, this.sourcePath, this.plugin);
+        _ProofWidget.renderDisplay(el, display, this.sourcePath, this.plugin);
         return el;
       }
     }
