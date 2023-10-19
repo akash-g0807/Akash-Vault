@@ -11,9 +11,32 @@
             "id": "258057401c410a60",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc8dba9bdbd87fbd",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Classical Dynamics Lecture 6.md"
+                "file": "Excalidraw/Drawing 2023-10-19 16.18.29.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "58604947d44b23b1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md"
               }
             }
           },
@@ -27,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,6 +121,16 @@
           "type": "mk-file-view",
           "state": {}
         }
+      },
+      {
+        "id": "6b5accd6b3dcda24",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
       }
     ],
     "currentTab": 0
@@ -111,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Lecture 6.md",
+            "file": "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Lecture 6.md",
+            "file": "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -140,7 +174,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Classical Dynamics Lecture 6.md"
+            "file": "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md"
           }
         }
       },
@@ -173,6 +207,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
+      "workspaces:Manage workspace layouts": false,
       "terminal:Open terminal": false,
       "dbfolder:Create a new database table": false,
       "obsidian-full-calendar:Open Full Calendar": false,
@@ -189,12 +225,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "258057401c410a60",
+  "active": "58604947d44b23b1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-19 16.18.29.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md",
+    "HOME.md",
     "University/Semester 1/Classical Dynamics/Classical Dynamics Lectures/Classical Dynamics Lecture 5.md",
     "Excalidraw/Classical Dynamics Lecture 6.md",
     "Excalidraw/Drawing 2023-10-12 16.02.24.excalidraw.md",
-    "HOME.md",
     "Context/spacesLastSync.log",
     "University/Properties off Center of Mass.md",
     "University/Gravitational Force.md",
@@ -216,8 +254,6 @@
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md",
     "University/Semester 1/Vector & Complex Calculus/Problem Sheets/Assignments/Vector Calculus Assignment 2.md",
     "University/Collection of Particles.md",
-    "University/Disjoint Union Property for Interior, Exterior and Boundary Points.md",
-    "Journal/Daily/2023-10-15.md",
     "Vector calculus assignment 1.pdf",
     "Metric spaces problem sheet.pdf",
     "solution.pdf"
