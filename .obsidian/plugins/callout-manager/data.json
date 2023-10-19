@@ -1,7 +1,41 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "fact"
+    ],
+    "settings": {
+      "Fact": [
+        {
+          "changes": {
+            "icon": "lucide-zap"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "19, 216, 32"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "19, 216, 32"
+          }
+        }
+      ],
+      "fact": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "93, 253, 8"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,

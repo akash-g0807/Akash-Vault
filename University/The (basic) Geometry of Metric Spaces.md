@@ -11,6 +11,10 @@ Here we discuss the geometry of distance functions and define terms like **open 
 
 ### 4. [[Relation between Open and Closed Sets]]
 
+### 5. [[Describing Open Sets using Interior Points]]
+
+### 6. [[Open Ball is an Open Set]]
+
 # Backlinks
 ---
 - [[Metric Spaces - MAT00037H Outline]]

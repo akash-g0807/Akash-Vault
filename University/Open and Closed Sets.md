@@ -45,6 +45,7 @@ A set that is *BOTH* **open AND closed** is called a **clopen** set.
 ---
 - [[Examples of Open and Closed Sets]]
 - [[Examples of Open and Closed Sets on Subspaces]]
+- [[Describing Open Sets using Interior Points]]
 
 # Backlinks
 ---

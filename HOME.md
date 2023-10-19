@@ -3,7 +3,7 @@ cssclasses:
   - dashboard
 banner: "![[ken-cheung-KonWFWUaAuk-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0.552
+banner_y: 0.572
 ---
 <div class="title" style="color:Sienna">HOME</div>
 

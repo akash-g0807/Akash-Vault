@@ -22,5 +22,7 @@
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-decoration-toggle": true,
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
-  "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 0
+  "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 0,
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sapphire",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": false
 }
