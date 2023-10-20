@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99569f48101077e1",
+            "id": "7735953cd4d54ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
+                "file": "University/Closure of a set.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5d297a74c6212ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/Properties of Topology on Metric Spaces.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -21,7 +34,7 @@
             }
           },
           {
-            "id": "3fdb25544eb987bd",
+            "id": "aafb6cf669ae3765",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,16 +43,6 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7735953cd4d54ec6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md"
               }
             }
           }
@@ -58,8 +61,19 @@
                 "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 5 part 2.md"
               }
             }
+          },
+          {
+            "id": "8b40c7373edf3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5,
+    "width": 567,
     "collapsed": true
   },
   "right": {
@@ -129,12 +143,28 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3d77320463417f99",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-month",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f3a44cd9f21b602",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {}
+            }
+          },
+          {
             "id": "8833707e6daf7dc3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
+                "file": "University/Closure of a set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
+                "file": "University/Closure of a set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md"
+                "file": "University/Closure of a set.md"
               }
             }
           },
@@ -212,7 +242,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,29 +269,33 @@
       "sync-google-calendar:Sync Google Calendar": false,
       "obsidian-matrix:Obsidian Matrix": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "99569f48101077e1",
+  "active": "7735953cd4d54ec6",
   "lastOpenFiles": [
-    "University/Semester 1/Metric Spaces/Topology on Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Definition of Topology on Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "University/The (basic) Geometry of Metric Spaces.md",
+    "University/Closure of a set.md",
+    "University/Properties of Topology on Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/Topology on Metric Spaces.md",
+    "University/Collections of Closed Sets.md",
+    "University/Open and Closed Sets.md",
+    "HOME.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
+    "University/Properties off Center of Mass.md",
+    "University/Definition of Topology on Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 5 part 2.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
     "University/Open Set as Union of Open Balls.md",
     "University/Open Ball is an Open Set.md",
     "University/Describing Open Sets using Interior Points.md",
     "University/Interior and Exterior and Boundary Points.md",
     "University/Relation between Open and Closed Sets.md",
-    "University/Open and Closed Sets.md",
     "University/Open and Closed Balls.md",
     "University/Open Balls in Analysis.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 5 part 2.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md",
-    "HOME.md",
     "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md",
     "University/Open Ball is Open Set Proof light.svg",
     "University/Open Ball is Open Set proof dark.svg",
@@ -268,9 +303,6 @@
     "Excalidraw/Drawing 2023-10-07 22.51.14.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 16.02.24.excalidraw.md",
     "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-19 16.18.29.excalidraw.md",
-    "TODO.md",
-    "University/Examples of Open and Closed Sets.md",
     "University/Untitled Diagram.svg",
     "University/subspace.svg",
     "Vector calculus assignment 1.pdf",

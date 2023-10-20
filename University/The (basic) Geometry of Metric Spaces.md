@@ -17,6 +17,8 @@ Here we discuss the geometry of distance functions and define terms like **open 
 
 ### 7. [[Open Set as Union of Open Balls]]
 
+### 8. [[Closure of a set]]
+
 
 # Backlinks
 ---

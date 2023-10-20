@@ -25,6 +25,7 @@ banner_y: 0.572
 	- [[Classical Dynamics - MAT00048I]]
 	- [[Metric Spaces - MAT00037H]]
 	- [[Vector & Complex Calculus - MAT00047I]]
+	- [[study tips]]
 - 📖 Assignments 
 	- [[Assignment Page]]
 	- [[Classical Dynamics Assignments]]
@@ -43,4 +44,4 @@ banner_y: 0.572
  `$=dv.list(dv.pages('#favorite').sort(f=>f.file.name,"desc").limit(4).file.link)`
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
-	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
+	-  Personal recipes: `$=dv.pages('"Cooking/Recipes"').length`

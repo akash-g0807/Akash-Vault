@@ -11,6 +11,11 @@ So the topology of a [[General Definition of Metric Spaces|metric space]] $T_d$ 
 >$$T_{d}\subseteq \mathbb{P}(x)$$
 >where $\mathbb{P}$ is the **[[Power Set]]**
 
+## Further Notes
+---
+We have defined the **topology** on [[Open and Closed Sets|open sets]], but we can also try and definite for [[Open and Closed Sets#^5a4f54|closed sets]].
+- [[Collections of Closed Sets]]
+
 # Backlinks
 ---
 - [[Topology on Metric Spaces]]
