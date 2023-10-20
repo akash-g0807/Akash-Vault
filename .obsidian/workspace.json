@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "df324cb93d282d8a",
+        "id": "c273712d97a63b63",
         "type": "tabs",
-        "dimension": 44.5945945945946,
         "children": [
           {
-            "id": "76ca18046a1711af",
+            "id": "99569f48101077e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Open Ball is an Open Set.md",
-                "mode": "source",
+                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "47f0f15a43a75214",
+            "id": "3fdb25544eb987bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,16 +32,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7735953cd4d54ec6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md"
+              }
+            }
           }
         ]
       },
       {
-        "id": "c273712d97a63b63",
+        "id": "cc581682ceb59119",
         "type": "tabs",
-        "dimension": 55.4054054054054,
         "children": [
           {
-            "id": "47a6bc371256f588",
+            "id": "b236aaf719c2f541",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -126,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University/Open Ball is an Open Set.md",
+                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University/Open Ball is an Open Set.md",
+                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University/Open Ball is an Open Set.md"
+                "file": "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md"
               }
             }
           },
@@ -229,38 +237,40 @@
       "templater-obsidian:Templater": false,
       "sync-google-calendar:Sync Google Calendar": false,
       "obsidian-matrix:Obsidian Matrix": false,
-      "periodic-notes:Open today": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "76ca18046a1711af",
+  "active": "99569f48101077e1",
   "lastOpenFiles": [
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 5 part 2.md",
-    "University/Open Ball is an Open Set.md",
-    "University/The (basic) Geometry of Metric Spaces.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
     "University/Semester 1/Metric Spaces/Topology on Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Definition of Topology on Metric Spaces.md",
+    "University/Semester 1/Metric Spaces/Properties of Topology on Metric Spaces.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces - MAT00037H Lectures.md",
-    "TODO.md",
-    "University/Relation between Open and Closed Sets.md",
-    "University/Describing Open Sets using Interior Points.md",
-    "University/Open and Closed Sets.md",
-    "University/Examples of Open and Closed Sets.md",
-    "University/General Definition of Metric Spaces.md",
-    "University/Open and Closed Balls.md",
-    "University/Interior and Exterior and Boundary Points.md",
-    "University/Subspaces and Equivalence of Metric Spaces.md",
     "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H.md",
-    "HOME.md",
-    "University/Semester 1/Classical Dynamics/Classical Dynamics - MAT00048I.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 5 part 1.md",
-    "University/Untitled.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 4.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces - MAT00037H Outline.md",
+    "University/The (basic) Geometry of Metric Spaces.md",
+    "University/Open Set as Union of Open Balls.md",
+    "University/Open Ball is an Open Set.md",
+    "University/Describing Open Sets using Interior Points.md",
+    "University/Interior and Exterior and Boundary Points.md",
+    "University/Relation between Open and Closed Sets.md",
+    "University/Open and Closed Sets.md",
+    "University/Open and Closed Balls.md",
+    "University/Open Balls in Analysis.md",
+    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Space Lecture 5 part 2.md",
     "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 6.md",
-    "University/Potential and Conservation.md",
-    "University/Boundary of a set and its complement.md",
-    "Action Dashboard.md",
-    "University/Semester 1/Metric Spaces/Metric Spaces Lectures/Metric Spaces Lecture 3.md",
+    "HOME.md",
+    "Excalidraw/Drawing 2023-10-19 16.18.29_0.excalidraw.md",
+    "University/Open Ball is Open Set Proof light.svg",
+    "University/Open Ball is Open Set proof dark.svg",
+    "Excalidraw/Drawing 2023-10-02 13.32.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-07 22.51.14.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 16.02.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-12 16.02.25.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-19 16.18.29.excalidraw.md",
+    "TODO.md",
+    "University/Examples of Open and Closed Sets.md",
     "University/Untitled Diagram.svg",
     "University/subspace.svg",
     "Vector calculus assignment 1.pdf",
@@ -279,8 +289,6 @@
     "University/Open Sets Diagram.svg",
     "University/Pasted image 20230927163933.png",
     "University/Pasted image 20230929191527.png",
-    "University/Triple Vector Product proof.svg",
-    "Semester 1/Classical Dynamics/Untitled Diagram.svg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

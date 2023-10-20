@@ -15,6 +15,9 @@ Here we discuss the geometry of distance functions and define terms like **open 
 
 ### 6. [[Open Ball is an Open Set]]
 
+### 7. [[Open Set as Union of Open Balls]]
+
+
 # Backlinks
 ---
 - [[Metric Spaces - MAT00037H Outline]]
