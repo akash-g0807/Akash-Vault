@@ -8,7 +8,7 @@ $$\begin{split}
 &= \epsilon_{pqr}\ a_{q} \ \epsilon_{ruv}\ b_{u}\ c_{v} \\ \\  
 \end{split}$$
 Here we use the [[Properties of Kronecker-Delta and Levi-Civita| identity]]:
-$$\epsilon_{pqr}\epsilon_{ruv} = (\delta_{pu}\delta_{qv} - \delta_{pv}\delta_{qu})$$We get the following:
+$$1$$We get the following:
 $$\begin{split}
 [\underline{a} \times (\underline{b} \times \underline{c})]_{p} &= (\delta_{pu}\delta_{qv} - \delta_{pv}\delta_{qu})a_{q}b_{u}c_{v} \end{split}$$
 

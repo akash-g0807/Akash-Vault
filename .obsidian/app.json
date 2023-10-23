@@ -17,5 +17,5 @@
   "userIgnoreFilters": [
     "Templates/"
   ],
-  "vimMode": true
+  "vimMode": false
 }

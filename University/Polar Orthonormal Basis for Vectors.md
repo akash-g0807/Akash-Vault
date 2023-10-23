@@ -1,7 +1,7 @@
 # Polar Orthonormal Basis Vectors
 ---
 
-[[Unit Vector|Unit Vectors]] $\underline{e_{\theta}}$ and $\underline{e_r}$ form the [[Orthonormal Basis for Vectors|orthonormal basis]] for  the [[The Polar Co-Ordinate System|polar co-ordinate system]]. Furthermore, the unit vectors $\underline{e_r}$ and $\underline{e_{\theta}}$ can be represented using **cartesian basis vectors** $\underline{i}$ and $\underline{j}$
+[[Unit Vector|Unit Vectors]] $\underline{e_{\theta}}$ and $\underline{e_r}$ Furthermore, the unit vectors $\underline{e_r}$ and $\underline{e_{\theta}}$ can be represented using **cartesian basis vectors** $\underline{i}$ and $\underline{j}$
 
 ```tikz
 \begin{document}

@@ -1,4 +1,4 @@
-# Angular Momentum
+**# Angular Momentum
 ---
 Consider the following diagram:
 ```tikz
@@ -73,7 +73,7 @@ $$\begin{align*} \underline{\dot{J}} = \underline{r} \times \underline{F} &= f(\
 And therefore **angular momentum is conserved**
 
 > [!note]+ Conservation of Angular Momentum
-> If a force $\underline{F}$ is proportional to $\underline{r}$, i.e. 
+> If a force $\underline{F}$ is *proportional* to $\underline{r}$, i.e. 
 > $$\underline{F}=f(\underline{r})$$
 > then angular momentum is conserved:
 > $$\underline{\dot{J}} = 0$$

@@ -38,7 +38,7 @@ $$g = \frac{Gm_{\text{earth}}}{R^{2}_{\text{earth}}} \approx 9.8 m/s^{2}$$
 
 Hence *near* the, [[Newton's Equation of Motion]] becomes:
 $$\begin{aligned} m\underline{\ddot{r}} = -mg\underline{k} &\Rightarrow \underline{\ddot{r}} = -mg\underline{k} \end{aligned}$$
-i.e gravitational acceleration **independent of the mass**.
+i.e gravitational acceleration  is **independent of the mass**.
 
 # Backlinks
 ---
